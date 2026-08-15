@@ -1,0 +1,134 @@
+{
+  "generatedAt": "2026-08-15T16:10:59.797591+00:00",
+  "label": "Weekly Stack Review",
+  "episodeLength": 4,
+  "topStory": {
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "description": "\"Flamingo missiles were used. A good achievement.\"",
+    "source": "Ars Technica",
+    "language": "en",
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
+  },
+  "stories": [
+    {
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "description": "\"Flamingo missiles were used. A good achievement.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+      "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+      "description": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star War",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+      "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+      "description": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka, plus a special look at Star ",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Znáte Oswalda? Disney po 80 letech získalo práva na původní dílo svého zakladatele, chystá o něm seriál",
+      "url": "https://cc.cz/adam-driver-jako-magneto-z-x-menu-pohadka-o-blate-a-kopec-pokracovani-disney-ukazalo-co-vsechno-ted-chysta/",
+      "description": "Čeká nás třetí Ledové království i Zootropolis, pokračování Coco a Lilo a Stitche i hrané Na vlásku. A Avengers: Doomsday mají nový trailer. Článek Znáte Oswalda? Disney po 80 letech získalo práva na původní dílo svého zakladatele, chystá o něm seriál se nejdříve objevil na Czech",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "description": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "description": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from ",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Nejstylovější auto roku? Takto vypadá exkluzivní Porsche 911, za nímž stojí Louis Vuitton",
+      "url": "https://cc.cz/nejstylovejsi-auto-roku-takto-vypada-exkluzivni-porsche-911-za-nimz-stoji-louis-vuitton/",
+      "description": "Kalifornský ateliér Singer se spojil se slavným módním domem, aby spolu předělaly dvojici kultovních „devětsetjedenáctek“. A výsledek je úchvatný. Článek Nejstylovější auto roku? Takto vypadá exkluzivní Porsche 911, za nímž stojí Louis Vuitton se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    }
+  ],
+  "curiosity": {
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "description": "Comments",
+    "source": "Hacker News",
+    "language": "en",
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
+  },
+  "stackNote": "Starter focus: AI, software, automation, APIs, security, cloud and data. Replace these with your real working stack when you are ready."
+}

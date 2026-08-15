@@ -15,6 +15,11 @@
         <time id="brief-date">Today</time>
       </header>
 
+      <nav class="brief-modes" aria-label="Brief type">
+        <button class="brief-mode active" data-mode="daily">Daily Work Radar</button>
+        <button class="brief-mode" data-mode="weekly">Weekly Stack Review</button>
+      </nav>
+
       <section class="top-story" aria-labelledby="top-story-label">
         <p id="top-story-label" class="eyebrow">Top story</p>
         <h1 id="top-title">Loading today’s brief…</h1>
@@ -27,6 +32,13 @@
       <section aria-labelledby="latest-title">
         <div class="section-heading"><h2 id="latest-title">Latest signals</h2><span id="story-count"></span></div>
         <div id="news-list" class="news-list" aria-live="polite"></div>
+      </section>
+
+      <section id="curiosity-section" class="curiosity" aria-labelledby="curiosity-title" hidden>
+        <p class="eyebrow">Curiosity</p>
+        <h2 id="curiosity-title"></h2>
+        <p id="curiosity-description"></p>
+        <a id="curiosity-link" class="source-link" href="#">Open source <span aria-hidden="true">↗</span></a>
       </section>
 
       <section class="listen" aria-labelledby="listen-title">

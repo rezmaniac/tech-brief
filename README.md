@@ -4,10 +4,11 @@ A zero-cost daily technology news site and English audio briefing, designed for 
 
 ## What it does
 
-- Reads public RSS feeds from Ars Technica, TechCrunch, The Verge, and Hacker News.
-- Builds a mobile-first page with a Top Story and category filters.
+- Reads public RSS feeds from Ars Technica, TechCrunch, The Verge, Hacker News and CzechCrunch.
+- Builds a mobile-first page with a Top Story, Daily Work Radar, Curiosity item and category filters.
 - Produces a short English MP3 briefing using the open-source Kokoro neural voice `af_heart`.
 - Updates daily at 06:00 UTC through GitHub Actions.
+- Creates a Weekly Stack Review every Sunday at 10:00 Europe/Prague time.
 
 ## Publish it for free
 
@@ -20,4 +21,4 @@ The website will be available at `https://rezmaniac.github.io/tech-brief/`.
 
 ## Notes
 
-The audio uses Kokoro, an open-weight neural TTS model. The voice can be changed in the GitHub Action without affecting the web app.
+The audio uses Kokoro, an open-weight neural TTS model. The voice can be changed in the GitHub Action without affecting the web app. CzechCrunch stories are deliberately kept out of the English voice episode, but remain on the website.

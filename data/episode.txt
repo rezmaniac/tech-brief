@@ -1,8 +1,8 @@
-Welcome to Tech Brief. Here are the stories worth knowing today.
-Story 1. So much solar: Digging into the list of every US power plant that went online this year. Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much. Source: Ars Technica.
-Story 2. Vulnerability giving attackers full control of Macs is under active exploitation. Screen-sharing bug lets remote hackers log in without a password. Source: Ars Technica.
-Story 3. First test flight of largest all-electric aircraft used just $5 of electricity. Airline-backed venture aims to develop a hybrid-electric commercial aircraft. Source: Ars Technica.
-Story 4. Suspecting court of using AI, man injected prompts in filings to try to win case. Judge warns pro se litigants are using chatbots wrong and getting desperate. Source: Ars Technica.
-Story 5. State judge orders Kalshi to stop offering sports bets and other wagers. Kalshi ordered to stop offering bets in Washington, must implement geofencing. Source: Ars Technica.
-Story 6. PBS station fears losing 50TB of data after being ghosted by cloud storage provider. "We don't have access to the data on the hardware/servers," Iron Mountain told Ars. Source: Ars Technica.
-That was your Tech Brief. Open the website for all source links.
+Welcome to Tech Brief. Here is your daily Work Radar.
+Story 1. Ukraine strikes major Russian rocket factory with cruise missiles. "Flamingo missiles were used. A good achievement." Source: Ars Technica.
+Story 2. How to tell if your AI platforms’ accounts have been hacked. A guide on how to check if hackers have broken into your accounts on the most popular AI platforms. Source: TechCrunch.
+Story 3. Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals. As if you needed more reason to love Carly Rae Jepsen's "Call Me Maybe" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from  Source: The Verge.
+Story 4. The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis. Comments Source: Hacker News.
+Story 5. So much solar: Digging into the list of every US power plant that went online this year. Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much. Source: Ars Technica.
+Story 6. Every fusion startup that has raised over $100M. Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies. Source: TechCrunch.
+That was your Tech Brief. Open the website for all source links, including Czech stories.

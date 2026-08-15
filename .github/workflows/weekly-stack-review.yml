@@ -1,0 +1,45 @@
+name: Update weekly Stack Review
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Two UTC candidates cover Prague's CET/CEST change; the next step admits exactly 10:00 local.
+    - cron: "0 8,9 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Prague schedule
+        id: schedule
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo("Europe/Prague"))
+          print(f"run={'true' if now.weekday() == 6 and now.hour == 10 else 'false'}")
+          PY
+      - uses: actions/checkout@v4
+        if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+      - name: Build Stack Review data
+        if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        run: python3 scripts/update.py --weekly
+      - name: Generate English episode
+        if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y espeak-ng ffmpeg
+          python3 -m pip install "kokoro>=0.9.4" soundfile "misaki[en]"
+          python3 scripts/generate_audio.py data/weekly.txt /tmp/weekly.wav --voice af_heart
+          ffmpeg -y -i /tmp/weekly.wav -codec:a libmp3lame -q:a 4 data/weekly.mp3
+      - name: Commit the weekly update
+        if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/weekly.json data/weekly.txt data/weekly.mp3
+          git diff --cached --quiet || git commit -m "Update weekly Stack Review"
+          git push
