@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T16:10:58.231661+00:00",
+  "generatedAt": "2026-08-15T16:16:05.677449+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 4,
   "topStory": {
@@ -85,13 +85,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
       "title": "Umělá inteligence místo filmového štábu. Celovečerák vznikl za měsíc, herce potřebovali na dvě minuty",
@@ -130,13 +130,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
       "title": "Znáte Oswalda? Disney po 80 letech získalo práva na původní dílo svého zakladatele, chystá o něm seriál",
