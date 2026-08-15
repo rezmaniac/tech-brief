@@ -1,0 +1,5 @@
+Welcome to Tech Brief. Here are the stories worth knowing today.
+Story 1. New AI models reshape the developer toolkit. A placeholder story used until the first scheduled feed update. Source: Tech Brief.
+Story 2. Chip launch raises the bar. The first live update will replace this sample item. Source: Tech Brief.
+Story 3. Security watch: keep your dependencies current. A sample entry for the Security category. Source: Tech Brief.
+That was your Tech Brief. Open the website for all source links.

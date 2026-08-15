@@ -1,0 +1,30 @@
+name: Update daily Tech Brief
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build briefing data
+        run: python3 scripts/update.py
+      - name: Generate English episode
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y espeak-ng ffmpeg
+          espeak-ng -v en-us -s 155 -f data/episode.txt -w /tmp/today.wav
+          ffmpeg -y -i /tmp/today.wav -codec:a libmp3lame -q:a 4 data/today.mp3
+      - name: Commit the daily update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update daily brief"
+          git push

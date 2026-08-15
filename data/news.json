@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-08-15T15:36:12.877299+00:00",
+  "episodeLength": 3,
+  "topStory": {
+    "title": "New AI models reshape the developer toolkit",
+    "description": "A placeholder story used until the first scheduled feed update.",
+    "url": "https://news.ycombinator.com/",
+    "source": "Tech Brief",
+    "category": "AI"
+  },
+  "stories": [
+    {
+      "title": "New AI models reshape the developer toolkit",
+      "description": "A placeholder story used until the first scheduled feed update.",
+      "url": "https://news.ycombinator.com/",
+      "source": "Tech Brief",
+      "category": "AI"
+    },
+    {
+      "title": "Chip launch raises the bar",
+      "description": "The first live update will replace this sample item.",
+      "url": "https://arstechnica.com/",
+      "source": "Tech Brief",
+      "category": "Hardware"
+    },
+    {
+      "title": "Security watch: keep your dependencies current",
+      "description": "A sample entry for the Security category.",
+      "url": "https://www.theverge.com/",
+      "source": "Tech Brief",
+      "category": "Security"
+    }
+  ]
+}

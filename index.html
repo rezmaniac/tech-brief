@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#10262e">
+    <meta name="description" content="A calm daily briefing on technology.">
+    <title>Tech Brief</title>
+    <link rel="stylesheet" href="assets/style.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <a class="brand" href="./">● TECH BRIEF</a>
+        <time id="brief-date">Today</time>
+      </header>
+
+      <section class="top-story" aria-labelledby="top-story-label">
+        <p id="top-story-label" class="eyebrow">Top story</p>
+        <h1 id="top-title">Loading today’s brief…</h1>
+        <p id="top-description">A short selection of the technology stories that matter.</p>
+        <a id="top-link" class="source-link" href="#">Open source <span aria-hidden="true">↗</span></a>
+      </section>
+
+      <nav id="categories" class="categories" aria-label="News categories"></nav>
+
+      <section aria-labelledby="latest-title">
+        <div class="section-heading"><h2 id="latest-title">Latest signals</h2><span id="story-count"></span></div>
+        <div id="news-list" class="news-list" aria-live="polite"></div>
+      </section>
+
+      <section class="listen" aria-labelledby="listen-title">
+        <div class="listen-heading">
+          <p class="eyebrow">Now playing</p>
+          <h2 id="listen-title">Today in Tech</h2>
+          <p id="episode-meta">English voice · Daily episode</p>
+        </div>
+        <audio id="episode-audio" controls preload="metadata">
+          <source src="data/today.mp3" type="audio/mpeg">
+          Your browser does not support audio playback.
+        </audio>
+        <a class="episode-link" href="data/podcast.xml">Podcast RSS <span aria-hidden="true">↗</span></a>
+      </section>
+
+      <footer>Built from linked RSS sources. Headlines and excerpts remain the property of their publishers.</footer>
+    </main>
+    <script src="assets/app.js"></script>
+  </body>
+</html>
