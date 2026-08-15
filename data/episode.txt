@@ -1,5 +1,8 @@
 Welcome to Tech Brief. Here are the stories worth knowing today.
-Story 1. New AI models reshape the developer toolkit. A placeholder story used until the first scheduled feed update. Source: Tech Brief.
-Story 2. Chip launch raises the bar. The first live update will replace this sample item. Source: Tech Brief.
-Story 3. Security watch: keep your dependencies current. A sample entry for the Security category. Source: Tech Brief.
+Story 1. So much solar: Digging into the list of every US power plant that went online this year. Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much. Source: Ars Technica.
+Story 2. Vulnerability giving attackers full control of Macs is under active exploitation. Screen-sharing bug lets remote hackers log in without a password. Source: Ars Technica.
+Story 3. First test flight of largest all-electric aircraft used just $5 of electricity. Airline-backed venture aims to develop a hybrid-electric commercial aircraft. Source: Ars Technica.
+Story 4. Suspecting court of using AI, man injected prompts in filings to try to win case. Judge warns pro se litigants are using chatbots wrong and getting desperate. Source: Ars Technica.
+Story 5. State judge orders Kalshi to stop offering sports bets and other wagers. Kalshi ordered to stop offering bets in Washington, must implement geofencing. Source: Ars Technica.
+Story 6. PBS station fears losing 50TB of data after being ghosted by cloud storage provider. "We don't have access to the data on the hardware/servers," Iron Mountain told Ars. Source: Ars Technica.
 That was your Tech Brief. Open the website for all source links.

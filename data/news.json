@@ -1,34 +1,139 @@
 {
-  "generatedAt": "2026-08-15T15:36:12.877299+00:00",
-  "episodeLength": 3,
+  "generatedAt": "2026-08-15T15:37:33.280370+00:00",
+  "episodeLength": 4,
   "topStory": {
-    "title": "New AI models reshape the developer toolkit",
-    "description": "A placeholder story used until the first scheduled feed update.",
-    "url": "https://news.ycombinator.com/",
-    "source": "Tech Brief",
-    "category": "AI"
+    "title": "So much solar: Digging into the list of every US power plant that went online this year",
+    "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+    "description": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+    "source": "Ars Technica",
+    "category": "Dev"
   },
   "stories": [
     {
-      "title": "New AI models reshape the developer toolkit",
-      "description": "A placeholder story used until the first scheduled feed update.",
-      "url": "https://news.ycombinator.com/",
-      "source": "Tech Brief",
+      "title": "So much solar: Digging into the list of every US power plant that went online this year",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "description": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "description": "Screen-sharing bug lets remote hackers log in without a password.",
+      "source": "Ars Technica",
+      "category": "Security"
+    },
+    {
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "description": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "source": "Ars Technica",
+      "category": "Startups"
+    },
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "source": "Ars Technica",
       "category": "AI"
     },
     {
-      "title": "Chip launch raises the bar",
-      "description": "The first live update will replace this sample item.",
-      "url": "https://arstechnica.com/",
-      "source": "Tech Brief",
+      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "description": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "description": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "source": "Ars Technica",
       "category": "Hardware"
     },
     {
-      "title": "Security watch: keep your dependencies current",
-      "description": "A sample entry for the Security category.",
-      "url": "https://www.theverge.com/",
-      "source": "Tech Brief",
-      "category": "Security"
+      "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "description": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+      "description": "The Stop Killing Games movement faces an uphill battle.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "description": "Third-party app stores are about to become more visible in Google Play.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "description": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+      "url": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+      "description": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+      "source": "Ars Technica",
+      "category": "Dev"
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "source": "Ars Technica",
+      "category": "AI"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "source": "TechCrunch",
+      "category": "Startups"
+    },
+    {
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "source": "TechCrunch",
+      "category": "Dev"
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "source": "TechCrunch",
+      "category": "AI"
+    },
+    {
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "source": "TechCrunch",
+      "category": "AI"
+    },
+    {
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+      "source": "TechCrunch",
+      "category": "Dev"
+    },
+    {
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "source": "TechCrunch",
+      "category": "Dev"
     }
   ]
 }
