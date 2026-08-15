@@ -36,6 +36,13 @@ WORK_SIGNALS = {
     "Hardware": "Worth tracking if devices, compute, or procurement affect your work.",
     "Startups": "A signal about tools, vendors, or shifts in the market.",
 }
+NARRATION_LENSES = {
+    "AI": "The work lens here is adoption: look for a repeatable task, a measurable quality gain, and a clear owner before treating it as a tool change.",
+    "Dev": "The work lens here is leverage: consider whether this reduces friction in delivery, makes systems easier to operate, or removes a recurring manual step.",
+    "Security": "The work lens here is exposure: check whether any account, dependency, device, or routine you rely on needs a small defensive change this week.",
+    "Hardware": "The work lens here is timing: this may not require action today, but it can affect future capacity, cost, or equipment decisions.",
+    "Startups": "The work lens here is market signal: separate the headline from the useful question of whether a new vendor, capability, or shift is becoming real.",
+}
 CURIOUS_TERMS = ["why", "how", "research", "history", "unexpected", "behind", "first", "proč", "jak", "výzkum"]
 STACK_TERMS = ["ai", "developer", "software", "automation", "api", "security", "cloud", "data", "productivity", "workflow"]
 
@@ -68,7 +75,7 @@ def rss_items(source: str, url: str, language: str) -> list[dict]:
         description = clean(item.findtext("description") or item.findtext("{http://www.w3.org/2005/Atom}summary"))
         if title and link:
             category = category_for(title, description)
-            parsed.append({"title": title, "url": link, "description": description[:280] or "Open the original source for the full story.", "source": source, "language": language, "category": category, "workSignal": WORK_SIGNALS[category]})
+            parsed.append({"title": title, "url": link, "description": description[:480] or "Open the original source for the full story.", "source": source, "language": language, "category": category, "workSignal": WORK_SIGNALS[category]})
     return parsed
 
 
@@ -104,13 +111,22 @@ def choose_curiosity(stories: list[dict]) -> dict:
 
 
 def episode_script(stories: list[dict], weekly: bool = False) -> str:
-    english_stories = [story for story in stories if story.get("language") == "en"][:6]
-    intro = "Welcome to the Tech Brief weekly Stack Review." if weekly else "Welcome to Tech Brief. Here is your daily Work Radar."
+    english_stories = [story for story in stories if story.get("language") == "en"][:12]
+    intro = "Welcome to the Tech Brief weekly Stack Review. This is a deeper look at the technology signals that could matter for your work in the week ahead." if weekly else "Welcome to Tech Brief. This is your deeper daily Work Radar: the important technology signals, why they matter, and where they may be useful in practice."
     lines = [intro]
     for number, story in enumerate(english_stories, start=1):
-        lines.append(f"Story {number}. {story['title']}. {story['description']} Source: {story['source']}.")
-    lines.append("That was your Tech Brief. Open the website for all source links, including Czech stories.")
+        lines.append(
+            f"Signal {number}: {story['title']}. {story['description']} "
+            f"This is a {story['category']} story from {story['source']}. "
+            f"{NARRATION_LENSES[story['category']]}"
+        )
+    lines.append("That is the briefing. The website has every original source link, including the CzechCrunch stories that stay on the written radar.")
     return "\n".join(lines)
+
+
+def estimated_minutes(script: str) -> int:
+    """Estimate at a calm briefing pace of 145 words per minute."""
+    return max(4, round(len(script.split()) / 145))
 
 
 def write_podcast(stories: list[dict], generated: datetime) -> None:
@@ -144,13 +160,15 @@ def main() -> None:
     generated = datetime.now(timezone.utc)
     if args.weekly:
         ranked = sorted(stories, key=lambda story: sum(term in f"{story['title']} {story['description']}".lower() for term in STACK_TERMS), reverse=True)
-        payload = {"generatedAt": generated.isoformat(), "label": "Weekly Stack Review", "episodeLength": max(3, round(len(ranked[:6]) * 0.75)), "topStory": ranked[0], "stories": ranked[:12], "curiosity": choose_curiosity(ranked), "stackNote": "Starter focus: AI, software, automation, APIs, security, cloud and data. Replace these with your real working stack when you are ready."}
+        script = episode_script(ranked, weekly=True)
+        payload = {"generatedAt": generated.isoformat(), "label": "Weekly Stack Review", "episodeLength": estimated_minutes(script), "topStory": ranked[0], "stories": ranked[:12], "curiosity": choose_curiosity(ranked), "stackNote": "Starter focus: AI, software, automation, APIs, security, cloud and data. Replace these with your real working stack when you are ready."}
         (DATA / "weekly.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-        (DATA / "weekly.txt").write_text(episode_script(ranked, weekly=True), encoding="utf-8")
+        (DATA / "weekly.txt").write_text(script, encoding="utf-8")
         return
-    payload = {"generatedAt": generated.isoformat(), "label": "Daily Work Radar", "episodeLength": max(3, round(len(stories[:6]) * 0.75)), "topStory": stories[0], "stories": stories, "curiosity": choose_curiosity(stories)}
+    script = episode_script(stories)
+    payload = {"generatedAt": generated.isoformat(), "label": "Daily Work Radar", "episodeLength": estimated_minutes(script), "topStory": stories[0], "stories": stories, "curiosity": choose_curiosity(stories)}
     (DATA / "news.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    (DATA / "episode.txt").write_text(episode_script(stories), encoding="utf-8")
+    (DATA / "episode.txt").write_text(script, encoding="utf-8")
     write_podcast(stories, generated)
 
 

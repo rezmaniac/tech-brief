@@ -6,7 +6,7 @@ A zero-cost daily technology news site and English audio briefing, designed for 
 
 - Reads public RSS feeds from Ars Technica, TechCrunch, The Verge, Hacker News and CzechCrunch.
 - Builds a mobile-first page with a Top Story, Daily Work Radar, Curiosity item and category filters.
-- Produces a short English MP3 briefing using the open-source Kokoro neural voice `af_heart`.
+- Produces a deeper 4–8 minute English MP3 briefing using the open-source Kokoro neural voice `af_heart`.
 - Updates daily at 06:00 UTC through GitHub Actions.
 - Creates a Weekly Stack Review every Sunday at 10:00 Europe/Prague time.
 
