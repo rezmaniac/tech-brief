@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-17T06:41:07.952979+00:00",
+  "generatedAt": "2026-08-18T06:32:43.965752+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-    "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-    "description": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+    "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+    "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+    "description": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,35 @@
   },
   "stories": [
     {
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-      "description": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+      "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+      "description": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "description": "The model maker added $18 billion in annualized revenue in two months.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility […]",
+      "title": "Reddit’s AI is turning posts into podcasts and short videos",
+      "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "description": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Skvělá reklama pro Česko. Kvůli světoznámé hře se ke Kutné Hoře sjely tisíce lidí až z Filipín a Austrálie",
-      "url": "https://cc.cz/skvela-reklama-pro-cesko-kvuli-svetozname-hre-se-ke-kutne-hore-sjely-tisice-lidi-az-z-filipin-a-australie/",
-      "description": "Festival věnovaný české hře Kingdom Come: Deliverance přilákal fanoušky doslova z celého světa. A ukázal, jak tahle hra přerostla herní svět. Článek Skvělá reklama pro Česko. Kvůli světoznámé hře se ke Kutné Hoře sjely tisíce lidí až z Filipín a Austrálie se nejdříve objevil na CzechCrunch .",
+      "title": "Za miliardy prodali Rouvy, restartují Groupon a teď si Barta a spol. jdou půjčit od českých střádalů",
+      "url": "https://cc.cz/za-miliardy-prodali-rouvy-restartuji-groupon-a-ted-si-barta-a-spol-jdou-pujcit-od-ceskych-stradalu/",
+      "description": "Skupina Pale Fire Capital vydává druhou emisi dluhopisů. Za pět let chce do private equity nalít 400 milionů eur z vlastních peněz. Článek Za miliardy prodali Rouvy, restartují Groupon a teď si Barta a spol. jdou půjčit od českých střádalů se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "description": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+      "description": "Again, the CDC did not publish a full report and instead simply put the data online.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
-      "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-      "description": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, […]",
+      "title": "ABC’s livestreamed news show is powered by trending topics",
+      "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "description": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on both Disney Plus and […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Měli druhý nejlepší rok v historii, přesto propouštěli. Nesvádíme to na AI, říká šéf miliardového Trezoru",
-      "url": "https://cc.cz/meli-druhy-nejlepsi-rok-v-historii-presto-propousteli-nesvadime-to-na-ai-rika-sef-miliardoveho-trezoru/",
-      "description": "Šéf české kryptopeněženky Trezor Matěj Žák popisuje, jak na firmu dopadá cena bitcoinu, nástup umělé inteligence a co plánuje v dalších letech. Článek Měli druhý nejlepší rok v historii, přesto propouštěli. Nesvádíme to na AI, říká šéf miliardového Trezoru se nejdříve objevil na CzechCrunch .",
+      "title": "Pád influencerského nápoje Prime. Prodeje jsou na dně, firma se topí v dluzích a mažou ho i české obchody",
+      "url": "https://cc.cz/pad-influencerskeho-napoje-prime-prodeje-jsou-na-dne-firma-se-topi-v-dluzich-a-mazou-ho-i-ceske-obchody/",
+      "description": "Problémy v Americe, problémy ve Velké Británii, problémy v Austrálii. A když děti půjdou do českého obchodu, tak si toto pití už jen tak nepořídí. Článek Pád influencerského nápoje Prime. Prodeje jsou na dně, firma se topí v dluzích a mažou ho i české obchody se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "description": "\"Flamingo missiles were used. A good achievement.\"",
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "description": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+      "description": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Amazon is trying to crush class-action suits before they get started",
-      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-      "description": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would […]",
+      "title": "This compact Glorious mechanical keyboard is just $35",
+      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+      "description": "Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot for $34.99 (usually $139.99) by entering the coupon code WOOTGAMING at checkout, and first-time Woot customers will get an […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,36 +139,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jak se tělocvikář dostal do Karlína a otevřel tam posilovnu plnou děr. Železná koule má třetí pobočku",
-      "url": "https://cc.cz/jak-se-telocvikar-dostal-do-karlina-a-otevrel-tam-posilovnu-plnou-der-zelezna-koule-ma-treti-pobocku/",
-      "description": "Populární síť je teď v Praze na třech adresách. Její zakladatel Michal „Radar“ Vrátný ji teď rozšiřuje i do moderních areálů. Článek Jak se tělocvikář dostal do Karlína a otevřel tam posilovnu plnou děr. Železná koule má třetí pobočku se nejdříve objevil na CzechCrunch .",
+      "title": "Češka našla způsob, jak mluvit se zvířaty a zachraňovat jejich životy. Ocenění má i od švédského krále",
+      "url": "https://cc.cz/ceska-nasla-zpusob-jak-mluvit-se-zviraty-a-zachranovat-jejich-zivoty-oceneni-ma-i-od-svedskeho-krale/",
+      "description": "Sára Nožková žila přes deset let ve Švédsku, odkud rozběhla vlastní startup Flox Intelligence. Jeho systémy dokážou „mluvit“ s 27 druhy zvířat. Článek Češka našla způsob, jak mluvit se zvířaty a zachraňovat jejich životy. Ocenění má i od švédského krále se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "So much solar: Digging into the list of every US power plant that went online this year",
-      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-      "description": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+      "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+      "description": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
+      "title": "Wordle meets Clippy in this new word game",
+      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
+      "description": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be done in the […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,12 +176,12 @@
     }
   ],
   "curiosity": {
-    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
-    "source": "The Verge",
-    "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "title": "Češka našla způsob, jak mluvit se zvířaty a zachraňovat jejich životy. Ocenění má i od švédského krále",
+    "url": "https://cc.cz/ceska-nasla-zpusob-jak-mluvit-se-zviraty-a-zachranovat-jejich-zivoty-oceneni-ma-i-od-svedskeho-krale/",
+    "description": "Sára Nožková žila přes deset let ve Švédsku, odkud rozběhla vlastní startup Flox Intelligence. Jeho systémy dokážou „mluvit“ s 27 druhy zvířat. Článek Češka našla způsob, jak mluvit se zvířaty a zachraňovat jejich životy. Ocenění má i od švédského krále se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
+    "category": "Startups",
+    "workSignal": "A signal about tools, vendors, or shifts in the market."
   }
 }
