@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-16T08:17:26.276550+00:00",
+  "generatedAt": "2026-08-23T08:18:55.396441+00:00",
   "label": "Weekly Stack Review",
   "episodeLength": 6,
   "topStory": {
-    "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-    "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-    "description": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+    "title": "Putting mice into hibernation causes a major loss of synapses",
+    "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+    "description": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,122 +13,122 @@
   },
   "stories": [
     {
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "description": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "description": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
-      "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
-      "description": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Jak bude Claude označovat generované texty? Nálepku AI dostanou, i když jen překládá nebo opravuje",
-      "url": "https://cc.cz/jak-bude-claude-oznacovat-generovane-texty-nalepku-ai-dostanou-i-kdyz-jen-preklada-nebo-opravuje/",
-      "description": "Společnost Anthropic vysvětlila, jak bude fungovat vodoznak přidávaný do generovaných textů. Reaguje tím na otázky, které tento krok vyvolal. Článek Jak bude Claude označovat generované texty? Nálepku AI dostanou, i když jen překládá nebo opravuje se nejdříve objevil na CzechCrunch .",
+      "title": "Koupil Niceboy a vkročil do první byznysové ligy. Ptali se, jestli jsme se nezbláznili, říká exministr",
+      "url": "https://cc.cz/koupil-niceboy-a-vkrocil-do-prvni-byznysove-ligy-ptali-se-jestli-jsme-se-nezblaznili-rika-exministr/",
+      "description": "Zakladatel skupiny Anacot Capital a místopředseda ODS Pavel Drobil v podcastu Money Maker popsal, jak přemýšlí v byznysu i v politice. Článek Koupil Niceboy a vkročil do první byznysové ligy. Ptali se, jestli jsme se nezbláznili, říká exministr se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "description": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "source": "TechCrunch",
+      "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "description": "\"Flamingo missiles were used. A good achievement.\"",
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "description": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Meta sídlí v Irsku kvůli nízkým daním. Mark Zuckerberg si tam teď koupil 200 let starý zámek",
+      "url": "https://cc.cz/meta-sidli-v-irsku-kvuli-nizkym-danim-mark-zuckerberg-si-tam-ted-koupil-200-let-stary-zamek/",
+      "description": "Irský venkov má v oblibě řada bohatých lidí. Rodinná sídla si tam pořídil i James Dyson nebo zakladatel služby Stripe. Článek Meta sídlí v Irsku kvůli nízkým daním. Mark Zuckerberg si tam teď koupil 200 let starý zámek se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "description": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "description": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as […]",
+      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+      "description": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-      "url": "https://github.com/jitpass/jit",
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
       "description": "Comments",
       "source": "Hacker News",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
-      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
-      "description": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "Za každou korunu pro chudé posíláme dvě bohatým. Ekonomka Koscielniak o daních, jež Česko táhnou ke dnu",
-    "url": "https://cc.cz/za-kazdou-korunu-pro-chude-posilame-dve-bohatym-ekonomka-koscielniak-o-danich-jez-cesko-tahnou-ke-dnu/",
-    "description": "Ekonomka Markéta Koscielniak z Centra veřejných financí byla hostem podcastu Money Maker. Hovořila o tom, jak zreformovat české daně. Článek Za každou korunu pro chudé posíláme dvě bohatým. Ekonomka Koscielniak o daních, jež Česko táhnou ke dnu se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+    "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+    "source": "TechCrunch",
+    "language": "en",
+    "category": "Startups",
+    "workSignal": "A signal about tools, vendors, or shifts in the market."
   },
   "stackNote": "Starter focus: AI, software, automation, APIs, security, cloud and data. Replace these with your real working stack when you are ready."
 }
