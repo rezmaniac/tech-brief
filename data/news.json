@@ -1,17 +1,107 @@
 {
-  "generatedAt": "2026-08-23T06:30:18.173953+00:00",
+  "generatedAt": "2026-08-24T06:43:17.721076+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Putting mice into hibernation causes a major loss of synapses",
-    "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-    "description": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "description": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "description": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "České sklo z Barbie a Bridget Jonesové míří do USA. Značka Lukáše Klimčáka už vyrostla přes 60 milionů",
+      "url": "https://cc.cz/ceske-sklo-z-barbie-a-bridget-jonesove-miri-do-usa-znacka-lukase-klimcaka-uz-vyrostla-pres-60-milionu/",
+      "description": "Značka Klimchi chce po Hollywoodu dobýt také americké obchody. Sklárna ze severu Čech otevírá pobočku v USA a plánuje tam rychle růst. Článek České sklo z Barbie a Bridget Jonesové míří do USA. Značka Lukáše Klimčáka už vyrostla přes 60 milionů se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Volcanoes that made history",
+      "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+      "description": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "description": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Nakupujete na Vintedu? Ani jeho AI vás neochrání před padělky. Takto je odhalíte za pár minut",
+      "url": "https://cc.cz/nakupujete-na-vintedu-ani-jeho-ai-vas-neochrani-pred-padelky-takto-je-odhalite-za-par-minut/",
+      "description": "Automatizované kontrolní mechanismy nejsou 100% zárukou pravosti produktů. Vinted proti padělkům bojuje, ale pořád je třeba zapojit mozek. Článek Nakupujete na Vintedu? Ani jeho AI vás neochrání před padělky. Takto je odhalíte za pár minut se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
     {
       "title": "Putting mice into hibernation causes a major loss of synapses",
       "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
@@ -22,26 +112,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-      "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Doodle generative compositions in your browser with Musical Spirograph",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "description": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to […]",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago, fans […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,9 +139,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta sídlí v Irsku kvůli nízkým daním. Mark Zuckerberg si tam teď koupil 200 let starý zámek",
-      "url": "https://cc.cz/meta-sidli-v-irsku-kvuli-nizkym-danim-mark-zuckerberg-si-tam-ted-koupil-200-let-stary-zamek/",
-      "description": "Irský venkov má v oblibě řada bohatých lidí. Rodinná sídla si tam pořídil i James Dyson nebo zakladatel služby Stripe. Článek Meta sídlí v Irsku kvůli nízkým daním. Mark Zuckerberg si tam teď koupil 200 let starý zámek se nejdříve objevil na CzechCrunch .",
+      "title": "Ročně investujeme miliardu, 10x víc než před prodejem, říká šéf Zásilkovny. V rychlosti se blíží Alze",
+      "url": "https://cc.cz/rocne-investujeme-miliardu-10x-vic-nez-pred-prodejem-rika-sef-zasilkovny-v-rychlosti-se-blizi-alze/",
+      "description": "Do pěti let od svého nástupu má Erich Čomor zdvojnásobit byznys Zásilkovny. Teď je v polovině cesty. „Cíl platí a splníme ho,“ říká v rozhovoru. Článek Ročně investujeme miliardu, 10x víc než před prodejem, říká šéf Zásilkovny. V rychlosti se blíží Alze se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,121 +157,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-      "description": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Koupil Niceboy a vkročil do první byznysové ligy. Ptali se, jestli jsme se nezbláznili, říká exministr",
-      "url": "https://cc.cz/koupil-niceboy-a-vkrocil-do-prvni-byznysove-ligy-ptali-se-jestli-jsme-se-nezblaznili-rika-exministr/",
-      "description": "Zakladatel skupiny Anacot Capital a místopředseda ODS Pavel Drobil v podcastu Money Maker popsal, jak přemýšlí v byznysu i v politice. Článek Koupil Niceboy a vkročil do první byznysové ligy. Ptali se, jestli jsme se nezbláznili, říká exministr se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Trump's space transportation policy calls for new spaceport on federal land",
-      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-      "description": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "description": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Český biolog spojuje mravence a slavné hry. Na živobytí si nevydělám, ale zájem lidí mě zaskočil, říká",
-      "url": "https://cc.cz/na-zivobyti-si-nevydelam-ale-zajem-lidi-me-zaskocil-cesky-biolog-tvori-hru-inspirovanou-vedou/",
-      "description": "Tomáš Větrovský zkoumá houby a bakterie v Akademii věd, řeší jejich DNA a od malička ho fascinují mravenci. Vědecký zápal teď mění na videohru. Článek Český biolog spojuje mravence a slavné hry. Na živobytí si nevydělám, ale zájem lidí mě zaskočil, říká se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Thunder + fiber-optic cabling used for seismic imaging",
-      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-      "description": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "description": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "description": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "source": "TechCrunch",
+    "title": "How I find problems to solve as a staff engineer",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "description": "Comments",
+    "source": "Hacker News",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
