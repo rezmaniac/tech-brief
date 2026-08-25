@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-24T06:43:17.721076+00:00",
+  "generatedAt": "2026-08-25T06:36:13.753729+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-    "description": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
     {
-      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-      "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-      "description": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after […]",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "description": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "description": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,126 +49,126 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "České sklo z Barbie a Bridget Jonesové míří do USA. Značka Lukáše Klimčáka už vyrostla přes 60 milionů",
-      "url": "https://cc.cz/ceske-sklo-z-barbie-a-bridget-jonesove-miri-do-usa-znacka-lukase-klimcaka-uz-vyrostla-pres-60-milionu/",
-      "description": "Značka Klimchi chce po Hollywoodu dobýt také americké obchody. Sklárna ze severu Čech otevírá pobočku v USA a plánuje tam rychle růst. Článek České sklo z Barbie a Bridget Jonesové míří do USA. Značka Lukáše Klimčáka už vyrostla přes 60 milionů se nejdříve objevil na CzechCrunch .",
+      "title": "Díky motokrosu procestoval celý svět, pak koupil jeden neobvyklý stroj. A kolem něj rozjel stavební firmu",
+      "url": "https://cc.cz/diky-motokrosu-procestoval-cely-svet-pak-koupil-jeden-neobvykly-stroj-a-kolem-nej-rozjel-stavebni-firmu/",
+      "description": "Řadu let působil jako „dvorní“ mechanik Libora Podmola. Dnes buduje obchvaty i dálniční úseky a snaží se změnit stavebnictví. Třeba autonomním válcem. Článek Díky motokrosu procestoval celý svět, pak koupil jeden neobvyklý stroj. A kolem něj rozjel stavební firmu se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Volcanoes that made history",
-      "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-      "description": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "description": "Solid-state transformers could also benefit EV charging and someday households.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-      "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-      "description": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We […]",
+      "title": "The cat-and-mouse game over 3D-printed guns has begun",
+      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "description": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
       "description": "Comments",
       "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Nakupujete na Vintedu? Ani jeho AI vás neochrání před padělky. Takto je odhalíte za pár minut",
-      "url": "https://cc.cz/nakupujete-na-vintedu-ani-jeho-ai-vas-neochrani-pred-padelky-takto-je-odhalite-za-par-minut/",
-      "description": "Automatizované kontrolní mechanismy nejsou 100% zárukou pravosti produktů. Vinted proti padělkům bojuje, ale pořád je třeba zapojit mozek. Článek Nakupujete na Vintedu? Ani jeho AI vás neochrání před padělky. Takto je odhalíte za pár minut se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Putting mice into hibernation causes a major loss of synapses",
-      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-      "description": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Grand Theft Auto VI exists in its own universe",
-      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago, fans […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Ročně investujeme miliardu, 10x víc než před prodejem, říká šéf Zásilkovny. V rychlosti se blíží Alze",
-      "url": "https://cc.cz/rocne-investujeme-miliardu-10x-vic-nez-pred-prodejem-rika-sef-zasilkovny-v-rychlosti-se-blizi-alze/",
-      "description": "Do pěti let od svého nástupu má Erich Čomor zdvojnásobit byznys Zásilkovny. Teď je v polovině cesty. „Cíl platí a splníme ho,“ říká v rozhovoru. Článek Ročně investujeme miliardu, 10x víc než před prodejem, říká šéf Zásilkovny. V rychlosti se blíží Alze se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-      "description": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Doodle generative compositions in your browser with Musical Spirograph",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "description": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to […]",
+      "title": "Jiří Šmejc rozjíždí velkou mezinárodní byznysovou hru. S pomocí dluhopisů, které si Češi zamilovali",
+      "url": "https://cc.cz/jiri-smejc-rozjizdi-velkou-mezinarodni-byznysovou-hru-s-pomoci-dluhopisu-ktere-si-cesi-zamilovali/",
+      "description": "Emma Capital nabízí drobným investorům kupón sedm procent. Z prospektu plyne, že 9,5 miliardy korun míří na ovládnutí sázkové skupiny Entain CEE. Článek Jiří Šmejc rozjíždí velkou mezinárodní byznysovou hru. S pomocí dluhopisů, které si Češi zamilovali se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "description": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "description": "We all knew it was coming. The expected valuation may surprise, though.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+      "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+      "description": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem",
+      "url": "https://cc.cz/projekty-chrli-jak-na-bezicim-pasu-jeden-s-miliony-uzivatelu-prodal-seznamu-dalsi-zachranil-pred-zanikem/",
+      "description": "Martin Kadlčík není mediálně výrazný, na českém online trhu ale zanechal významnou stopu. Teď vyhledává zavedené firmy, které potřebují nový impuls. Článek Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "description": "Monitor vendors are playing with fire.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Robotaxis are real now — so is the pushback",
+      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "description": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,11 +176,11 @@
     }
   ],
   "curiosity": {
-    "title": "How I find problems to solve as a staff engineer",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "description": "Comments",
-    "source": "Hacker News",
-    "language": "en",
+    "title": "Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem",
+    "url": "https://cc.cz/projekty-chrli-jak-na-bezicim-pasu-jeden-s-miliony-uzivatelu-prodal-seznamu-dalsi-zachranil-pred-zanikem/",
+    "description": "Martin Kadlčík není mediálně výrazný, na českém online trhu ale zanechal významnou stopu. Teď vyhledává zavedené firmy, které potřebují nový impuls. Článek Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
