@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-25T06:36:13.753729+00:00",
+  "generatedAt": "2026-08-26T06:37:37.670156+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+    "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+    "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+    "description": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
     {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+      "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+      "description": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
       "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+      "description": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-      "description": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-      "description": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,89 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Díky motokrosu procestoval celý svět, pak koupil jeden neobvyklý stroj. A kolem něj rozjel stavební firmu",
-      "url": "https://cc.cz/diky-motokrosu-procestoval-cely-svet-pak-koupil-jeden-neobvykly-stroj-a-kolem-nej-rozjel-stavebni-firmu/",
-      "description": "Řadu let působil jako „dvorní“ mechanik Libora Podmola. Dnes buduje obchvaty i dálniční úseky a snaží se změnit stavebnictví. Třeba autonomním válcem. Článek Díky motokrosu procestoval celý svět, pak koupil jeden neobvyklý stroj. A kolem něj rozjel stavební firmu se nejdříve objevil na CzechCrunch .",
+      "title": "Turbíny, vrty i baterie. JRD postaví za čtvrt miliardy dřevostavbu, která si část provozu pokryje sama",
+      "url": "https://cc.cz/turbiny-vrty-i-baterie-jrd-postavi-za-ctvrt-miliardy-drevostavbu-ktera-si-cast-provozu-pokryje-sama/",
+      "description": "Projekt vyroste poblíž nádraží Praha-Hostivař. Nabídne 30 bytů, cenově se budou pohybovat mezi 6 a 16,5 milionu korun. Hotovo má být v roce 2028. Článek Turbíny, vrty i baterie. JRD postaví za čtvrt miliardy dřevostavbu, která si část provozu pokryje sama se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Data centers become \"killer application\" for new power transformer tech",
-      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-      "description": "Solid-state transformers could also benefit EV charging and someday households.",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "description": "Record-breaking robot races are less substantial than household chore challenges.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The cat-and-mouse game over 3D-printed guns has begun",
-      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-      "description": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody […]",
+      "title": "Trump is upping the price of Big Tech’s favorite visa",
+      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+      "description": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Podcenili start, investovali miliony, zdvojnásobili náklady. Čeští vývojáři zariskovali kvůli hře z pravěku",
+      "url": "https://cc.cz/podcenili-start-investovali-miliony-zdvojnasobili-naklady-cesti-vyvojari-zariskovali-a-ted-miri-do-finise/",
+      "description": "Videoherní vývojář a pedagog Pavel Novák a jeho tým právě vydali novou českou hru Polylithic. Její zrod byl složitý jako lov mamutů. Článek Podcenili start, investovali miliony, zdvojnásobili náklady. Čeští vývojáři zariskovali kvůli hře z pravěku se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Preserving glow-in-the-dark art and fashion for future generations",
+      "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+      "description": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+      "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,81 +139,36 @@
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Jiří Šmejc rozjíždí velkou mezinárodní byznysovou hru. S pomocí dluhopisů, které si Češi zamilovali",
-      "url": "https://cc.cz/jiri-smejc-rozjizdi-velkou-mezinarodni-byznysovou-hru-s-pomoci-dluhopisu-ktere-si-cesi-zamilovali/",
-      "description": "Emma Capital nabízí drobným investorům kupón sedm procent. Z prospektu plyne, že 9,5 miliardy korun míří na ovládnutí sázkové skupiny Entain CEE. Článek Jiří Šmejc rozjíždí velkou mezinárodní byznysovou hru. S pomocí dluhopisů, které si Češi zamilovali se nejdříve objevil na CzechCrunch .",
+      "title": "Velké novinky ze světa Zaklínače. Geraltův příběh si užijete v novém kabátě i v novém dobrodružství",
+      "url": "https://cc.cz/velke-novinky-ze-sveta-zaklinace-geraltuv-pribeh-si-uzijete-v-novem-kabate-i-v-novem-dobrodruzstvi/",
+      "description": "Miliardově úspěšný Witcher 3 vyšel už v roce 2015, ale ještě dvakrát ukáže svou sílu. Dostane rozšíření Songs of the Past i vylepšenou verzi. Článek Velké novinky ze světa Zaklínače. Geraltův příběh si užijete v novém kabátě i v novém dobrodružství se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-      "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-      "description": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "description": "It's currently only appearing on Pixels running Android 17.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "description": "We all knew it was coming. The expected valuation may surprise, though.",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-      "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-      "description": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem",
-      "url": "https://cc.cz/projekty-chrli-jak-na-bezicim-pasu-jeden-s-miliony-uzivatelu-prodal-seznamu-dalsi-zachranil-pred-zanikem/",
-      "description": "Martin Kadlčík není mediálně výrazný, na českém online trhu ale zanechal významnou stopu. Teď vyhledává zavedené firmy, které potřebují nový impuls. Článek Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-      "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "description": "Monitor vendors are playing with fire.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Robotaxis are real now — so is the pushback",
-      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-      "description": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in […]",
+      "title": "The Witcher 3 is getting a remaster",
+      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,11 +176,11 @@
     }
   ],
   "curiosity": {
-    "title": "Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem",
-    "url": "https://cc.cz/projekty-chrli-jak-na-bezicim-pasu-jeden-s-miliony-uzivatelu-prodal-seznamu-dalsi-zachranil-pred-zanikem/",
-    "description": "Martin Kadlčík není mediálně výrazný, na českém online trhu ale zanechal významnou stopu. Teď vyhledává zavedené firmy, které potřebují nový impuls. Článek Projekty chrlí jak na běžícím pásu. Jeden s miliony uživatelů prodal Seznamu, další zachránil před zánikem se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
+    "title": "The Witcher 3 is getting a remaster",
+    "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+    "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]",
+    "source": "The Verge",
+    "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
