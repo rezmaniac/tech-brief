@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-26T06:37:37.670156+00:00",
+  "generatedAt": "2026-08-27T17:12:55.207463+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-    "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-    "description": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+    "title": "Why did 1,000 Swiss citizens bury their underpants?",
+    "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+    "description": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,35 @@
   },
   "stories": [
     {
-      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-      "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-      "description": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+      "title": "Why did 1,000 Swiss citizens bury their underpants?",
+      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+      "description": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+      "description": "Google teamed up with the Pokemon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-      "description": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and […]",
+      "title": "Speedo’s new smart goggles module can track all four swim strokes",
+      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+      "description": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breaths, and track distance per stroke. Unlike other smart goggles, such as […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Turbíny, vrty i baterie. JRD postaví za čtvrt miliardy dřevostavbu, která si část provozu pokryje sama",
-      "url": "https://cc.cz/turbiny-vrty-i-baterie-jrd-postavi-za-ctvrt-miliardy-drevostavbu-ktera-si-cast-provozu-pokryje-sama/",
-      "description": "Projekt vyroste poblíž nádraží Praha-Hostivař. Nabídne 30 bytů, cenově se budou pohybovat mezi 6 a 16,5 milionu korun. Hotovo má být v roce 2028. Článek Turbíny, vrty i baterie. JRD postaví za čtvrt miliardy dřevostavbu, která si část provozu pokryje sama se nejdříve objevil na CzechCrunch .",
+      "title": "Sedněte si na joystick, jezte z ovladače. Ikea a Xbox představily vtipný herní nábytek, dorazí i do Česka",
+      "url": "https://cc.cz/sednete-si-na-joystick-jezte-z-ovladace-ikea-a-xbox-predstavily-vtipny-herni-nabytek-dorazi-i-do-ceska/",
+      "description": "Je libo polštářek inspirovaný gamepadem od Microsoftu? Kolekce Yxstaby dává zapomenout na trapný design herního nábytku díky skandinávskému vkusu. Článek Sedněte si na joystick, jezte z ovladače. Ikea a Xbox představily vtipný herní nábytek, dorazí i do Česka se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
-      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-      "description": "Record-breaking robot races are less substantial than household chore challenges.",
+      "title": "Panic passes Trump tariff refunds back to the Playdate customers who paid them",
+      "url": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
+      "description": "\"It just felt like the right thing to do\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "title": "Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup",
+      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "description": "Fashion startup Atoire announced Thursday a $9.5 million seed round.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Trump is upping the price of Big Tech’s favorite visa",
-      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "description": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,81 +94,81 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Podcenili start, investovali miliony, zdvojnásobili náklady. Čeští vývojáři zariskovali kvůli hře z pravěku",
-      "url": "https://cc.cz/podcenili-start-investovali-miliony-zdvojnasobili-naklady-cesti-vyvojari-zariskovali-a-ted-miri-do-finise/",
-      "description": "Videoherní vývojář a pedagog Pavel Novák a jeho tým právě vydali novou českou hru Polylithic. Její zrod byl složitý jako lov mamutů. Článek Podcenili start, investovali miliony, zdvojnásobili náklady. Čeští vývojáři zariskovali kvůli hře z pravěku se nejdříve objevil na CzechCrunch .",
+      "title": "Definice, pobídky i úlevy. Vláda představila očekávaný startupový zákon, „legalizace švarcu“ v něm chybí",
+      "url": "https://cc.cz/definice-pobidky-i-ulevy-vlada-predstavila-ocekavany-startupovy-zakon-legalizace-svarcu-v-nem-chybi/",
+      "description": "Navrhovaný zákon má přinést definici a certifikaci startupů, k tomu možnost investorů odečíst investici od základu daně do pěti milionů korun ročně. Článek Definice, pobídky i úlevy. Vláda představila očekávaný startupový zákon, „legalizace švarcu“ v něm chybí se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Preserving glow-in-the-dark art and fashion for future generations",
-      "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-      "description": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+      "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+      "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+      "description": "\"We built this city on good cacao\" does have a nice ring to it.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+      "description": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "At just $8, you owe it to yourself to grab Inscryption",
-      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-      "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for […]",
+      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
+      "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+      "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Velké novinky ze světa Zaklínače. Geraltův příběh si užijete v novém kabátě i v novém dobrodružství",
-      "url": "https://cc.cz/velke-novinky-ze-sveta-zaklinace-geraltuv-pribeh-si-uzijete-v-novem-kabate-i-v-novem-dobrodruzstvi/",
-      "description": "Miliardově úspěšný Witcher 3 vyšel už v roce 2015, ale ještě dvakrát ukáže svou sílu. Dostane rozšíření Songs of the Past i vylepšenou verzi. Článek Velké novinky ze světa Zaklínače. Geraltův příběh si užijete v novém kabátě i v novém dobrodružství se nejdříve objevil na CzechCrunch .",
+      "title": "Miliardový rekord českého herního průmyslu. Po slabších letech hlásí obří růst nejen díky Kingdom Come",
+      "url": "https://cc.cz/jeden-z-nejvykonnejsich-exportu-ceska-herni-prumysl-hlasi-rust-o-miliardy-ale-nejen-diky-kingdom-come/",
+      "description": "Asociace českých herních vývojářů zveřejnila obrat českého herního průmyslu za roky 2024 a 2025. Jsou to velice pozitivní čísla. Článek Miliardový rekord českého herního průmyslu. Po slabších letech hlásí obří růst nejen díky Kingdom Come se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-      "description": "It's currently only appearing on Pixels running Android 17.",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "description": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The Witcher 3 is getting a remaster",
-      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]",
+      "title": "Americans are cheering for vigilantes who take down Flock cameras",
+      "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
+      "description": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protests is also what makes them difficult to suppress. There isn't a uniform method of disruption; people have done everything from unplugging, smashing, stealing, and spray-painting the […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,9 +176,9 @@
     }
   ],
   "curiosity": {
-    "title": "The Witcher 3 is getting a remaster",
-    "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-    "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]",
+    "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
+    "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+    "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED […]",
     "source": "The Verge",
     "language": "en",
     "category": "Dev",
