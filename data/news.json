@@ -1,92 +1,47 @@
 {
-  "generatedAt": "2026-08-27T17:12:55.207463+00:00",
+  "generatedAt": "2026-08-28T18:01:37.119098+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Why did 1,000 Swiss citizens bury their underpants?",
-    "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
-    "description": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "description": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
     {
-      "title": "Why did 1,000 Swiss citizens bury their underpants?",
-      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
-      "description": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "description": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
-      "description": "Google teamed up with the Pokemon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Speedo’s new smart goggles module can track all four swim strokes",
-      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
-      "description": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breaths, and track distance per stroke. Unlike other smart goggles, such as […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Sedněte si na joystick, jezte z ovladače. Ikea a Xbox představily vtipný herní nábytek, dorazí i do Česka",
-      "url": "https://cc.cz/sednete-si-na-joystick-jezte-z-ovladace-ikea-a-xbox-predstavily-vtipny-herni-nabytek-dorazi-i-do-ceska/",
-      "description": "Je libo polštářek inspirovaný gamepadem od Microsoftu? Kolekce Yxstaby dává zapomenout na trapný design herního nábytku díky skandinávskému vkusu. Článek Sedněte si na joystick, jezte z ovladače. Ikea a Xbox představily vtipný herní nábytek, dorazí i do Česka se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Panic passes Trump tariff refunds back to the Playdate customers who paid them",
-      "url": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
-      "description": "\"It just felt like the right thing to do\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup",
-      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-      "description": "Fashion startup Atoire announced Thursday a $9.5 million seed round.",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Startups",
       "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus […]",
+      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+      "description": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Definice, pobídky i úlevy. Vláda představila očekávaný startupový zákon, „legalizace švarcu“ v něm chybí",
-      "url": "https://cc.cz/definice-pobidky-i-ulevy-vlada-predstavila-ocekavany-startupovy-zakon-legalizace-svarcu-v-nem-chybi/",
-      "description": "Navrhovaný zákon má přinést definici a certifikaci startupů, k tomu možnost investorů odečíst investici od základu daně do pěti milionů korun ročně. Článek Definice, pobídky i úlevy. Vláda představila očekávaný startupový zákon, „legalizace švarcu“ v něm chybí se nejdříve objevil na CzechCrunch .",
+      "title": "Slepí roboti stáli továrny miliony. Tři spolužáci přišli s obyčejnou kamerou, díky které stroje vidí",
+      "url": "https://cc.cz/slepi-roboti-stali-tovarny-miliony-tri-spoluzaci-prisli-s-obycejnou-kamerou-diky-ktere-stroje-vidi/",
+      "description": "Většina průmyslových robotů pracuje naslepo a každá chyba stojí peníze. Trojice spolužáků našla řešení v kameře, kterou montují na stroje. Článek Slepí roboti stáli továrny miliony. Tři spolužáci přišli s obyčejnou kamerou, díky které stroje vidí se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
-      "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
-      "description": "\"We built this city on good cacao\" does have a nice ring to it.",
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "description": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
-      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
-      "description": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-      "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-      "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED […]",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,49 +94,94 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Miliardový rekord českého herního průmyslu. Po slabších letech hlásí obří růst nejen díky Kingdom Come",
-      "url": "https://cc.cz/jeden-z-nejvykonnejsich-exportu-ceska-herni-prumysl-hlasi-rust-o-miliardy-ale-nejen-diky-kingdom-come/",
-      "description": "Asociace českých herních vývojářů zveřejnila obrat českého herního průmyslu za roky 2024 a 2025. Jsou to velice pozitivní čísla. Článek Miliardový rekord českého herního průmyslu. Po slabších letech hlásí obří růst nejen díky Kingdom Come se nejdříve objevil na CzechCrunch .",
+      "title": "Nájezd na české chalupáře. Tenhle offroad zvládne kdejakou škarpu a stojí půlku co legendární Defender",
+      "url": "https://cc.cz/najezd-na-ceske-chalupare-tenhle-offroad-zvladne-kdejakou-skarpu-a-stoji-pulku-co-legendarni-defender/",
+      "description": "Pekingská značka BAIC je v Česku nová a hodně si tu slibuje od svého modelu BJ30e. Ten se vejde pod milion a zvládne i ostřejší terén. Článek Nájezd na české chalupáře. Tenhle offroad zvládne kdejakou škarpu a stojí půlku co legendární Defender se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+      "description": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "description": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
+      "title": "Friend-focused photo-sharing app Retro snags $21M",
+      "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+      "description": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS \"Neural […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Americans are cheering for vigilantes who take down Flock cameras",
-      "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
-      "description": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protests is also what makes them difficult to suppress. There isn't a uniform method of disruption; people have done everything from unplugging, smashing, stealing, and spray-painting the […]",
-      "source": "The Verge",
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Režisér Gladiátora natočil postapo podle slavné knížky. Zapomeňte na zombíky, sází na něco úplně jiného",
+      "url": "https://cc.cz/reziser-gladiatora-natocil-postapo-podle-slavne-knizky-zapomente-na-zombiky-sazi-na-neco-uplne-jineho/",
+      "description": "Kdyby tenhle film vyšel v 90. letech, hrál by v něm Kevin Costner. The Dog Stars neboli Vzhlížet ke hvězdám ukazuje poetickou apokalypsu. Článek Režisér Gladiátora natočil postapo podle slavné knížky. Zapomeňte na zombíky, sází na něco úplně jiného se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "description": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Apple TV is raising its subscription prices again",
+      "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "description": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The iPhone Fold could make concerts even worse",
+      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+      "description": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-    "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-    "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED […]",
+    "title": "The iPhone Fold could make concerts even worse",
+    "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+    "description": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as […]",
     "source": "The Verge",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Hardware",
+    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
   }
 }
