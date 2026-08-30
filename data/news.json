@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:07:17.055091+00:00",
+  "generatedAt": "2026-08-30T11:03:04.087829+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
@@ -22,26 +22,26 @@
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology […]",
-      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Iceland votes on whether to restart talks on joining EU",
-      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "description": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,13 +49,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nejvyšší věznice světa roste přímo v srdci New Yorku. Vypadá jako luxusní mrakodrap, zní ale i protesty",
-      "url": "https://cc.cz/nejvyssi-veznice-sveta-roste-primo-v-srdci-new-yorku-vypada-jako-luxusni-mrakodrap-zni-ale-i-protesty/",
-      "description": "Skleněná fasáda, obchody u země a lidštější přístup k vězňům. Manhattan staví 102 metrů vysokou věznici, která však naráží na strach. Článek Nejvyšší věznice světa roste přímo v srdci New Yorku. Vypadá jako luxusní mrakodrap, zní ale i protesty se nejdříve objevil na CzechCrunch .",
+      "title": "Na pohled hračka, ve skutečnosti AI nástroj. Robotická kachna se stala nečekaným prodejním hitem",
+      "url": "https://cc.cz/na-pohled-hracka-ve-skutecnosti-ai-nastroj-roboticka-kachna-se-stala-necekanym-prodejnim-hitem/",
+      "description": "Majitel může Microduck v počítačové simulaci naučit nové pohyby a robot je pak přenese do skutečného světa. Programovat přitom nemusí umět. Článek Na pohled hračka, ve skutečnosti AI nástroj. Robotická kachna se stala nečekaným prodejním hitem se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
       "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
@@ -67,26 +67,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Google further buries search results under AI mode",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "description": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with […]",
-      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "description": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,9 +94,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Proslavil se falešnou dopravní zácpou v Google Maps. Teď stvořil trička, která oklamou chytré kamery",
-      "url": "https://cc.cz/proslavil-se-falesnou-dopravni-zacpou-v-google-maps-ted-stvoril-tricka-ktera-oklamou-chytre-kamery/",
-      "description": "Reakce na kamerový dohled v Berlíně má podobu barevného trička. Místo hackování stačilo pochopit, kde mají algoritmy své slepé místo. Článek Proslavil se falešnou dopravní zácpou v Google Maps. Teď stvořil trička, která oklamou chytré kamery se nejdříve objevil na CzechCrunch .",
+      "title": "Vzal si ženu, která nemá ráda pivo, tak jí vymyslel nové pití. Může vydělat miliony a stát se hitem mladých",
+      "url": "https://cc.cz/vzal-si-zenu-ktera-nema-rada-pivo-tak-ji-vymyslel-nove-piti-muze-vydelat-miliony-a-stat-se-hitem-mladych/",
+      "description": "Britský herec Tom Holland rozšířil svou značku nealkoholických piv Bero o takzvané shandy. Schvaluje ho i jeho manželka Zendaya. Článek Vzal si ženu, která nemá ráda pivo, tak jí vymyslel nové pití. Může vydělat miliony a stát se hitem mladých se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -112,26 +112,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
-      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-      "description": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family of devices for Helix, […]",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Europe's last regular standard-gauge steam passenger service",
-      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "title": "Spark: Sparklines in your shell",
+      "url": "https://git.zx2c4.com/spark/about/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,9 +139,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Útěk z města se psem. U brdských lesů vyrostl víkendový dům, který se inspiruje australskou architekturou",
-      "url": "https://cc.cz/utek-z-mesta-se-psem-u-brdskych-lesu-vyrostl-vikendovy-dum-ktery-se-inspiruje-australskou-architekturou/",
-      "description": "Architekti rozdělili dům na denní a noční část, ty spojuje prosklený krček. Z obýváku a ložnice je pak výhled na vzdálené pastviny, stromy a potok. Článek Útěk z města se psem. U brdských lesů vyrostl víkendový dům, který se inspiruje australskou architekturou se nejdříve objevil na CzechCrunch .",
+      "title": "Měl tu být klášter, nakonec se zde bydlí. Pražská kaple z 18. století je na prodej, má i zahradu",
+      "url": "https://cc.cz/mel-tu-byt-klaster-nakonec-se-zde-bydli-prazska-kaple-z-18-stoleti-je-na-prodej-ma-i-zahradu/",
+      "description": "Historická kaple sv. Martina se dvěma obytnými podlažími je na prodej za nižší desítky milionů korun. Budovu na Bílé Hoře ale čeká rekonstrukce. Článek Měl tu být klášter, nakonec se zde bydlí. Pražská kaple z 18. století je na prodej, má i zahradu se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -157,28 +157,28 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-      "description": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black […]",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "description": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
     "source": "TechCrunch",
     "language": "en",
     "category": "AI",
