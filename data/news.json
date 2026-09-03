@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-02T10:24:22.327091+00:00",
+  "generatedAt": "2026-09-03T10:32:16.830785+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-    "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-    "description": "333 miles of real-world range with uncompromised comfort and off-road ability.",
+    "title": "Spending deal comes with a bonus: Blocking political control of grants",
+    "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+    "description": "Congress pauses the OMB's attempt to rewrite how research is funded.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,80 @@
   },
   "stories": [
     {
-      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-      "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-      "description": "333 miles of real-world range with uncompromised comfort and off-road ability.",
+      "title": "Spending deal comes with a bonus: Blocking political control of grants",
+      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+      "description": "Congress pauses the OMB's attempt to rewrite how research is funded.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Larry Page’s flying car company Pivotal loses its CEO",
-      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "description": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+      "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has previously reported […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-      "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-      "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously warned it can also impact PC gaming performance. \"Windows quality updates will begin enabling […]",
-      "source": "The Verge",
+      "title": "Chybné rozhodnutí, které ovlivní 70 tisíc zaměstnanců. Meta po roce mění kvůli AI Google za Slack",
+      "url": "https://cc.cz/chybne-rozhodnuti-ktere-ovlivni-70-tisic-zamestnancu-meta-po-roce-meni-kvuli-ai-google-za-slack/",
+      "description": "Meta během jediného roku dvakrát mění interní komunikační nástroj. Důvodem není pohodlí zaměstnanců, ale nástup AI agentů. Článek Chybné rozhodnutí, které ovlivní 70 tisíc zaměstnanců. Meta po roce mění kvůli AI Google za Slack se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "description": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "source": "Ars Technica",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Commodore 64 released September 1, 1982",
-      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+      "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inches when placed just 7.5 inches from the […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nejsevernější kavárna světa i restaurace v Pařížské. Tvář jim dává Čech, na jehož řemeslo se málem zapomnělo",
-      "url": "https://cc.cz/nejsevernejsi-kavarna-sveta-i-restaurace-v-parizske-tvar-jim-dava-cech-na-jehoz-remeslo-se-malem-zapomnelo/",
-      "description": "Řemeslo, které v Česku skoro vymizelo, se pomalu vrací. Lidé kolem sebe chtějí hezké věci a ideálně ručně dělané, říká písmomalíř Daniel Plavecký. Článek Nejsevernější kavárna světa i restaurace v Pařížské. Tvář jim dává Čech, na jehož řemeslo se málem zapomnělo se nejdříve objevil na CzechCrunch .",
+      "title": "Vozí do Česka jamón, který se podává i na Oscarech. Krájet jsem se ho učil roky, říká známý kuchař",
+      "url": "https://cc.cz/vozi-do-ceska-jamon-ktery-se-podava-i-na-oscarech-krajet-jsem-se-ho-ucil-roky-rika-znamy-kuchar/",
+      "description": "Šunka zraje roky a stojí i 100 tisíc korun. Martin Škoda a Jiří Nevečeřal a jejich Jamón Republika ji představují jako unikátní zážitek s cortadorem. Článek Vozí do Česka jamón, který se podává i na Oscarech. Krájet jsem se ho učil roky, říká známý kuchař se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Research roundup: 7 cool science stories we almost missed",
-      "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-      "description": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+      "description": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
-      "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
-      "description": "Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the recently launched XPS 13 and offer another affordable laptop option as […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Belkin’s first trackers come ready to attach to your gear.",
+      "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+      "description": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers from AirTags and Google's recently announced Pixel Tag is that you […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,91 +139,46 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Pro americký kolos vedli firmu v Česku, pak ji sami koupili. Teď s ní jdou na burzu a chtějí 80 milionů",
-      "url": "https://cc.cz/pro-americky-kolos-vedli-firmu-v-cesku-pak-ji-sami-koupili-ted-s-ni-jdou-na-burzu-a-chteji-80-milionu/",
-      "description": "Doornite chce na trhu Start získat desítky milionů korun při ocenění 400 milionů. Peníze mají jít na nové linky a na skupování menších konkurentů. Článek Pro americký kolos vedli firmu v Česku, pak ji sami koupili. Teď s ní jdou na burzu a chtějí 80 milionů se nejdříve objevil na CzechCrunch .",
+      "title": "Takhle jste Harryho Pottera ještě neviděli. Podívejte se na nové fotky a trailer seriálu od HBO",
+      "url": "https://cc.cz/kouzelnejsi-nez-ve-filmu-podivejte-se-na-spoustu-novych-fotek-a-trailer-ze-serialu-harry-potter-od-hbo/",
+      "description": "Vy víte kdo i chlapec, který zůstal naživu, se vrací. Pusťte si trailer seriálu Harry Potter a Kámen mudrců, který už zakrátko uvidíte na HBO Max. Článek Takhle jste Harryho Pottera ještě neviděli. Podívejte se na nové fotky a trailer seriálu od HBO se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
-      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-      "description": "Historically, state health departments determine cases and deaths, not the CDC.",
+      "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+      "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+      "description": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "This new Roomba seals itself to your carpet",
-      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-      "description": "iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contract manufacturer that purchased the once-troubled American robotics company out of bankruptcy in January. The […]",
+      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Milionové úspory dali do dětských gymů. V práci se míjíme, jsme k sobě moc kritičtí, říkají manželé",
-      "url": "https://cc.cz/opustili-korporaty-a-vybudovali-spolu-sit-detskych-gymu-v-praci-se-radsi-nepotkavame-rikaji-manzele/",
-      "description": "Manželé přivedli do Česka koncept The Little Gym. Teď má síť obrat v desítkách milionů korun a instruktory nabírá z řad svých bývalých klientů. Článek Milionové úspory dali do dětských gymů. V práci se míjíme, jsme k sobě moc kritičtí, říkají manželé se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-      "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-      "description": "New features are rolling out across the Android ecosystem starting today.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "This new Roomba seals itself to your carpet",
-    "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-    "description": "iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contract manufacturer that purchased the once-troubled American robotics company out of bankruptcy in January. The […]",
+    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+    "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion […]",
     "source": "The Verge",
     "language": "en",
     "category": "Dev",
