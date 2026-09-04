@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-03T10:32:16.830785+00:00",
+  "generatedAt": "2026-09-04T10:22:00.095419+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Spending deal comes with a bonus: Blocking political control of grants",
-    "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-    "description": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+    "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+    "description": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,80 +13,35 @@
   },
   "stories": [
     {
-      "title": "Spending deal comes with a bonus: Blocking political control of grants",
-      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-      "description": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+      "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+      "description": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-      "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-      "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has previously reported […]",
+      "title": "This NAS company wants to run your local smart home",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "description": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a […]",
       "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Chybné rozhodnutí, které ovlivní 70 tisíc zaměstnanců. Meta po roce mění kvůli AI Google za Slack",
-      "url": "https://cc.cz/chybne-rozhodnuti-ktere-ovlivni-70-tisic-zamestnancu-meta-po-roce-meni-kvuli-ai-google-za-slack/",
-      "description": "Meta během jediného roku dvakrát mění interní komunikační nástroj. Důvodem není pohodlí zaměstnanců, ale nástup AI agentů. Článek Chybné rozhodnutí, které ovlivní 70 tisíc zaměstnanců. Meta po roce mění kvůli AI Google za Slack se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "I rented a car, and within hours, my driver's license was for sale",
-      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-      "description": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-      "source": "Ars Technica",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
-      "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-      "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inches when placed just 7.5 inches from the […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The Browser's Main Thread Is Expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Vozí do Česka jamón, který se podává i na Oscarech. Krájet jsem se ho učil roky, říká známý kuchař",
-      "url": "https://cc.cz/vozi-do-ceska-jamon-ktery-se-podava-i-na-oscarech-krajet-jsem-se-ho-ucil-roky-rika-znamy-kuchar/",
-      "description": "Šunka zraje roky a stojí i 100 tisíc korun. Martin Škoda a Jiří Nevečeřal a jejich Jamón Republika ji představují jako unikátní zážitek s cortadorem. Článek Vozí do Česka jamón, který se podává i na Oscarech. Krájet jsem se ho učil roky, říká známý kuchař se nejdříve objevil na CzechCrunch .",
+      "title": "Čínská ofenziva v Česku. Automobilka BYD se nově objeví přímo v názvu extraligového hokejového klubu",
+      "url": "https://cc.cz/cinska-ofenziva-v-cesku-automobilka-byd-se-nove-objevi-primo-v-nazvu-extraligoveho-hokejoveho-klubu/",
+      "description": "Čínská automobilka po Interu Milán, PSG a Manchesteru City vstupuje do českého hokeje. Od nové sezony v něm bude tým BYD Energie Karlovy Vary. Článek Čínská ofenziva v Česku. Automobilka BYD se nově objeví přímo v názvu extraligového hokejového klubu se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
-      "description": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+      "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+      "description": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
       "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+      "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+      "description": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Belkin’s first trackers come ready to attach to your gear.",
-      "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
-      "description": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers from AirTags and Google's recently announced Pixel Tag is that you […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,46 +94,91 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Takhle jste Harryho Pottera ještě neviděli. Podívejte se na nové fotky a trailer seriálu od HBO",
-      "url": "https://cc.cz/kouzelnejsi-nez-ve-filmu-podivejte-se-na-spoustu-novych-fotek-a-trailer-ze-serialu-harry-potter-od-hbo/",
-      "description": "Vy víte kdo i chlapec, který zůstal naživu, se vrací. Pusťte si trailer seriálu Harry Potter a Kámen mudrců, který už zakrátko uvidíte na HBO Max. Článek Takhle jste Harryho Pottera ještě neviděli. Podívejte se na nové fotky a trailer seriálu od HBO se nejdříve objevil na CzechCrunch .",
+      "title": "Risk, který se vyplatil. Startup loni odmítl 10 miliard od Nvidie, teď od ní inkasuje skoro 30krát tolik",
+      "url": "https://cc.cz/risk-ktery-se-vyplatil-startup-loni-odmitl-10-miliard-od-nvidie-ted-od-ni-inkasuje-skoro-30krat-tolik/",
+      "description": "Ještě nedávno Hugging Face odmítl od Nvidie investici 500 milionů dolarů. Během léta ji ale sám oslovil s nabídkou na dohodu. Článek Risk, který se vyplatil. Startup loni odmítl 10 miliard od Nvidie, teď od ní inkasuje skoro 30krát tolik se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-      "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-      "description": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+      "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+      "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+      "description": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-      "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "title": "Oura files to go public",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-      "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-      "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion […]",
+      "title": "Aqara goes all in on smart lighting",
+      "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+      "description": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "url": "https://carbonawarepricing.com/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Nová éra umělé inteligence je tady. OpenAI představilo převratný model, který dokáže zastat práci člověka",
+      "url": "https://cc.cz/nova-era-umele-inteligence-je-tady-openai-predstavilo-prevratny-model-ktery-dokaze-zastat-praci-cloveka/",
+      "description": "OpenAI ukazuje Astru, která sama ovládá počítač, vyřizuje úkoly napříč aplikacemi a podle firmy může zvládnout práci, kterou dosud dělal člověk. Článek Nová éra umělé inteligence je tady. OpenAI představilo převratný model, který dokáže zastat práci člověka se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "description": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+      "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+      "description": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-    "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion […]",
+    "title": "Aqara goes all in on smart lighting",
+    "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+    "description": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp […]",
     "source": "The Verge",
     "language": "en",
     "category": "Dev",
