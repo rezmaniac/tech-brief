@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-04T10:22:00.095419+00:00",
+  "generatedAt": "2026-09-05T09:49:18.791446+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-    "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-    "description": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+    "description": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,125 +13,80 @@
   },
   "stories": [
     {
-      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-      "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-      "description": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "description": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "description": "The round is being raised just months after the robot data startup exited from stealth.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "This NAS company wants to run your local smart home",
-      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "description": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Čínská ofenziva v Česku. Automobilka BYD se nově objeví přímo v názvu extraligového hokejového klubu",
-      "url": "https://cc.cz/cinska-ofenziva-v-cesku-automobilka-byd-se-nove-objevi-primo-v-nazvu-extraligoveho-hokejoveho-klubu/",
-      "description": "Čínská automobilka po Interu Milán, PSG a Manchesteru City vstupuje do českého hokeje. Od nové sezony v něm bude tým BYD Energie Karlovy Vary. Článek Čínská ofenziva v Česku. Automobilka BYD se nově objeví přímo v názvu extraligového hokejového klubu se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-      "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-      "description": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-      "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-      "description": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Risk, který se vyplatil. Startup loni odmítl 10 miliard od Nvidie, teď od ní inkasuje skoro 30krát tolik",
-      "url": "https://cc.cz/risk-ktery-se-vyplatil-startup-loni-odmitl-10-miliard-od-nvidie-ted-od-ni-inkasuje-skoro-30krat-tolik/",
-      "description": "Ještě nedávno Hugging Face odmítl od Nvidie investici 500 milionů dolarů. Během léta ji ale sám oslovil s nabídkou na dohodu. Článek Risk, který se vyplatil. Startup loni odmítl 10 miliard od Nvidie, teď od ní inkasuje skoro 30krát tolik se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
       "category": "Startups",
       "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-      "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
-      "description": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Oura files to go public",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Aqara goes all in on smart lighting",
-      "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-      "description": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp […]",
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "url": "https://carbonawarepricing.com/",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Zalíbilo se jim místo v lese, tak přikoupili další parcelu. U domu teď mají i chatu pro návštěvy",
+      "url": "https://cc.cz/zalibilo-se-jim-misto-v-lese-tak-prikoupili-dalsi-parcelu-u-domu-ted-maji-i-chatu-pro-navstevy/",
+      "description": "Chata má 42 metrů čtverečních a dispozici 2+kk. Dřevostavba s velkým prosklením, terasou a krbem je navržená pro občasné přespání prarodičů a přátel. Článek Zalíbilo se jim místo v lese, tak přikoupili další parcelu. U domu teď mají i chatu pro návštěvy se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The White House is making arcade games racist",
+      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+      "description": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded to \"Build the Wall,\" which is obviously […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,48 +94,93 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nová éra umělé inteligence je tady. OpenAI představilo převratný model, který dokáže zastat práci člověka",
-      "url": "https://cc.cz/nova-era-umele-inteligence-je-tady-openai-predstavilo-prevratny-model-ktery-dokaze-zastat-praci-cloveka/",
-      "description": "OpenAI ukazuje Astru, která sama ovládá počítač, vyřizuje úkoly napříč aplikacemi a podle firmy může zvládnout práci, kterou dosud dělal člověk. Článek Nová éra umělé inteligence je tady. OpenAI představilo převratný model, který dokáže zastat práci člověka se nejdříve objevil na CzechCrunch .",
+      "title": "Díky Kingdom Come se stal v Česku celebritou, teď tu natočí vlastní film. Inspiruje mě mistr hororu, říká",
+      "url": "https://cc.cz/nejdriv-hospoda-ted-dokonce-film-hvezda-kingdom-come-natoci-v-praze-snimek-inspirovany-znamym-hororem/",
+      "description": "Luke Dale se stal miláčkem fanoušků české hry Kingdom Come, získal stovky tisíc sledujících, zakládá hospodu. A ještě rozjíždí filmový projekt. Článek Díky Kingdom Come se stal v Česku celebritou, teď tu natočí vlastní film. Inspiruje mě mistr hororu, říká se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-      "description": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+      "description": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "GoPro says it’s still committed ‘to your collective stoke’",
+      "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+      "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-      "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
-      "description": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed […]",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se",
+      "url": "https://cc.cz/propocitavala-bajnou-arenu-pro-sablikovou-za-36-miliardy-a-rika-asi-by-se-uzivila-ale-nevrati-se/",
+      "description": "Kristina Boudová z poradenské firmy KPMG se podílela i na studii, která hodnotí obranyschopnost Česka a doporučuje, jak být odolnější společností. Článek Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+      "description": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "description": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "Aqara goes all in on smart lighting",
-    "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-    "description": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp […]",
-    "source": "The Verge",
-    "language": "en",
+    "title": "Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se",
+    "url": "https://cc.cz/propocitavala-bajnou-arenu-pro-sablikovou-za-36-miliardy-a-rika-asi-by-se-uzivila-ale-nevrati-se/",
+    "description": "Kristina Boudová z poradenské firmy KPMG se podílela i na studii, která hodnotí obranyschopnost Česka a doporučuje, jak být odolnější společností. Článek Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
