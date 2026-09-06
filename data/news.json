@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-09-05T09:49:18.791446+00:00",
+  "generatedAt": "2026-09-06T10:05:45.141931+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-    "description": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+    "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+    "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+    "description": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "description": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Explore the globe in field recordings",
+      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "description": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Je z 15. století a ukrývá renesanční fresky, cechovní sál i černou kuchyni. Dům je k mání za 12 milionů",
+      "url": "https://cc.cz/je-z-15-stoleti-a-ukryva-renesancni-fresky-cechovni-sal-i-cernou-kuchyni-dum-je-k-mani-za-12-milionu/",
+      "description": "Dům přímo v centru Slavonic má restaurovanou fasádu, původní dubové dveře i výhledy na střechy okolních historických domů. Článek Je z 15. století a ukrývá renesanční fresky, cechovní sál i černou kuchyni. Dům je k mání za 12 milionů se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
       "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
@@ -22,36 +67,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to […]",
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "description": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "title": "Play GTA Vice City in the Browser",
+      "url": "https://quenq.com/apps/vice-city-online/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Zalíbilo se jim místo v lese, tak přikoupili další parcelu. U domu teď mají i chatu pro návštěvy",
-      "url": "https://cc.cz/zalibilo-se-jim-misto-v-lese-tak-prikoupili-dalsi-parcelu-u-domu-ted-maji-i-chatu-pro-navstevy/",
-      "description": "Chata má 42 metrů čtverečních a dispozici 2+kk. Dřevostavba s velkým prosklením, terasou a krbem je navržená pro občasné přespání prarodičů a přátel. Článek Zalíbilo se jim místo v lese, tak přikoupili další parcelu. U domu teď mají i chatu pro návštěvy se nejdříve objevil na CzechCrunch .",
+      "title": "Až dlouhé roky na ostrově mu ukázaly, proč je Česko fajn. Rozjel tam ale byznys, který využijete i vy",
+      "url": "https://cc.cz/az-dlouhe-roky-na-ostrove-mu-ukazaly-proc-je-cesko-fajn-rozjel-tam-ale-byznys-ktery-vyuzijete-i-vy/",
+      "description": "Tomáš Naňák si zamiloval cestování, proto vytvořil platformu Likexpats, která propojuje Čechy a Slováky s krajany, kteří v zahraničí dlouhodobě žijí. Článek Až dlouhé roky na ostrově mu ukázaly, proč je Česko fajn. Rozjel tam ale byznys, který využijete i vy se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,26 +112,26 @@
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The White House is making arcade games racist",
-      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-      "description": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded to \"Build the Wall,\" which is obviously […]",
+      "title": "CD sales are booming as physical media continues its resurgence",
+      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+      "description": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,9 +139,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Díky Kingdom Come se stal v Česku celebritou, teď tu natočí vlastní film. Inspiruje mě mistr hororu, říká",
-      "url": "https://cc.cz/nejdriv-hospoda-ted-dokonce-film-hvezda-kingdom-come-natoci-v-praze-snimek-inspirovany-znamym-hororem/",
-      "description": "Luke Dale se stal miláčkem fanoušků české hry Kingdom Come, získal stovky tisíc sledujících, zakládá hospodu. A ještě rozjíždí filmový projekt. Článek Díky Kingdom Come se stal v Česku celebritou, teď tu natočí vlastní film. Inspiruje mě mistr hororu, říká se nejdříve objevil na CzechCrunch .",
+      "title": "Výkon českých penzijních fondů je hanba. Musí jít i do startupů, říkají investoři, kteří jim půjčují",
+      "url": "https://cc.cz/vykon-ceskych-penzijnich-fondu-je-hanba-musi-jit-i-do-startupu-rikaji-investori-kteri-jim-pujcuji/",
+      "description": "Zakladatelé českého fondu Orbit Capital vysvětlují, proč si přejí, aby měly české penzijní fondy větší odvahu. A ukazují, co to může přinést. Článek Výkon českých penzijních fondů je hanba. Musí jít i do startupů, říkají investoři, kteří jim půjčují se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -112,75 +157,30 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "GoPro says it’s still committed ‘to your collective stoke’",
-      "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-      "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement […]",
+      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+      "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se",
-      "url": "https://cc.cz/propocitavala-bajnou-arenu-pro-sablikovou-za-36-miliardy-a-rika-asi-by-se-uzivila-ale-nevrati-se/",
-      "description": "Kristina Boudová z poradenské firmy KPMG se podílela i na studii, která hodnotí obranyschopnost Česka a doporučuje, jak být odolnější společností. Článek Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "description": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "description": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se",
-    "url": "https://cc.cz/propocitavala-bajnou-arenu-pro-sablikovou-za-36-miliardy-a-rika-asi-by-se-uzivila-ale-nevrati-se/",
-    "description": "Kristina Boudová z poradenské firmy KPMG se podílela i na studii, která hodnotí obranyschopnost Česka a doporučuje, jak být odolnější společností. Článek Propočítávala „bájnou“ arénu pro Sáblíkovou za 3,6 miliardy. A říká: Asi by se uživila, ale nevrátí se se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
+    "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+    "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+    "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has […]",
+    "source": "The Verge",
+    "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
