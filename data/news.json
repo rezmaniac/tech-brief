@@ -1,17 +1,107 @@
 {
-  "generatedAt": "2026-09-06T10:05:45.141931+00:00",
+  "generatedAt": "2026-09-07T11:19:57.443388+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-    "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-    "description": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+    "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+    "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+    "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Je to trend, ne výjimka. Před lety měli hodnotu přes 170 miliard, teď jsou akcie skoro bezcenné",
+      "url": "https://cc.cz/je-to-trend-ne-vyjimka-pred-lety-meli-hodnotu-pres-170-miliard-ted-jsou-akcie-skoro-bezcenne/",
+      "description": "V roce 2021 měl kyberbezpečnostní startup Snyk hodnotu 8,5 miliardy dolarů. Dnes ale zažívá drastický propad ceny zaměstnaneckých akcií. Článek Je to trend, ne výjimka. Před lety měli hodnotu přes 170 miliard, teď jsou akcie skoro bezcenné se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "description": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Pražská burza za pět let vyrostla o 118 %. Teď do ní můžete jednoduše investovat díky novému ETF",
+      "url": "https://cc.cz/prazska-burza-za-pet-let-vyrostla-o-118-ted-do-ni-muzete-jednoduse-investovat-diky-novemu-etf/",
+      "description": "Erste, ČEZ i Kofola v jednom nákupu. Nové ETF od Wood & Company pasivně kopíruje index pražské burzy, pro kterou jde o významný milník. Článek Pražská burza za pět let vyrostla o 118 %. Teď do ní můžete jednoduše investovat díky novému ETF se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
       "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
@@ -22,26 +112,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Explore the globe in field recordings",
-      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "description": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,9 +139,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Je z 15. století a ukrývá renesanční fresky, cechovní sál i černou kuchyni. Dům je k mání za 12 milionů",
-      "url": "https://cc.cz/je-z-15-stoleti-a-ukryva-renesancni-fresky-cechovni-sal-i-cernou-kuchyni-dum-je-k-mani-za-12-milionu/",
-      "description": "Dům přímo v centru Slavonic má restaurovanou fasádu, původní dubové dveře i výhledy na střechy okolních historických domů. Článek Je z 15. století a ukrývá renesanční fresky, cechovní sál i černou kuchyni. Dům je k mání za 12 milionů se nejdříve objevil na CzechCrunch .",
+      "title": "Vinohrad za okny, výroba pod zemí. Samotné víno nestačilo, tak kolem vinařství postavili celý resort",
+      "url": "https://cc.cz/vinohrad-za-okny-vyroba-pod-zemi-samotne-vino-nestacilo-tak-kolem-vinarstvi-postavili-cely-resort/",
+      "description": "Skupina Expandia brzy zjistila, že jen výroba a prodej lahvového vína nevydělávají. Proto začala stavět i na tom, co se kolem tohoto nápoje dá zažít. Článek Vinohrad za okny, výroba pod zemí. Samotné víno nestačilo, tak kolem vinařství postavili celý resort se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,108 +157,18 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "description": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Play GTA Vice City in the Browser",
-      "url": "https://quenq.com/apps/vice-city-online/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Až dlouhé roky na ostrově mu ukázaly, proč je Česko fajn. Rozjel tam ale byznys, který využijete i vy",
-      "url": "https://cc.cz/az-dlouhe-roky-na-ostrove-mu-ukazaly-proc-je-cesko-fajn-rozjel-tam-ale-byznys-ktery-vyuzijete-i-vy/",
-      "description": "Tomáš Naňák si zamiloval cestování, proto vytvořil platformu Likexpats, která propojuje Čechy a Slováky s krajany, kteří v zahraničí dlouhodobě žijí. Článek Až dlouhé roky na ostrově mu ukázaly, proč je Česko fajn. Rozjel tam ale byznys, který využijete i vy se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "description": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Výkon českých penzijních fondů je hanba. Musí jít i do startupů, říkají investoři, kteří jim půjčují",
-      "url": "https://cc.cz/vykon-ceskych-penzijnich-fondu-je-hanba-musi-jit-i-do-startupu-rikaji-investori-kteri-jim-pujcuji/",
-      "description": "Zakladatelé českého fondu Orbit Capital vysvětlují, proč si přejí, aby měly české penzijní fondy větší odvahu. A ukazují, co to může přinést. Článek Výkon českých penzijních fondů je hanba. Musí jít i do startupů, říkají investoři, kteří jim půjčují se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "description": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has […]",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "description": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,10 +176,10 @@
     }
   ],
   "curiosity": {
-    "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-    "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-    "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has […]",
-    "source": "The Verge",
+    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+    "description": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+    "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
