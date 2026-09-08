@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-09-07T11:19:57.443388+00:00",
+  "generatedAt": "2026-09-08T10:25:59.110094+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-    "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-    "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "description": "When multiple companies are behind one project, who bears responsibility for problems?",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "description": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "description": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Dnes by mu nadávali do woke nesmyslů. Nejvlivnější sci-fi seriál všech dob slaví 60 let, ale teď se trápí",
+      "url": "https://cc.cz/dnes-by-mu-nadavali-do-woke-nesmyslu-nejvlivnejsi-sci-fi-serial-vsech-dob-slavi-60-let-ale-ted-se-trapi/",
+      "description": "Přesně před šedesáti lety měl premiéru Star Trek. Založil značku, která sice prohrála souboj se Star Wars, ale v jedné věci si drží prvenství dodnes. Článek Dnes by mu nadávali do woke nesmyslů. Nejvlivnější sci-fi seriál všech dob slaví 60 let, ale teď se trápí se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
       "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
@@ -22,26 +67,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley […]",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "description": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "title": "We built our house for LAN parties",
+      "url": "https://lanparty.house/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,13 +94,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Je to trend, ne výjimka. Před lety měli hodnotu přes 170 miliard, teď jsou akcie skoro bezcenné",
-      "url": "https://cc.cz/je-to-trend-ne-vyjimka-pred-lety-meli-hodnotu-pres-170-miliard-ted-jsou-akcie-skoro-bezcenne/",
-      "description": "V roce 2021 měl kyberbezpečnostní startup Snyk hodnotu 8,5 miliardy dolarů. Dnes ale zažívá drastický propad ceny zaměstnaneckých akcií. Článek Je to trend, ne výjimka. Před lety měli hodnotu přes 170 miliard, teď jsou akcie skoro bezcenné se nejdříve objevil na CzechCrunch .",
+      "title": "Digitální panel řekne víc než běžná reklama, říkají a chystají reklamní síť po vzoru Zásilkovny",
+      "url": "https://cc.cz/digitalni-panel-rekne-vic-nez-bezna-reklama-rikaji-a-chystaji-reklamni-sit-po-vzoru-zasilkovny/",
+      "description": "Digitální reklama už není řešením jen pro velké rozpočty a velké značky, říká Matěj Weinert. Jeho DIGIpromo nabízí pronájem i prodej LED panelů. Článek Digitální panel řekne víc než běžná reklama, říkají a chystají reklamní síť po vzoru Zásilkovny se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
       "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
@@ -67,26 +112,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung […]",
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "description": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "url": "https://mathathonchallenge.com/index.html",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,9 +139,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Pražská burza za pět let vyrostla o 118 %. Teď do ní můžete jednoduše investovat díky novému ETF",
-      "url": "https://cc.cz/prazska-burza-za-pet-let-vyrostla-o-118-ted-do-ni-muzete-jednoduse-investovat-diky-novemu-etf/",
-      "description": "Erste, ČEZ i Kofola v jednom nákupu. Nové ETF od Wood & Company pasivně kopíruje index pražské burzy, pro kterou jde o významný milník. Článek Pražská burza za pět let vyrostla o 118 %. Teď do ní můžete jednoduše investovat díky novému ETF se nejdříve objevil na CzechCrunch .",
+      "title": "Lokální seriály jsou budoucnost, věří Disney. Chce jich trojnásobek a brzy uvede dva, co vznikaly v Česku",
+      "url": "https://cc.cz/lokalni-serialy-jsou-budoucnost-veri-disney-chce-jich-trojnasobek-a-brzy-uvede-dva-co-vznikaly-v-cesku/",
+      "description": "Zábavní kolos má globálně úspěšné značky, teď chce ale víc oslovit i místní publikum v jednotlivých koutech světa. A slovo dostane i střední Evropa. Článek Lokální seriály jsou budoucnost, věří Disney. Chce jich trojnásobek a brzy uvede dva, co vznikaly v Česku se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -112,74 +157,29 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Live map of public transport in Belgium",
-      "url": "https://openbaarvervoerbelgie.be/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Vinohrad za okny, výroba pod zemí. Samotné víno nestačilo, tak kolem vinařství postavili celý resort",
-      "url": "https://cc.cz/vinohrad-za-okny-vyroba-pod-zemi-samotne-vino-nestacilo-tak-kolem-vinarstvi-postavili-cely-resort/",
-      "description": "Skupina Expandia brzy zjistila, že jen výroba a prodej lahvového vína nevydělávají. Proto začala stavět i na tom, co se kolem tohoto nápoje dá zažít. Článek Vinohrad za okny, výroba pod zemí. Samotné víno nestačilo, tak kolem vinařství postavili celý resort se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-      "description": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "description": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-    "description": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-    "source": "Ars Technica",
+    "title": "What we expect from the upcoming Apple launch",
+    "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+    "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+    "source": "TechCrunch",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
