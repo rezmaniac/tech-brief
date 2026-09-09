@@ -1,47 +1,137 @@
 {
-  "generatedAt": "2026-09-08T10:25:59.110094+00:00",
+  "generatedAt": "2026-09-09T10:36:16.760485+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "The complex corporate web behind a $3.2 billion AI data center",
-    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "description": "When multiple companies are behind one project, who bears responsibility for problems?",
+    "title": "LG TV shown scanning LAN for third-party phones and other devices",
+    "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+    "description": "“It doesn’t cost a lot to store text forever.”",
     "source": "Ars Technica",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
     {
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "description": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
+      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+      "description": "“It doesn’t cost a lot to store text forever.”",
       "source": "Ars Technica",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
-      "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
-      "description": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel […]",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Vznikl tu jeden převratný vynález, teď zde budou byty. Projekt za tři miliardy zachová komín Koh-i-nooru",
+      "url": "https://cc.cz/vznikl-tu-jeden-prevratny-vynalez-ted-zde-budou-byty-projekt-za-tri-miliardy-zachova-komin-koh-i-nooru/",
+      "description": "Společnost PSN zahájila přeměnu vršovického brownfieldu. Vznikne zde bydlení, služby i nový veřejný prostor se zelení. Článek Vznikl tu jeden převratný vynález, teď zde budou byty. Projekt za tři miliardy zachová komín Koh-i-nooru se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "description": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+      "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+      "description": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with […]",
       "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Nejlepší válečný seriál všech dob, jeden z nejlepších seriálů vůbec. Příběh jednotky plné hrdinů slaví 25 let",
+      "url": "https://cc.cz/nejlepsi-valecny-serial-vsech-dob-jeden-z-nejlepsich-serialu-vubec-pribeh-jednotky-plne-hrdinu-slavi-25-let/",
+      "description": "Bratrstvo neohrožených neboli Band of Brothers vyšlo přesně před čtvrt stoletím. Hitu od HBO se od té doby nic nevyrovnalo. Článek Nejlepší válečný seriál všech dob, jeden z nejlepších seriálů vůbec. Příběh jednotky plné hrdinů slaví 25 let se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+      "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+      "description": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong. Originally, […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "On Really Trying (2009)",
+      "url": "https://gwern.net/on-really-trying",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,126 +139,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Dnes by mu nadávali do woke nesmyslů. Nejvlivnější sci-fi seriál všech dob slaví 60 let, ale teď se trápí",
-      "url": "https://cc.cz/dnes-by-mu-nadavali-do-woke-nesmyslu-nejvlivnejsi-sci-fi-serial-vsech-dob-slavi-60-let-ale-ted-se-trapi/",
-      "description": "Přesně před šedesáti lety měl premiéru Star Trek. Založil značku, která sice prohrála souboj se Star Wars, ale v jedné věci si drží prvenství dodnes. Článek Dnes by mu nadávali do woke nesmyslů. Nejvlivnější sci-fi seriál všech dob slaví 60 let, ale teď se trápí se nejdříve objevil na CzechCrunch .",
+      "title": "Dokáže nahradit Steva Jobse? Tim Cook zvýšil hodnotu Applu o 1 200 % a jeho nástupce se pořádně zapotí",
+      "url": "https://cc.cz/dokaze-nahradit-steva-jobse-tim-cook-zvysil-hodnotu-applu-o-1-200-a-jeho-nastupce-se-poradne-zapoti/",
+      "description": "Tim Cook po 15 letech opustil vedení Applu a firmu zanechal ve skvělé finanční kondici. Jeho nástupce Johna Ternuse možná čeká ještě těžší úkol. Článek Dokáže nahradit Steva Jobse? Tim Cook zvýšil hodnotu Applu o 1 200 % a jeho nástupce se pořádně zapotí se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-      "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "title": "The universal language of space is... Star Trek? Mais oui.",
+      "url": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+      "description": "\"Science fiction imagines the future. We build it.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "description": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "We built our house for LAN parties",
-      "url": "https://lanparty.house/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Digitální panel řekne víc než běžná reklama, říkají a chystají reklamní síť po vzoru Zásilkovny",
-      "url": "https://cc.cz/digitalni-panel-rekne-vic-nez-bezna-reklama-rikaji-a-chystaji-reklamni-sit-po-vzoru-zasilkovny/",
-      "description": "Digitální reklama už není řešením jen pro velké rozpočty a velké značky, říká Matěj Weinert. Jeho DIGIpromo nabízí pronájem i prodej LED panelů. Článek Digitální panel řekne víc než běžná reklama, říkají a chystají reklamní síť po vzoru Zásilkovny se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-      "description": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-      "description": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Lokální seriály jsou budoucnost, věří Disney. Chce jich trojnásobek a brzy uvede dva, co vznikaly v Česku",
-      "url": "https://cc.cz/lokalni-serialy-jsou-budoucnost-veri-disney-chce-jich-trojnasobek-a-brzy-uvede-dva-co-vznikaly-v-cesku/",
-      "description": "Zábavní kolos má globálně úspěšné značky, teď chce ale víc oslovit i místní publikum v jednotlivých koutech světa. A slovo dostane i střední Evropa. Článek Lokální seriály jsou budoucnost, věří Disney. Chce jich trojnásobek a brzy uvede dva, co vznikaly v Česku se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "description": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "What we expect from the upcoming Apple launch",
-      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Six years later, Sony revisits its legendary XM4 headphones",
-      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-      "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, […]",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
@@ -176,12 +176,12 @@
     }
   ],
   "curiosity": {
-    "title": "What we expect from the upcoming Apple launch",
-    "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-    "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-    "source": "TechCrunch",
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+    "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Security",
+    "workSignal": "Useful context for safer tools, dependencies, or processes."
   }
 }
