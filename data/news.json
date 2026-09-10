@@ -1,137 +1,47 @@
 {
-  "generatedAt": "2026-09-09T10:36:16.760485+00:00",
+  "generatedAt": "2026-09-10T10:24:20.163287+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "LG TV shown scanning LAN for third-party phones and other devices",
-    "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-    "description": "“It doesn’t cost a lot to store text forever.”",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Security",
+    "workSignal": "Useful context for safer tools, dependencies, or processes."
   },
   "stories": [
     {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices",
-      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "description": "“It doesn’t cost a lot to store text forever.”",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Vznikl tu jeden převratný vynález, teď zde budou byty. Projekt za tři miliardy zachová komín Koh-i-nooru",
-      "url": "https://cc.cz/vznikl-tu-jeden-prevratny-vynalez-ted-zde-budou-byty-projekt-za-tri-miliardy-zachova-komin-koh-i-nooru/",
-      "description": "Společnost PSN zahájila přeměnu vršovického brownfieldu. Vznikne zde bydlení, služby i nový veřejný prostor se zelení. Článek Vznikl tu jeden převratný vynález, teď zde budou byty. Projekt za tři miliardy zachová komín Koh-i-nooru se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
-      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-      "description": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-      "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-      "description": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Nejlepší válečný seriál všech dob, jeden z nejlepších seriálů vůbec. Příběh jednotky plné hrdinů slaví 25 let",
-      "url": "https://cc.cz/nejlepsi-valecny-serial-vsech-dob-jeden-z-nejlepsich-serialu-vubec-pribeh-jednotky-plne-hrdinu-slavi-25-let/",
-      "description": "Bratrstvo neohrožených neboli Band of Brothers vyšlo přesně před čtvrt stoletím. Hitu od HBO se od té doby nic nevyrovnalo. Článek Nejlepší válečný seriál všech dob, jeden z nejlepších seriálů vůbec. Příběh jednotky plné hrdinů slaví 25 let se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-      "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-      "description": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong. Originally, […]",
+      "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+      "url": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+      "description": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main camera modules to let more or less light into the […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "On Really Trying (2009)",
-      "url": "https://gwern.net/on-really-trying",
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,49 +49,139 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Dokáže nahradit Steva Jobse? Tim Cook zvýšil hodnotu Applu o 1 200 % a jeho nástupce se pořádně zapotí",
-      "url": "https://cc.cz/dokaze-nahradit-steva-jobse-tim-cook-zvysil-hodnotu-applu-o-1-200-a-jeho-nastupce-se-poradne-zapoti/",
-      "description": "Tim Cook po 15 letech opustil vedení Applu a firmu zanechal ve skvělé finanční kondici. Jeho nástupce Johna Ternuse možná čeká ještě těžší úkol. Článek Dokáže nahradit Steva Jobse? Tim Cook zvýšil hodnotu Applu o 1 200 % a jeho nástupce se pořádně zapotí se nejdříve objevil na CzechCrunch .",
+      "title": "Nejdřív propadl, pak se stal klasikou televizní romantiky. Čeká pokračování čarodějnického filmu to samé?",
+      "url": "https://cc.cz/nejdriv-propadl-pak-se-stal-klasikou-televizni-romantiky-ceka-pokracovani-carodejnickeho-filmu-to-same/",
+      "description": "Magická posedlost s Nicole Kidman a Sandrou Bullock je typický guilty pleasure film s hordou věrných fanoušků, i když kritici smýšlí jinak. Článek Nejdřív propadl, pak se stal klasikou televizní romantiky. Čeká pokračování čarodějnického filmu to samé? se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The universal language of space is... Star Trek? Mais oui.",
-      "url": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
-      "description": "\"Science fiction imagines the future. We build it.\"",
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "description": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "description": "Mullenweg said in a company Slack message that it was against his will.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The Trump phone just got a $250 price hike",
+      "url": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+      "description": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. This wasn't a total surprise though, especially given the phone ships with […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Od skla přes módu až po legendární ABC. V Praze dnes začíná Czech Design Week, rozprostře se po celém městě",
+      "url": "https://cc.cz/od-skla-pres-modu-az-po-legendarni-abc-v-praze-dnes-zacina-czech-design-week-rozprostre-se-po-celem-meste/",
+      "description": "Třináctý ročník Czech Design Weeku potrvá do neděle a představí přes stovku tvůrců. Ty najdete nejen v Mánesu, ale třeba i v Rothmayerově vile. Článek Od skla přes módu až po legendární ABC. V Praze dnes začíná Czech Design Week, rozprostře se po celém městě se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "description": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and […]",
+      "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+      "url": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+      "description": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Stockfish 19",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Zní to jako matematická úloha, byty 1,5+kk se přesto derou do popředí. Jak vypadají a kdo je odmítá?",
+      "url": "https://cc.cz/zni-to-jako-matematicka-uloha-byty-15kk-se-presto-derou-do-popredi-jak-vypadaji-a-kdo-je-odmita/",
+      "description": "Kompromis mezi garsonkou a dvoupokojovým bytem má snížit cenu třeba pro singles. Část developerů v tomto nápadu vidí budoucnost, jiní jej zavrhují. Článek Zní to jako matematická úloha, byty 1,5+kk se přesto derou do popředí. Jak vypadají a kdo je odmítá? se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+      "description": "Apple's first foldable can be yours next month.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
+      "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+      "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding games, framed it as a \"difficult decision to […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "Why this month's Microsoft patch release is a doozy",
-    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-    "source": "Ars Technica",
+    "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
+    "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+    "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding games, framed it as a \"difficult decision to […]",
+    "source": "The Verge",
     "language": "en",
-    "category": "Security",
-    "workSignal": "Useful context for safer tools, dependencies, or processes."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
