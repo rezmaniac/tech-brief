@@ -1,47 +1,92 @@
 {
-  "generatedAt": "2026-09-10T10:24:20.163287+00:00",
+  "generatedAt": "2026-09-11T10:25:45.658811+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "4 groups caught using the same Chrome and Windows exploit kit",
-    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-    "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+    "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+    "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+    "description": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Security",
-    "workSignal": "Useful context for safer tools, dependencies, or processes."
+    "category": "Hardware",
+    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
   },
   "stories": [
     {
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
-      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-      "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "description": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "description": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "V Dolních Chabrech finišuje projekt, který sem přinese přes tisíc bytů. Vznikne tu i „mikroles“",
+      "url": "https://cc.cz/v-dolnich-chabrech-finisuje-projekt-ktery-sem-prinese-pres-tisic-bytu-vznikne-tu-i-mikroles/",
+      "description": "Poslední fáze výstavby počítá s pěti budovami a 209 byty. Vyjde na dvě miliardy korun, za návrhem stojí studio Ian Bryan Architects. Článek V Dolních Chabrech finišuje projekt, který sem přinese přes tisíc bytů. Vznikne tu i „mikroles“ se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "description": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
-      "url": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
-      "description": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main camera modules to let more or less light into the […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nejdřív propadl, pak se stal klasikou televizní romantiky. Čeká pokračování čarodějnického filmu to samé?",
-      "url": "https://cc.cz/nejdriv-propadl-pak-se-stal-klasikou-televizni-romantiky-ceka-pokracovani-carodejnickeho-filmu-to-same/",
-      "description": "Magická posedlost s Nicole Kidman a Sandrou Bullock je typický guilty pleasure film s hordou věrných fanoušků, i když kritici smýšlí jinak. Článek Nejdřív propadl, pak se stal klasikou televizní romantiky. Čeká pokračování čarodějnického filmu to samé? se nejdříve objevil na CzechCrunch .",
+      "title": "Začalo to chybou. Známý youtuber, úspěšný spisovatel a autor „dračáku“ spojili síly u projektu za miliony",
+      "url": "https://cc.cz/zacalo-to-chybou-znamy-youtuber-uspesny-spisovatel-a-autor-dracaku-spojili-sily-u-projektu-za-miliony/",
+      "description": "Česká aplikace Epos sází na interaktivní příběhy ve vaší kapse. Jejich děj si přečtete, ale navíc ho ovlívnite – a dokonce uslyšíte nadabovaný. Článek Začalo to chybou. Známý youtuber, úspěšný spisovatel a autor „dračáku“ spojili síly u projektu za miliony se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
-      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
-      "description": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+      "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+      "description": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "description": "Mullenweg said in a company Slack message that it was against his will.",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The Trump phone just got a $250 price hike",
-      "url": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
-      "description": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. This wasn't a total surprise though, especially given the phone ships with […]",
+      "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
+      "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
+      "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. With support for Wi-Fi 6 and 2GB of memory, it’s […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,81 +139,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Od skla přes módu až po legendární ABC. V Praze dnes začíná Czech Design Week, rozprostře se po celém městě",
-      "url": "https://cc.cz/od-skla-pres-modu-az-po-legendarni-abc-v-praze-dnes-zacina-czech-design-week-rozprostre-se-po-celem-meste/",
-      "description": "Třináctý ročník Czech Design Weeku potrvá do neděle a představí přes stovku tvůrců. Ty najdete nejen v Mánesu, ale třeba i v Rothmayerově vile. Článek Od skla přes módu až po legendární ABC. V Praze dnes začíná Czech Design Week, rozprostře se po celém městě se nejdříve objevil na CzechCrunch .",
+      "title": "Jak se daří firmám na sociálních sítích a jaké obory to opravdu umí? To ukazuje unikátní český benchmark",
+      "url": "https://cc.cz/jak-se-dari-firmam-na-socialnich-sitich-a-jake-obory-to-opravdu-umi-to-ukazuje-unikatni-cesky-benchmark/",
+      "description": "„Za sledující si nic nekoupíte,“ říká Adam Brousek z agentury Hustle. Jejich nový benchmark srovnává české značky na Instagramu obor po oboru. Článek Jak se daří firmám na sociálních sítích a jaké obory to opravdu umí? To ukazuje unikátní český benchmark se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "description": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
-      "url": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
-      "description": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Stockfish 19",
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Zní to jako matematická úloha, byty 1,5+kk se přesto derou do popředí. Jak vypadají a kdo je odmítá?",
-      "url": "https://cc.cz/zni-to-jako-matematicka-uloha-byty-15kk-se-presto-derou-do-popredi-jak-vypadaji-a-kdo-je-odmita/",
-      "description": "Kompromis mezi garsonkou a dvoupokojovým bytem má snížit cenu třeba pro singles. Část developerů v tomto nápadu vidí budoucnost, jiní jej zavrhují. Článek Zní to jako matematická úloha, byty 1,5+kk se přesto derou do popředí. Jak vypadají a kdo je odmítá? se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-      "description": "Apple's first foldable can be yours next month.",
+      "title": "Android can now securely migrate your logins between password managers",
+      "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "description": "App support is slim right now, but Google says more are coming.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
-      "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-      "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding games, framed it as a \"difficult decision to […]",
+      "title": "Electric air taxis get the green light for test flights in Texas",
+      "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+      "description": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP) selected eight state-led […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,11 +176,11 @@
     }
   ],
   "curiosity": {
-    "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
-    "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-    "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding games, framed it as a \"difficult decision to […]",
-    "source": "The Verge",
-    "language": "en",
+    "title": "Jak se daří firmám na sociálních sítích a jaké obory to opravdu umí? To ukazuje unikátní český benchmark",
+    "url": "https://cc.cz/jak-se-dari-firmam-na-socialnich-sitich-a-jake-obory-to-opravdu-umi-to-ukazuje-unikatni-cesky-benchmark/",
+    "description": "„Za sledující si nic nekoupíte,“ říká Adam Brousek z agentury Hustle. Jejich nový benchmark srovnává české značky na Instagramu obor po oboru. Článek Jak se daří firmám na sociálních sítích a jaké obory to opravdu umí? To ukazuje unikátní český benchmark se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
