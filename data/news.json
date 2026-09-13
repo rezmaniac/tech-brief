@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-09-12T09:55:33.593667+00:00",
+  "generatedAt": "2026-09-13T10:55:51.887461+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Some satellite companies still have an appetite for boutique launch services",
-    "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-    "description": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+    "title": "I spent $4,000 on a robot dog from China",
+    "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+    "description": "Unitree might be the world’s most important robotics company.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "description": "Unitree might be the world’s most important robotics company.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Chalupu po sudetských Němcích opravoval 25 let. Teď je k prodeji, v ceně je i vinárna, udírna a možná duch",
+      "url": "https://cc.cz/chalupu-po-sudetskych-nemcich-opravoval-25-let-ted-je-k-prodeji-v-cene-je-i-vinarna-udirna-a-mozna-duch/",
+      "description": "Michal Klega si původně myslel, že ruinu bez stropů opraví za dva roky. O čtvrt století později chalupu prodává a míří do Karákóramu. Článek Chalupu po sudetských Němcích opravoval 25 let. Teď je k prodeji, v ceně je i vinárna, udírna a možná duch se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Some satellite companies still have an appetite for boutique launch services",
       "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
@@ -22,40 +67,40 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "description": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal […]",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "description": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Bývalý mistr světa před lety udělal z jízdy na kole sběratelskou hru. Jedna z nejtěžších tras vede Rakouskem",
-      "url": "https://cc.cz/byvaly-mistr-sveta-pred-lety-udelal-z-jizdy-na-kole-sberatelskou-hru-jedna-z-nejtezsich-tras-vede-rakouskem/",
-      "description": "Šlapete do pedálů a sbíráte značky na vrcholcích hor. Salcburskou trasu Rolanda Staudera letos projedete do konce září. Stoneman má trasu i u nás. Článek Bývalý mistr světa před lety udělal z jízdy na kole sběratelskou hru. Jedna z nejtěžších tras vede Rakouskem se nejdříve objevil na CzechCrunch .",
+      "title": "Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme",
+      "url": "https://cc.cz/schopnosti-ai-zacaly-desit-i-sefy-firem-ktere-ji-vyviji-vyjimecne-se-shodli-a-slibuji-zpomalime/",
+      "description": "Sílí hlasy, že rozvoj AI by neměl být tak překotný. A ke zpomalení vyzvali i ti, kdo tempo inovací přímo určují – šéfové OpenAI a Anthropicu. Článek Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
       "title": "Random rewards enrich classic game-theory insights",
@@ -67,26 +112,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-      "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-      "description": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official WordPress account shared and […]",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "IKEA made a mod for Skyrim [video]",
-      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,13 +139,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Z koučů na život jsou mentoři AI, zlobí se muž, který s ní překopává svou firmu. Za cenu tramvajenky",
-      "url": "https://cc.cz/z-koucu-na-zivot-jsou-mentori-ai-zlobi-se-muz-ktery-s-ni-prekopava-svou-firmu-za-cenu-tramvajenky/",
-      "description": "Jakub Lohniský si za půlrok postavil web, rezervační systém i vlastní ERP. Platí za to zhruba dva tisíce měsíčně a prodejci AI kurzů ho iritují. Článek Z koučů na život jsou mentoři AI, zlobí se muž, který s ní překopává svou firmu. Za cenu tramvajenky se nejdříve objevil na CzechCrunch .",
+      "title": "Začala blogem o životě v Norsku, po návratu rozjela první byznys. Dnes s manželem vedou dvě milionové firmy",
+      "url": "https://cc.cz/zacala-blogem-o-zivote-v-norsku-po-navratu-rozjela-prvni-byznys-dnes-s-manzelem-vedou-dve-milionove-firmy/",
+      "description": "Podnikatelka Tereza Salte s manželem stojí za agenturou Elite Bloggers a značkou Salted, která nyní v Praze otevřela svou třetí kamennou pobočku. Článek Začala blogem o životě v Norsku, po návratu rozjela první byznys. Dnes s manželem vedou dvě milionové firmy se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
       "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
@@ -112,63 +157,18 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "description": "Tesla’s halo sports car was first announced in November 2017.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "We unfolded the iPhone Duo",
-      "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
-      "description": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of the […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Sto kilo odpadního plastu se proměnilo ve světlo. Kostel u Rakovníka teď zdobí 3D tištěná instalace",
-      "url": "https://cc.cz/sto-kilo-odpadniho-plastu-se-promenilo-ve-svetlo-kostel-u-rakovnika-ted-zdobi-3d-tistena-instalace/",
-      "description": "Instalace vznikla pomocí robotického 3D tisku a ručního dokončování. Autoři už usilují i o zápis do Guinnessovy knihy rekordů. Článek Sto kilo odpadního plastu se proměnilo ve světlo. Kostel u Rakovníka teď zdobí 3D tištěná instalace se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-      "description": "The Department of Energy declared an \"emergency\" when none existed.",
-      "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-      "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
-      "description": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gathered […]",
+      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+      "description": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,12 +176,12 @@
     }
   ],
   "curiosity": {
-    "title": "We unfolded the iPhone Duo",
-    "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
-    "description": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of the […]",
-    "source": "The Verge",
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+    "description": "Tesla’s halo sports car was first announced in November 2017.",
+    "source": "TechCrunch",
     "language": "en",
-    "category": "Hardware",
-    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
