@@ -1,17 +1,107 @@
 {
-  "generatedAt": "2026-09-13T10:55:51.887461+00:00",
+  "generatedAt": "2026-09-14T11:29:47.780124+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "I spent $4,000 on a robot dog from China",
-    "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-    "description": "Unitree might be the world’s most important robotics company.",
+    "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+    "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+    "description": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "description": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "What happens after a town de-Flocks",
+      "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+      "description": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Z ruiny po „králi plísňových džínů“ je sídlo skupiny miliardáře Igora Faita. Uvnitř má i sbírku umění",
+      "url": "https://cc.cz/z-ruiny-po-krali-plisnovych-dzinu-je-sidlo-skupiny-miliardare-igora-faita-uvnitr-ma-i-sbirku-umeni/",
+      "description": "Místo zchátralého areálu z devadesátek tu teď stojí moderní kancelářský komplex. Jsou zde obrazy, sochy, hřiště, zahrada i výhled na Brno. Článek Z ruiny po „králi plísňových džínů“ je sídlo skupiny miliardáře Igora Faita. Uvnitř má i sbírku umění se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "description": "The manufacturer has a service that lets owners repair their own equipment.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Konec plastových karet. Hotely Orea jsou první síť v Česku, kde odemknete pokoj telefonem nebo hodinkami",
+      "url": "https://cc.cz/konec-plastovych-karet-hotely-orea-jsou-prvni-sit-v-cesku-kde-odemknete-pokoj-telefonem-nebo-hodinkami/",
+      "description": "Česká skupina Orea Hotels & Resorts nasazuje mobilní klíče zatím ve dvou hotelech, do konce roku je chce mít v pěti. Fungují na iOS i Androidu. Článek Konec plastových karet. Hotely Orea jsou první síť v Česku, kde odemknete pokoj telefonem nebo hodinkami se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "I spent $4,000 on a robot dog from China",
       "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
@@ -22,26 +112,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,9 +139,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Chalupu po sudetských Němcích opravoval 25 let. Teď je k prodeji, v ceně je i vinárna, udírna a možná duch",
-      "url": "https://cc.cz/chalupu-po-sudetskych-nemcich-opravoval-25-let-ted-je-k-prodeji-v-cene-je-i-vinarna-udirna-a-mozna-duch/",
-      "description": "Michal Klega si původně myslel, že ruinu bez stropů opraví za dva roky. O čtvrt století později chalupu prodává a míří do Karákóramu. Článek Chalupu po sudetských Němcích opravoval 25 let. Teď je k prodeji, v ceně je i vinárna, udírna a možná duch se nejdříve objevil na CzechCrunch .",
+      "title": "Nedařilo se mu v podnikání, tak ve volné chvíli vytvořil doslova zbytečnou aplikaci. Vydělal na ní miliony",
+      "url": "https://cc.cz/nedarilo-se-mu-v-podnikani-tak-ve-volne-chvili-vytvoril-doslova-zbytecnou-aplikaci-vydelal-na-ni-miliony/",
+      "description": "Vznikl za tři hodiny, skoro nic neumí a vypadá jako obyčejný web vygenerovaný umělou inteligencí. Přesto na něm Outbid.lol vydělal miliony. Článek Nedařilo se mu v podnikání, tak ve volné chvíli vytvořil doslova zbytečnou aplikaci. Vydělal na ní miliony se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,108 +157,18 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "description": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme",
-      "url": "https://cc.cz/schopnosti-ai-zacaly-desit-i-sefy-firem-ktere-ji-vyviji-vyjimecne-se-shodli-a-slibuji-zpomalime/",
-      "description": "Sílí hlasy, že rozvoj AI by neměl být tak překotný. A ke zpomalení vyzvali i ti, kdo tempo inovací přímo určují – šéfové OpenAI a Anthropicu. Článek Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Random rewards enrich classic game-theory insights",
-      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-      "description": "Simple games gain rich strategies in the face of noise.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Začala blogem o životě v Norsku, po návratu rozjela první byznys. Dnes s manželem vedou dvě milionové firmy",
-      "url": "https://cc.cz/zacala-blogem-o-zivote-v-norsku-po-navratu-rozjela-prvni-byznys-dnes-s-manzelem-vedou-dve-milionove-firmy/",
-      "description": "Podnikatelka Tereza Salte s manželem stojí za agenturou Elite Bloggers a značkou Salted, která nyní v Praze otevřela svou třetí kamennou pobočku. Článek Začala blogem o životě v Norsku, po návratu rozjela první byznys. Dnes s manželem vedou dvě milionové firmy se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-      "description": "The strain lurking in the inflatable structure was hypervirulent.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "description": "Tesla’s halo sports car was first announced in November 2017.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "description": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, […]",
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,12 +176,12 @@
     }
   ],
   "curiosity": {
-    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-    "description": "Tesla’s halo sports car was first announced in November 2017.",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
     "source": "TechCrunch",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   }
 }
