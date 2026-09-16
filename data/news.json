@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-14T11:29:47.780124+00:00",
+  "generatedAt": "2026-09-16T10:40:23.400632+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-    "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-    "description": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+    "title": "How chimps teach their kids tool tricks",
+    "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+    "description": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,35 @@
   },
   "stories": [
     {
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-      "description": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "title": "How chimps teach their kids tool tricks",
+      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "description": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "description": "Amazon is letting all customers use Alexa+ assistant in early access period",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "What happens after a town de-Flocks",
-      "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
-      "description": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. […]",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Z ruiny po „králi plísňových džínů“ je sídlo skupiny miliardáře Igora Faita. Uvnitř má i sbírku umění",
-      "url": "https://cc.cz/z-ruiny-po-krali-plisnovych-dzinu-je-sidlo-skupiny-miliardare-igora-faita-uvnitr-ma-i-sbirku-umeni/",
-      "description": "Místo zchátralého areálu z devadesátek tu teď stojí moderní kancelářský komplex. Jsou zde obrazy, sochy, hřiště, zahrada i výhled na Brno. Článek Z ruiny po „králi plísňových džínů“ je sídlo skupiny miliardáře Igora Faita. Uvnitř má i sbírku umění se nejdříve objevil na CzechCrunch .",
+      "title": "Dřív je lovil, dnes zasvětil život jejich záchraně. Vombatí farmě v Austrálii pomáhá i česká technologie",
+      "url": "https://cc.cz/driv-je-lovil-dnes-zasvetil-zivot-jejich-zachrane-vombati-farme-v-australii-pomaha-i-ceska-technologie/",
+      "description": "Josh Neille pomáhá zraněným vombatům a klokanům v odlehlé buši. Peníze a vybavení na to má i díky českým 3D tiskárnám. Článek Dřív je lovil, dnes zasvětil život jejich záchraně. Vombatí farmě v Austrálii pomáhá i česká technologie se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-      "description": "The manufacturer has a service that lets owners repair their own equipment.",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "description": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Konec plastových karet. Hotely Orea jsou první síť v Česku, kde odemknete pokoj telefonem nebo hodinkami",
-      "url": "https://cc.cz/konec-plastovych-karet-hotely-orea-jsou-prvni-sit-v-cesku-kde-odemknete-pokoj-telefonem-nebo-hodinkami/",
-      "description": "Česká skupina Orea Hotels & Resorts nasazuje mobilní klíče zatím ve dvou hotelech, do konce roku je chce mít v pěti. Fungují na iOS i Androidu. Článek Konec plastových karet. Hotely Orea jsou první síť v Česku, kde odemknete pokoj telefonem nebo hodinkami se nejdříve objevil na CzechCrunch .",
+      "title": "Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva",
+      "url": "https://cc.cz/je-realne-zpomaleni-ai-pche-prijde-bramboracka-misto-debaty-o-tom-co-rozhodne-o-budoucnosti-lidstva/",
+      "description": "Lídři umělé inteligence vyzvali, aby se zpomalil její rozvoj. Bohužel jim nikdo nevěří, za což si mohou částečně sami. Ale to není jediný problém. Článek Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "I spent $4,000 on a robot dog from China",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "description": "Unitree might be the world’s most important robotics company.",
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "description": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Apple is reportedly working on iPhone game controllers",
-      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party […]",
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+      "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,49 +139,49 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nedařilo se mu v podnikání, tak ve volné chvíli vytvořil doslova zbytečnou aplikaci. Vydělal na ní miliony",
-      "url": "https://cc.cz/nedarilo-se-mu-v-podnikani-tak-ve-volne-chvili-vytvoril-doslova-zbytecnou-aplikaci-vydelal-na-ni-miliony/",
-      "description": "Vznikl za tři hodiny, skoro nic neumí a vypadá jako obyčejný web vygenerovaný umělou inteligencí. Přesto na něm Outbid.lol vydělal miliony. Článek Nedařilo se mu v podnikání, tak ve volné chvíli vytvořil doslova zbytečnou aplikaci. Vydělal na ní miliony se nejdříve objevil na CzechCrunch .",
+      "title": "Přišel ze Sibiře, první pivo vařil v hrnci. S kamarádem pak rozjel Sibeerii, které už je Praha malá",
+      "url": "https://cc.cz/je-ze-sibire-a-ma-rad-pivo-s-kamaradem-proto-rozjel-sibeerii-praha-jim-uz-nestaci-ted-miri-dal/",
+      "description": "Ruslan Shishmintsev a Roman Anochov přebírají výrobní provoz pivovaru Antoš ve Slaném. Jeho bývalí pachtýři mezitím spustili nový projekt Brewnicorn. Článek Přišel ze Sibiře, první pivo vařil v hrnci. S kamarádem pak rozjel Sibeerii, které už je Praha malá se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-      "description": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "description": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The Units’ Digital Stimulation is synthpunk perfection",
-      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-      "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock […]",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-    "source": "TechCrunch",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "description": "Comments",
+    "source": "Hacker News",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
