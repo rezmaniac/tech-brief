@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-16T10:40:23.400632+00:00",
+  "generatedAt": "2026-09-17T10:48:36.359455+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "How chimps teach their kids tool tricks",
-    "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-    "description": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "description": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
     {
-      "title": "How chimps teach their kids tool tricks",
-      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-      "description": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "description": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "description": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Meta is reportedly ready to launch less pervy smart glasses",
-      "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-      "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta […]",
+      "title": "The streamers are fighting over Halloween",
+      "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+      "description": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netflix, Amazon, and AMC - all premiered early looks at upcoming horror-adjacent series that are […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,126 +49,126 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Dřív je lovil, dnes zasvětil život jejich záchraně. Vombatí farmě v Austrálii pomáhá i česká technologie",
-      "url": "https://cc.cz/driv-je-lovil-dnes-zasvetil-zivot-jejich-zachrane-vombati-farme-v-australii-pomaha-i-ceska-technologie/",
-      "description": "Josh Neille pomáhá zraněným vombatům a klokanům v odlehlé buši. Peníze a vybavení na to má i díky českým 3D tiskárnám. Článek Dřív je lovil, dnes zasvětil život jejich záchraně. Vombatí farmě v Austrálii pomáhá i česká technologie se nejdříve objevil na CzechCrunch .",
+      "title": "Koupili firmu, hned nato jim plány dvakrát zkazily změny v Googlu. Stagnující byznys i tak nakopli",
+      "url": "https://cc.cz/koupili-firmu-hned-nato-jim-plany-dvakrat-zkazily-zmeny-v-googlu-stagnujici-byznys-i-tak-nakopli/",
+      "description": "Zavedený nástroj pro experty narazil na své limity. Noví majitelé vypnuli placené kampaně, otevřeli se širší cílové skupině a vsadili na AI. Článek Koupili firmu, hned nato jim plány dvakrát zkazily změny v Googlu. Stagnující byznys i tak nakopli se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-      "description": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+      "description": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "description": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Brněnská startupová ofenziva. Miliardář Igor Fait a spol. investovali během měsíce přes 150 milionů",
+      "url": "https://cc.cz/brnenska-startupova-ofenziva-miliardar-igor-fait-a-spol-investovali-behem-mesice-pres-150-milionu/",
+      "description": "Od kontroly dílů po opravy kódu. Startupový fond brněnské skupiny Jet Investment posílá peníze do čtyř firem ve Švédsku, Německu a USA. Článek Brněnská startupová ofenziva. Miliardář Igor Fait a spol. investovali během měsíce přes 150 milionů se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "description": "Group plans to be largely out of commission for several weeks.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "I wore Snap’s $2,200 smart glasses",
+      "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "description": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-      "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva",
-      "url": "https://cc.cz/je-realne-zpomaleni-ai-pche-prijde-bramboracka-misto-debaty-o-tom-co-rozhodne-o-budoucnosti-lidstva/",
-      "description": "Lídři umělé inteligence vyzvali, aby se zpomalil její rozvoj. Bohužel jim nikdo nevěří, za což si mohou částečně sami. Ale to není jediný problém. Článek Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-      "description": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-      "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-      "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Přišel ze Sibiře, první pivo vařil v hrnci. S kamarádem pak rozjel Sibeerii, které už je Praha malá",
-      "url": "https://cc.cz/je-ze-sibire-a-ma-rad-pivo-s-kamaradem-proto-rozjel-sibeerii-praha-jim-uz-nestaci-ted-miri-dal/",
-      "description": "Ruslan Shishmintsev a Roman Anochov přebírají výrobní provoz pivovaru Antoš ve Slaném. Jeho bývalí pachtýři mezitím spustili nový projekt Brewnicorn. Článek Přišel ze Sibiře, první pivo vařil v hrnci. S kamarádem pak rozjel Sibeerii, které už je Praha malá se nejdříve objevil na CzechCrunch .",
+      "title": "Od dovozu ovoce z Thajska po Šantovku a vinařství v Bordeaux. Zemřel olomoucký podnikatel Richard Morávek",
+      "url": "https://cc.cz/od-dovozu-ovoce-z-thajska-po-santovku-a-vinarstvi-v-bordeaux-zemrel-olomoucky-podnikatel-richard-moravek/",
+      "description": "Podnikatel Richard Morávek zemřel ve věku 56 let po vážné nehodě ve Španělsku. Za jeho skupinou Redstone stojí řada olomouckých projektů. Článek Od dovozu ovoce z Thajska po Šantovku a vinařství v Bordeaux. Zemřel olomoucký podnikatel Richard Morávek se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "18-year-old dies of measles in PA from severe neurological complication",
-      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-      "description": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+      "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+      "description": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood .",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "description": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed […]",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "description": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
@@ -176,10 +176,10 @@
     }
   ],
   "curiosity": {
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "url": "https://github.com/arnegiacomo/fugleramme",
-    "description": "Comments",
-    "source": "Hacker News",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+    "source": "TechCrunch",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
