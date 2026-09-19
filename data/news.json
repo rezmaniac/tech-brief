@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-18T10:24:10.573155+00:00",
+  "generatedAt": "2026-09-19T10:07:58.927581+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-    "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-    "description": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "description": "But the military's overall use of AI seems to be accelerating.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
     {
-      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "description": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "description": "But the military's overall use of AI seems to be accelerating.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-      "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says […]",
-      "source": "The Verge",
-      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Zápasit se u něj učí byznysmeni i Ben Cristovao, teď se po letech stěhuje – do sklepa plného medailí",
-      "url": "https://cc.cz/zapasit-se-u-nej-uci-byznysmeni-i-ben-cristovao-ted-se-po-letech-stehuje-do-sklepa-plneho-medaili/",
-      "description": "Fernando Araujo a jeho klub Jungle BJJ jsou tuzemské ikony brazilského jiu-jitsu. Bojového sportu, kterému propadla řada podnikatelů i celebrit. Článek Zápasit se u něj učí byznysmeni i Ben Cristovao, teď se po letech stěhuje – do sklepa plného medailí se nejdříve objevil na CzechCrunch .",
+      "title": "Vyšívat ji naučila teta po návratu z vězení a málem to zapomněla. Dnes tvoří výšivky za desítky tisíc",
+      "url": "https://cc.cz/vysivat-ji-naucila-teta-po-navratu-z-vezeni-a-malem-to-zapomnela-dnes-tvori-vysivky-za-desitky-tisic/",
+      "description": "Ivana Kocmanová pod značkou BRO převádí fotografie lidí do ručních výšivek. Za rok jich vytvoří maximálně patnáct. Článek Vyšívat ji naučila teta po návratu z vězení a málem to zapomněla. Dnes tvoří výšivky za desítky tisíc se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "description": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "description": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
       "source": "Ars Technica",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "description": "The round values the data center giant at $30.9 billion.",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The AI Superintelligence Slowdown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time […]",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Autosalony pro Gen Z? Kromě klikání v konfigurátoru si teď můžou Škodu v měřítku 1:1 zaparkovat do obýváku",
-      "url": "https://cc.cz/autosalony-pro-gen-z-krome-klikani-v-konfiguratoru-si-ted-muzou-skodu-v-meritku-11-zaparkovat-do-obyvaku/",
-      "description": "Budoucnost objevování automobilů se odehrává ve smíšené realitě. Otevřete kufr a změňte barvu interiéru dřív, než auto vůbec sjede z výrobní linky. Článek Autosalony pro Gen Z? Kromě klikání v konfigurátoru si teď můžou Škodu v měřítku 1:1 zaparkovat do obýváku se nejdříve objevil na CzechCrunch .",
+      "title": "Marketingový přestup roku? Hvězdný Mbappé se po 20 letech loučí s Nike, ve svých řadách ho vítá Federer",
+      "url": "https://cc.cz/marketingovy-prestup-roku-hvezdny-mbappe-se-po-20-letech-louci-s-nike-ve-svych-radach-ho-vita-federer/",
+      "description": "Švýcarská značka, známá běžeckými botami, zaútočila na tradiční fotbalový duopol. On do svých řad přetáhl i Thierryho Henryho. Článek Marketingový přestup roku? Hvězdný Mbappé se po 20 letech loučí s Nike, ve svých řadách ho vítá Federer se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "description": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+      "description": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "description": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: […]",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The scourge of x86 emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,49 +139,49 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Na bundu za tisíc eur neměla, tak si podobnou vytvořila sama. Dnes její značka utrží deset milionů ročně",
-      "url": "https://cc.cz/na-bundu-za-tisic-eur-nemela-tak-si-podobnou-vytvorila-sama-dnes-jeji-znacka-utrzi-deset-milionu-rocne/",
-      "description": "Návrhářka Sandra Štěpánek rozjela značku Foxy Furs na mateřské s pár tisíci korunami. Dnes pod vlastním jménem tvoří hlavně kožené kabáty. Článek Na bundu za tisíc eur neměla, tak si podobnou vytvořila sama. Dnes její značka utrží deset milionů ročně se nejdříve objevil na CzechCrunch .",
+      "title": "Vůbec nestudoval obor, který teď s AI mění. Jeho firma má už po třech letech cenu 118 miliard",
+      "url": "https://cc.cz/vubec-nestudoval-obor-ktery-ted-s-ai-meni-jeho-firma-ma-uz-po-trech-letech-cenu-118-miliard/",
+      "description": "Švédská Legora vybrala letos 600 milionů dolarů při ocenění 5,6 miliardy. Už ale jedná o dvojnásobku a dotahuje amerického konkurenta Harveyho. Článek Vůbec nestudoval obor, který teď s AI mění. Jeho firma má už po třech letech cenu 118 miliard se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Finding the cells that put our brain to sleep",
+      "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "description": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+      "source": "Ars Technica",
+      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "description": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
-      "source": "Ars Technica",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "description": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
-      "source": "TechCrunch",
+      "title": "The real story of the iPhone 18 Pro’s camera",
+      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+      "description": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Save $30 or more on a refurbished Apple TV 4K",
-      "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-      "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-    "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-    "description": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
     "source": "TechCrunch",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   }
 }
