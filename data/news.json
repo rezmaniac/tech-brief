@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-23T10:36:43.536769+00:00",
+  "generatedAt": "2026-09-24T10:56:26.043397+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-    "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-    "description": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+    "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+    "description": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,35 @@
   },
   "stories": [
     {
-      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-      "description": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "description": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "description": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider […]",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Jev in 25 Lines of Python",
-      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,89 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Saúdská Arábie ukázala první vlastní auta. Elektrický Exobot je jak ze sci-fi a má obří výklopné dveře",
-      "url": "https://cc.cz/saudska-arabie-ukazala-prvni-vlastni-auta-elektricky-exobot-je-jak-ze-sci-fi-a-ma-obri-vyklopne-dvere/",
-      "description": "Korunní princ odhalil první auta saúdské automobilky Ceer. Zadní pohon dodává chorvatský Rimac, přední motory Hyundai a design vedl muž z McLarenu. Článek Saúdská Arábie ukázala první vlastní auta. Elektrický Exobot je jak ze sci-fi a má obří výklopné dveře se nejdříve objevil na CzechCrunch .",
+      "title": "Je mu 62 a pořád je to sympaťák i drsňák, navíc má psa. Brad Pitt s ním bojuje o přežití na nádherné Aljašce",
+      "url": "https://cc.cz/je-mu-62-a-porad-je-to-sympatak-i-drsnak-navic-ma-psa-brad-pitt-s-nim-bojuje-o-preziti-na-nadherne-aljasce/",
+      "description": "FIlmová novinka V srdci divočiny je film ze staré školy. Brad Pitt a jeho psí spolubojovník Odin se vydají na nebezpečnou, ale nádhernou cestu. Článek Je mu 62 a pořád je to sympaťák i drsňák, navíc má psa. Brad Pitt s ním bojuje o přežití na nádherné Aljašce se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "description": "The frontier AI model race has entered its comparison shopping phase.",
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "description": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Discord’s age verification era is upon us, despite community backlash",
-      "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-      "description": "According to Discord, 90% of users will not have to verify their age.",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Paramount will need to release way more movies to make this merger work",
-      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-      "description": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Zemětřesení v Microsoftu. Vyhodí stovky lidí, dvě z jeho nejznámějších videoher čekají velké změny",
-      "url": "https://cc.cz/zemetreseni-v-microsoftu-vyhodi-stovky-lidi-dve-z-jeho-nejznamejsich-videoher-cekaji-velke-zmeny/",
-      "description": "Herní divize Xbox oznamuje další personální škrty a rušení či prodeje studií, jeho restrukturalizace navíc zasáhne série Age of Empires a Halo. Článek Zemětřesení v Microsoftu. Vyhodí stovky lidí, dvě z jeho nejznámějších videoher čekají velké změny se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-      "description": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can […]",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
       "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,49 +94,94 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Sýry ani salámy se nemusí vyhodit, dostanou je lidé v nouzi. Řetězec vylepšil systém proti plýtvání",
-      "url": "https://cc.cz/syry-ani-salamy-se-nemusi-vyhodit-dostanou-je-lide-v-nouzi-retezec-vylepsil-system-proti-plytvani/",
-      "description": "Řetězec Kaufland rozšiřuje darování o nejnáročnější kategorii čerstvých potravin. Díky pilotnímu projektu už zachránil stovky kilogramů lahůdek. Článek Sýry ani salámy se nemusí vyhodit, dostanou je lidé v nouzi. Řetězec vylepšil systém proti plýtvání se nejdříve objevil na CzechCrunch .",
+      "title": "Lidi se na ten nápad dívali s despektem. Češi pod vedením veterána Vietcongu tvoří dvojitě stresující hru",
+      "url": "https://cc.cz/lidi-se-na-ten-napad-divali-s-despektem-cesi-pod-vedenim-veterana-vietcongu-tvori-dvojite-stresujici-hru/",
+      "description": "Nová česká hra Mayhem à la Carte vzniká v brněnských Ingame Studios pod vedením zkušeného vývojáře Jarka Koláře. Připomene Overcooked i Crime Bosse. Článek Lidi se na ten nápad dívali s despektem. Češi pod vedením veterána Vietcongu tvoří dvojitě stresující hru se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "description": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "description": "The Disney+ ad-free plan is now more expensive than Netflix's.",
       "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "description": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Meta Connect 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+      "description": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "title": "Where's the Beef?: The lab-grown-meat revolution that wasn't",
+      "url": "https://harpers.org/archive/2026/09/wheres-the-beef-lab-grown-meat-erin-somers/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci",
+      "url": "https://cc.cz/jak-obstat-pracovne-i-mentalne-v-dobe-ai-a-geopolitickeho-napeti-poradi-uspesni-cesti-byznysmeni-i-vedci/",
+      "description": "Konference Innoforum v pražském DOXu nese téma odolnosti. Řeší, jak růst v nejistotě, rozhodovat pod tlakem a co čeká Evropu v bezpečnosti. Článek Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Here's the Torcal, the first fully electric Bentley",
+      "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+      "description": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "description": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to […]",
+      "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+      "description": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-    "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can […]",
-    "source": "The Verge",
+    "title": "Here's the Torcal, the first fully electric Bentley",
+    "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+    "description": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+    "source": "Ars Technica",
     "language": "en",
-    "category": "Hardware",
-    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
