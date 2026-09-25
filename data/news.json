@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-24T10:56:26.043397+00:00",
+  "generatedAt": "2026-09-25T10:57:59.351813+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-    "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-    "description": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+    "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+    "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+    "description": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,35 @@
   },
   "stories": [
     {
-      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-      "description": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+      "description": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]",
+      "title": "Here’s the Tesla Semi… again",
+      "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+      "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nokia Design Archive (2025)",
-      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Je mu 62 a pořád je to sympaťák i drsňák, navíc má psa. Brad Pitt s ním bojuje o přežití na nádherné Aljašce",
-      "url": "https://cc.cz/je-mu-62-a-porad-je-to-sympatak-i-drsnak-navic-ma-psa-brad-pitt-s-nim-bojuje-o-preziti-na-nadherne-aljasce/",
-      "description": "FIlmová novinka V srdci divočiny je film ze staré školy. Brad Pitt a jeho psí spolubojovník Odin se vydají na nebezpečnou, ale nádhernou cestu. Článek Je mu 62 a pořád je to sympaťák i drsňák, navíc má psa. Brad Pitt s ním bojuje o přežití na nádherné Aljašce se nejdříve objevil na CzechCrunch .",
+      "title": "Dluhopisy uhranuly i průmyslníkovi slavného jména. Martin Wichterle si jde k domácnostem pro 750 milionů",
+      "url": "https://cc.cz/dluhopisy-uhranuly-i-prumyslnikovi-slavneho-jmena-martin-wichterle-si-jde-k-domacnostem-pro-750-milionu/",
+      "description": "Průmyslová skupina Wikov Martina Wichterleho nabízí investorům úrok 7,75 % a splatnost do října 2030. Chce rozšířit výrobu. Článek Dluhopisy uhranuly i průmyslníkovi slavného jména. Martin Wichterle si jde k domácnostem pro 750 milionů se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-      "description": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+      "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+      "description": "Introducing the \"world-famous authority on outer space...\"",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "description": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Lidi se na ten nápad dívali s despektem. Češi pod vedením veterána Vietcongu tvoří dvojitě stresující hru",
-      "url": "https://cc.cz/lidi-se-na-ten-napad-divali-s-despektem-cesi-pod-vedenim-veterana-vietcongu-tvori-dvojite-stresujici-hru/",
-      "description": "Nová česká hra Mayhem à la Carte vzniká v brněnských Ingame Studios pod vedením zkušeného vývojáře Jarka Koláře. Připomene Overcooked i Crime Bosse. Článek Lidi se na ten nápad dívali s despektem. Češi pod vedením veterána Vietcongu tvoří dvojitě stresující hru se nejdříve objevil na CzechCrunch .",
+      "title": "Škrty v kultuře, svoboda projevu i vliv člověka na krajinu. V Praze začíná festival ilustrace a komiksu",
+      "url": "https://cc.cz/skrty-v-kulture-svoboda-projevu-i-vliv-cloveka-na-krajinu-v-praze-zacina-festival-ilustrace-a-komiksu/",
+      "description": "Třináctý ročník festivalu LUSTR představí přes stovku tvůrců z Česka i zahraničí. K výstavám přidá workshopy, přednášky nebo živé natáčení podcastu. Článek Škrty v kultuře, svoboda projevu i vliv člověka na krajinu. V Praze začíná festival ilustrace a komiksu se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "description": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "description": "F-Droid's Android app store has been rebuilt from the ground up.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "description": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "description": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "description": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta Connect 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-      "description": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Where's the Beef?: The lab-grown-meat revolution that wasn't",
-      "url": "https://harpers.org/archive/2026/09/wheres-the-beef-lab-grown-meat-erin-somers/",
+      "title": "Ink and Switch Interactive Homepage",
+      "url": "https://www.inkandswitch.com/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,36 +139,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci",
-      "url": "https://cc.cz/jak-obstat-pracovne-i-mentalne-v-dobe-ai-a-geopolitickeho-napeti-poradi-uspesni-cesti-byznysmeni-i-vedci/",
-      "description": "Konference Innoforum v pražském DOXu nese téma odolnosti. Řeší, jak růst v nejistotě, rozhodovat pod tlakem a co čeká Evropu v bezpečnosti. Článek Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci se nejdříve objevil na CzechCrunch .",
+      "title": "Na pilot seriálu se skládali lidé. Dnes s ním Plešouni vozí ceny z Tokia a dělají i aplikaci pro nemocné děti",
+      "url": "https://cc.cz/na-pilot-serialu-se-skladali-lide-dnes-s-nim-plesouni-vozi-ceny-z-tokia-a-delaji-i-aplikaci-pro-nemocne-deti/",
+      "description": "Animovaný seriál a aplikace pro onkologické pacienty výtvarnice Elišky Soffer Podzimek sbírají ocenění až v Japonsku. Podpořila je i Nadace PPF. Článek Na pilot seriálu se skládali lidé. Dnes s ním Plešouni vozí ceny z Tokia a dělají i aplikaci pro nemocné děti se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Here's the Torcal, the first fully electric Bentley",
-      "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-      "description": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+      "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+      "description": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-      "description": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "description": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can […]",
       "source": "The Verge",
       "language": "en",
       "category": "Hardware",
@@ -176,12 +176,12 @@
     }
   ],
   "curiosity": {
-    "title": "Here's the Torcal, the first fully electric Bentley",
-    "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-    "description": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
-    "source": "Ars Technica",
+    "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+    "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+    "description": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can […]",
+    "source": "The Verge",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Hardware",
+    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
   }
 }
