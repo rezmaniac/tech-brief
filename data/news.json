@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-09-26T10:38:31.170136+00:00",
+  "generatedAt": "2026-09-27T11:11:49.069715+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-    "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-    "description": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+    "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+    "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+      "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Zpívat začala díky Calinovi, pak přišla O2 arena. Sama bych na to neměla dost sebevědomí, říká Juli Koli",
+      "url": "https://cc.cz/zpivat-zacala-diky-calinovi-pak-prisla-o2-arena-sama-bych-na-to-nemela-dost-sebevedomi-rika-juli-koli/",
+      "description": "Hostkou podcastu Režim nerušit byla zpěvačka Juli Koli. Mluvila o rychlém startu kariéry, hledání vlastního stylu i odchodu z modelingu. Článek Zpívat začala díky Calinovi, pak přišla O2 arena. Sama bych na to neměla dost sebevědomí, říká Juli Koli se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
       "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
@@ -22,26 +67,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
-      "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-      "description": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that's what […]",
+      "title": "Decap is the man behind the drums behind your favorite song",
+      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+      "description": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,9 +94,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Kolik pohybu stačí ke dlouhověkosti? Vědci sbírali 30 let data a sestavili poměrně přesný návod, co dělat",
-      "url": "https://cc.cz/kolik-pohybu-staci-ke-dlouhovekosti-vedci-sbirali-30-let-data-a-sestavili-pomerne-presny-navod-co-delat/",
-      "description": "Ideální silový trénink by měl trvat 90 až 120 minut týdně, vše navíc je už zbytečné. Ukázala to třicetiletá studie na 147 tisících lidech. Článek Kolik pohybu stačí ke dlouhověkosti? Vědci sbírali 30 let data a sestavili poměrně přesný návod, co dělat se nejdříve objevil na CzechCrunch .",
+      "title": "Černá kabina v jihočeském lese měla sloužit jako galerie i útočiště. Projekt nakonec vznikl na Sicílii",
+      "url": "https://cc.cz/cerna-kabina-v-jihoceskem-lese-mela-slouzit-jako-galerie-i-utociste-projekt-nakonec-vznikl-na-sicilii/",
+      "description": "Projekt architektů pracoval s opalovaným dřevem, prosklenou fasádou a interiérem pro odpočinek i setkávání. Autoři věří, že ještě někdy vznikne. Článek Černá kabina v jihočeském lese měla sloužit jako galerie i útočiště. Projekt nakonec vznikl na Sicílii se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,36 +112,36 @@
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
-      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-      "description": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter the […]",
+      "title": "Kids turned the comment section of an NPR podcast into a group chat",
+      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Amerika má Muska, Evropa miliardovou helenu. Hraje na cello a do kosmu posílá nákladní kapsle",
-      "url": "https://cc.cz/amerika-ma-muska-evropa-akcni-damu-hraje-na-cello-a-ma-ctyri-deti-kdo-je-miliardova-helena/",
-      "description": "The Exploration Company Hélène Hubyové nabrala devět miliard korun od investorů a od ESA dostala zakázku za 18 miliard na zásobování ISS. Článek Amerika má Muska, Evropa miliardovou helenu. Hraje na cello a do kosmu posílá nákladní kapsle se nejdříve objevil na CzechCrunch .",
+      "title": "Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly",
+      "url": "https://cc.cz/odjel-sam-na-hory-a-premyslel-co-koupit-michal-semotan-popisuje-jak-v-ppf-stavi-portfolio-od-nuly/",
+      "description": "Dlouhé roky byl tváří investic ve skupině J&T, nyní rozjíždí Michal Semotan nové projekty pro PPF. V podcastu Money Maker Hedge popsal, jak přemýšlí. Článek Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -112,76 +157,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Phones don’t have lights",
-      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-      "description": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do […]",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]",
       "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Čínské AUDI je i s cly o stovky tisíc levnější než německé Audi. Kuriózní spor odhaluje hloubku problému",
-      "url": "https://cc.cz/cinske-audi-je-i-s-cly-o-700-tisic-levnejsi-nez-nemecke-audi-kuriozni-spor-odhaluje-hloubku-problemu/",
-      "description": "V Číně stojí AUDI E5 zhruba 640 tisíc korun, v Evropě i s cly násobně víc. A pořád může být výrazně levnější než srovnatelné Audi S6 e-tron. Článek Čínské AUDI je i s cly o stovky tisíc levnější než německé Audi. Kuriózní spor odhaluje hloubku problému se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "description": "Ads appearing all over the Internet are trying to scam people.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-      "description": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "source": "TechCrunch",
-    "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "title": "Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly",
+    "url": "https://cc.cz/odjel-sam-na-hory-a-premyslel-co-koupit-michal-semotan-popisuje-jak-v-ppf-stavi-portfolio-od-nuly/",
+    "description": "Dlouhé roky byl tváří investic ve skupině J&T, nyní rozjíždí Michal Semotan nové projekty pro PPF. V podcastu Money Maker Hedge popsal, jak přemýšlí. Článek Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
