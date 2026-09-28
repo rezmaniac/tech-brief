@@ -1,17 +1,107 @@
 {
-  "generatedAt": "2026-09-27T11:11:49.069715+00:00",
+  "generatedAt": "2026-09-28T12:38:55.531833+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-    "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-    "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+    "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "description": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "description": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Desítky let se tu sbíral kov, teď zde rostou haly. Podívejte se na proměnu bývalého Kovošrotu",
+      "url": "https://cc.cz/desitky-let-se-tu-sbiral-kov-ted-zde-rostou-haly-podivejte-se-na-promenu-byvaleho-kovosrotu/",
+      "description": "Příprava zanedbaného území trvala téměř deset let. Investice do první fáze projektu dosáhne dvou miliard korun. Článek Desítky let se tu sbíral kov, teď zde rostou haly. Podívejte se na proměnu bývalého Kovošrotu se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+      "description": "The Smithsonian has faced withering pressure from the Trump administration.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Z Třince přes korunku Miss World k vlastní aplikaci. Krystyna Pyszková učí teenagery hospodařit s penězi",
+      "url": "https://cc.cz/z-trince-pres-korunku-miss-world-k-vlastni-aplikaci-krystyna-pyszkova-uci-teenagery-hospodarit-s-penezi/",
+      "description": "Pětina prváků nezvládne test finanční gramotnosti ani na minimální úrovni. Bezplatná aplikace Pyszko Foundation ji chce učit přes hry a simulace. Článek Z Třince přes korunku Miss World k vlastní aplikaci. Krystyna Pyszková učí teenagery hospodařit s penězi se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
       "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
@@ -22,36 +112,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-      "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "description": "Comments",
-      "source": "Hacker News",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Zpívat začala díky Calinovi, pak přišla O2 arena. Sama bych na to neměla dost sebevědomí, říká Juli Koli",
-      "url": "https://cc.cz/zpivat-zacala-diky-calinovi-pak-prisla-o2-arena-sama-bych-na-to-nemela-dost-sebevedomi-rika-juli-koli/",
-      "description": "Hostkou podcastu Režim nerušit byla zpěvačka Juli Koli. Mluvila o rychlém startu kariéry, hledání vlastního stylu i odchodu z modelingu. Článek Zpívat začala díky Calinovi, pak přišla O2 arena. Sama bych na to neměla dost sebevědomí, říká Juli Koli se nejdříve objevil na CzechCrunch .",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "description": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Devět druhů nudlí a hovězí vývar. Nové čínské bistro láká na tradici, z níž měl vzejít i ramen",
+      "url": "https://cc.cz/devet-druhu-nudli-a-hovezi-vyvar-nove-cinske-bistro-laka-na-tradici-z-niz-vzesel-i-ramen/",
+      "description": "Nový podnik se jmenuje Lami a nudle v něm vznikají před vašima očima. Práci mistra nudlaře totiž můžete sledovat, zatímco čekáte na objednávku. Článek Devět druhů nudlí a hovězí vývar. Nové čínské bistro láká na tradici, z níž měl vzejít i ramen se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,121 +157,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "description": "\"AI is the devil and I its maker.\"",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-      "description": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score […]",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Černá kabina v jihočeském lese měla sloužit jako galerie i útočiště. Projekt nakonec vznikl na Sicílii",
-      "url": "https://cc.cz/cerna-kabina-v-jihoceskem-lese-mela-slouzit-jako-galerie-i-utociste-projekt-nakonec-vznikl-na-sicilii/",
-      "description": "Projekt architektů pracoval s opalovaným dřevem, prosklenou fasádou a interiérem pro odpočinek i setkávání. Autoři věří, že ještě někdy vznikne. Článek Černá kabina v jihočeském lese měla sloužit jako galerie i útočiště. Projekt nakonec vznikl na Sicílii se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "description": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-      "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly",
-      "url": "https://cc.cz/odjel-sam-na-hory-a-premyslel-co-koupit-michal-semotan-popisuje-jak-v-ppf-stavi-portfolio-od-nuly/",
-      "description": "Dlouhé roky byl tváří investic ve skupině J&T, nyní rozjíždí Michal Semotan nové projekty pro PPF. V podcastu Money Maker Hedge popsal, jak přemýšlí. Článek Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "description": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
     }
   ],
   "curiosity": {
-    "title": "Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly",
-    "url": "https://cc.cz/odjel-sam-na-hory-a-premyslel-co-koupit-michal-semotan-popisuje-jak-v-ppf-stavi-portfolio-od-nuly/",
-    "description": "Dlouhé roky byl tváří investic ve skupině J&T, nyní rozjíždí Michal Semotan nové projekty pro PPF. V podcastu Money Maker Hedge popsal, jak přemýšlí. Článek Odjel sám na hory a přemýšlel, co koupit. Michal Semotan popisuje, jak v PPF staví portfolio od nuly se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]",
+    "source": "The Verge",
+    "language": "en",
+    "category": "Security",
+    "workSignal": "Useful context for safer tools, dependencies, or processes."
   }
 }
