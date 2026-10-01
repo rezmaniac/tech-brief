@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-30T11:45:49.552813+00:00",
+  "generatedAt": "2026-10-01T12:14:46.092379+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-    "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-    "description": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+    "title": "Dinosaur-killing impact crater might have been teeming with life",
+    "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+    "description": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,80 +13,80 @@
   },
   "stories": [
     {
-      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-      "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-      "description": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+      "title": "Dinosaur-killing impact crater might have been teeming with life",
+      "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+      "description": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
-      "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-      "description": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered assistant. The smart home hub, a new product […]",
+      "title": "Huawei made a whole camera to attach to its latest phone",
+      "url": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+      "description": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could never match. Today, Huawei one-upped everybody with the add-on lens for its Mate 90 Pro Max flagship, which is not only a comically huge […]",
       "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Pi.dev: You Said No MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Akcie padá, ale Barta a spol. sází na zvrat. Do americké vzdělávací firmy už poslali kolem 3,6 miliardy",
-      "url": "https://cc.cz/akcie-pada-ale-barta-a-spol-sazi-na-zvrat-do-americke-vzdelavaci-firmy-uz-poslali-kolem-36-miliardy/",
-      "description": "Čeští investoři z Pale Fire Capital mají ve společnosti Coursera podíl přesahující deset procent a přikupují dál. Zatím jsou ve ztrátě. Článek Akcie padá, ale Barta a spol. sází na zvrat. Do americké vzdělávací firmy už poslali kolem 3,6 miliardy se nejdříve objevil na CzechCrunch .",
+      "title": "Klimatická satira, černý humor a Tom Cruise k nepoznání. Stojí novinka oscarového režiséra za to?",
+      "url": "https://cc.cz/klimaticka-satira-cerny-humor-a-tom-cruise-k-nepoznani-stoji-novinka-oscaroveho-rezisera-za-to/",
+      "description": "Ledová kra se rychle řítí k Evropě a ropný magnát přemýšlí, že tentokrát pomůže svět zachránit. Příběh si ale schovává jedno překvapení. Článek Klimatická satira, černý humor a Tom Cruise k nepoznání. Stojí novinka oscarového režiséra za to? se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Protests against OpenAI get increasingly creative",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-      "description": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+      "description": "State health officials race to vaccinate residents by giving over 8,500 doses.",
       "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+      "title": "This very fancy e-bike is one of the first to go semi-solid state",
+      "url": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
+      "description": "The Lemmo 3 is the first cargo bike from the respected German e-bike maker. This premium, step-through longtail is a slightly less insane take on Rivian's Also TM-B, with one major advantage: It's one of the first electric bikes to feature a semi-solid state battery. Semi-solid state batteries are far safer than traditional lithium-ion batteries. […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,81 +94,81 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Žádné zbytečné vypínače ani čekání na teplo. V Brně zazářila v soutěži bytovka s vyladěnou chytrou domácností",
-      "url": "https://cc.cz/zadne-zbytecne-vypinace-ani-cekani-na-teplo-v-brne-zazarila-v-soutezi-bytovka-s-vyladenou-chytrou-domacnosti/",
-      "description": "Chytré technologie se posouvají z luxusu do běžných řešení. Brněnský projekt Leitnerova se i díky nim stal Stavbou Jihomoravského kraje. Článek Žádné zbytečné vypínače ani čekání na teplo. V Brně zazářila v soutěži bytovka s vyladěnou chytrou domácností se nejdříve objevil na CzechCrunch .",
+      "title": "Prodal startup Američanům, teď se veze na vlně padelu. Půlku jeho nové aplikace získává za miliony Miton",
+      "url": "https://cc.cz/prodal-startup-americanum-ted-se-veze-na-vlne-padelu-pulku-jeho-nove-aplikace-ziskava-za-miliony-miton/",
+      "description": "Jiří Diblík a Tomáš Hodboď chtějí z aplikace Ace udělat sociální síť pro hráče padelu. Za vzor mají Stravu, za soupeře španělský Playtomic. Článek Prodal startup Američanům, teď se veze na vlně padelu. Půlku jeho nové aplikace získává za miliony Miton se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "A local network of implants uses your body as the wiring",
+      "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+      "description": "It's possible to send electrical signals right through human tissues.",
+      "source": "Ars Technica",
+      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "description": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "description": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "description": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said […]",
+      "title": "The People of Utah vs. Kevin O’Leary",
+      "url": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
+      "description": "On the morning of May 11th, the celebrity investor Kevin O’Leary appeared on Fox Business and announced that he was under attack by Chinese agents. For weeks, he had been going on TV and posting online to tout his project, called Wonder Valley, after his nickname from the reality show Shark Tank, Mr. Wonderful. It […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Zadejte úkol, odejděte a vraťte se k hotovému. OpenAI spouští agenty, kteří vás už skoro nebudou potřebovat",
-      "url": "https://cc.cz/zadejte-ukol-odejdete-a-vratte-se-k-hotovemu-openai-spousti-agenty-kteri-vas-uz-skoro-nebudou-potrebovat/",
-      "description": "Místo neustálého psaní promptů stačí načrtnout cíl. Noví autonomní agenti propojují aplikace a odevzdávají kompletně odbavenou práci. Článek Zadejte úkol, odejděte a vraťte se k hotovému. OpenAI spouští agenty, kteří vás už skoro nebudou potřebovat se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-      "description": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+      "title": "Michle bývala průmyslovým zázemím Prahy. Nová bytová zástavba ale odhaluje její přívětivější tvář",
+      "url": "https://cc.cz/michle-byvala-prumyslovym-zazemim-prahy-nova-bytova-zastavba-ale-odhaluje-jeji-privetivejsi-tvar/",
+      "description": "Průvodce po developerských projektech v pražské čtvrti Michle a okolí ukazuje, jak se i tato dříve přehlížená část rychle rozvíjí a láká investory. Článek Michle bývala průmyslovým zázemím Prahy. Nová bytová zástavba ale odhaluje její přívětivější tvář se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "description": "A simple email gives the attackers the ability to remotely inject OS commands.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-      "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-      "description": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says […]",
+      "title": "Noise from Universal’s latest ride made rich locals furious, fast",
+      "url": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
+      "description": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In a meeting attended by at least 350 people yesterday, park execs also promised that Fast & Furious: Hollywood Drift won't operate between 8AM and 9AM for the rest of the […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,11 +176,11 @@
     }
   ],
   "curiosity": {
-    "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-    "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-    "description": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says […]",
-    "source": "The Verge",
-    "language": "en",
+    "title": "Michle bývala průmyslovým zázemím Prahy. Nová bytová zástavba ale odhaluje její přívětivější tvář",
+    "url": "https://cc.cz/michle-byvala-prumyslovym-zazemim-prahy-nova-bytova-zastavba-ale-odhaluje-jeji-privetivejsi-tvar/",
+    "description": "Průvodce po developerských projektech v pražské čtvrti Michle a okolí ukazuje, jak se i tato dříve přehlížená část rychle rozvíjí a láká investory. Článek Michle bývala průmyslovým zázemím Prahy. Nová bytová zástavba ale odhaluje její přívětivější tvář se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
