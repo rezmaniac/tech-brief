@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T11:39:22.326766+00:00",
+  "generatedAt": "2026-10-05T13:19:32.188692+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-    "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-    "description": "\"...we were making history.\"",
+    "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+    "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+    "description": "Ars Technica's guide to new keyboard sensing technologies.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,80 +13,35 @@
   },
   "stories": [
     {
-      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-      "description": "\"...we were making history.\"",
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+      "description": "Ars Technica's guide to new keyboard sensing technologies.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Kvůli skandálům ho investoři vyhnali z Uberu. Teď hlásí velkolepý návrat s firmou, co chce nahradit lidi",
-      "url": "https://cc.cz/kvuli-skandalum-ho-investori-vyhnali-z-uberu-ted-hlasi-velkolepy-navrat-s-firmou-co-chce-nahradit-lidi/",
-      "description": "Místo ústupu do ústraní koupil Travis Kalanick startup a osm let budoval novou infrastrukturu. S Atoms chce změnit vaření i dopravu. Článek Kvůli skandálům ho investoři vyhnali z Uberu. Teď hlásí velkolepý návrat s firmou, co chce nahradit lidi se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "The dawn of the age of the exoskeleton",
-      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-      "description": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]",
+      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+      "description": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, it's made me more excited for the iPhone Duo and its matte inner display. 2023's TCL Nxtpaper […]",
       "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +49,89 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Netflix zavřel lidi do vězení jako slavný vědec. Chce zjistit, jestli moc skutečně kazí charakter",
-      "url": "https://cc.cz/netflix-zavrel-lidi-do-vezeni-jako-slavny-vedec-chce-zjistit-jestli-moc-skutecne-kazi-charakter/",
-      "description": "Nechvalně proslulý stanfordský vězeňský experiment se opakuje, tentokrát ho ale uvidíme na streamu. Článek Netflix zavřel lidi do vězení jako slavný vědec. Chce zjistit, jestli moc skutečně kazí charakter se nejdříve objevil na CzechCrunch .",
+      "title": "Sestřelit levný dron může stát miliony. Česká CSG proto sází na kanadskou střelu za zlomek ceny",
+      "url": "https://cc.cz/sestrelit-levny-dron-muze-stat-miliony-ceska-csg-proto-sazi-na-kanadskou-strelu-za-zlomek-ceny/",
+      "description": "Jak zastavit levné drony bez drahých raket? Strnadova CSG investuje do kanadského startupu, který řeší drahý problém moderních konfliktů. Článek Sestřelit levný dron může stát miliony. Česká CSG proto sází na kanadskou střelu za zlomek ceny se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
       "source": "Ars Technica",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]",
+      "title": "Google admits not every Android app runs great on Intel Googlebooks",
+      "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+      "description": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam",
+      "url": "https://cc.cz/evropa-se-po-case-ozvala-s-novym-ai-modelem-pro-bezneho-uzivatele-je-ale-k-nicemu-nemci-s-nim-miri-jinam/",
+      "description": "Cílem německých tvůrců je digitální suverenita Evropy. Uživatelé modelu Kolibri mají mít plnou kontrolu nad tím, kde se citlivá data zpracovávají. Článek Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+      "description": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Our minds aren’t equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Why don't more developers “use the platform”?",
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,49 +139,49 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "V 19 letech postavili úspěšný travel portál. Učí Čechy cestovat za půlku po Evropě i zbytku světa",
-      "url": "https://cc.cz/v-19-letech-postavili-uspesny-travel-portal-uci-cechy-cestovat-za-pulku-po-evrope-i-zbytku-sveta/",
-      "description": "Karolína Kociánová a Filip Komínek se potkali při studiu a od té doby spolu žijí, cestují i podnikají. Na sítích mají 350 tisíc sledujících. Článek V 19 letech postavili úspěšný travel portál. Učí Čechy cestovat za půlku po Evropě i zbytku světa se nejdříve objevil na CzechCrunch .",
+      "title": "Nejbohatší Čech míří do Varšavy. Bude hlavním investorem 170metrového mrakodrapu za 20 miliard",
+      "url": "https://cc.cz/nejbohatsi-cech-miri-do-varsavy-bude-hlavnim-investorem-170metroveho-mrakodrapu-za-20-miliard/",
+      "description": "Investiční skupina Akipia Michala Strnada, Tomáše Brzobohatého a Marka Šmrhy vstupuje do projektu Roma Tower. Stavět se má začít letos na podzim. Článek Nejbohatší Čech míří do Varšavy. Bude hlavním investorem 170metrového mrakodrapu za 20 miliard se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Someone got Doom in an SQL database",
-      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "description": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "description": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
-      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "An OpenAI safety employee has quit and is sounding the alarm",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
-    "source": "The Verge",
+    "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+    "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+    "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+    "source": "Ars Technica",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
