@@ -1,137 +1,47 @@
 {
-  "generatedAt": "2026-10-05T13:19:32.188692+00:00",
+  "generatedAt": "2026-10-06T12:35:39.573892+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-    "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-    "description": "Ars Technica's guide to new keyboard sensing technologies.",
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "description": "The reports of OpenAI agents harming 3rd party sites keep coming.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Security",
+    "workSignal": "Useful context for safer tools, dependencies, or processes."
   },
   "stories": [
     {
-      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-      "description": "Ars Technica's guide to new keyboard sensing technologies.",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "description": "The reports of OpenAI agents harming 3rd party sites keep coming.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
-      "description": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, it's made me more excited for the iPhone Duo and its matte inner display. 2023's TCL Nxtpaper […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Sestřelit levný dron může stát miliony. Česká CSG proto sází na kanadskou střelu za zlomek ceny",
-      "url": "https://cc.cz/sestrelit-levny-dron-muze-stat-miliony-ceska-csg-proto-sazi-na-kanadskou-strelu-za-zlomek-ceny/",
-      "description": "Jak zastavit levné drony bez drahých raket? Strnadova CSG investuje do kanadského startupu, který řeší drahý problém moderních konfliktů. Článek Sestřelit levný dron může stát miliony. Česká CSG proto sází na kanadskou střelu za zlomek ceny se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-      "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "description": "AI slop seems to be overwhelming bug bounty programs.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Google admits not every Android app runs great on Intel Googlebooks",
-      "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
-      "description": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "description": "Comments",
-      "source": "Hacker News",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam",
-      "url": "https://cc.cz/evropa-se-po-case-ozvala-s-novym-ai-modelem-pro-bezneho-uzivatele-je-ale-k-nicemu-nemci-s-nim-miri-jinam/",
-      "description": "Cílem německých tvůrců je digitální suverenita Evropy. Uživatelé modelu Kolibri mají mít plnou kontrolu nad tím, kde se citlivá data zpracovávají. Článek Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-      "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-      "description": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
-      "source": "Ars Technica",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+      "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Our minds aren’t equipped to handle AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, […]",
+      "title": "The planetary wave headed for California isn’t what you think it is",
+      "url": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
+      "description": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"freak\" phenomenon \"bringing trouble,\" it's worth understanding what this wave really is and isn't. Called a Kelvin wave, it's carrying warm water to the Americas that's typically trapped […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,36 +49,126 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nejbohatší Čech míří do Varšavy. Bude hlavním investorem 170metrového mrakodrapu za 20 miliard",
-      "url": "https://cc.cz/nejbohatsi-cech-miri-do-varsavy-bude-hlavnim-investorem-170metroveho-mrakodrapu-za-20-miliard/",
-      "description": "Investiční skupina Akipia Michala Strnada, Tomáše Brzobohatého a Marka Šmrhy vstupuje do projektu Roma Tower. Stavět se má začít letos na podzim. Článek Nejbohatší Čech míří do Varšavy. Bude hlavním investorem 170metrového mrakodrapu za 20 miliard se nejdříve objevil na CzechCrunch .",
+      "title": "Běžné banky jim nestačily. Kam tečou miliardy, které Češi získali prodejem svých životních firem",
+      "url": "https://cc.cz/bezne-banky-jim-nestacily-kam-tecou-miliardy-ktere-cesi-ziskali-prodejem-svych-zivotnich-firem/",
+      "description": "Podnikatelé z 90. let prodávají své firmy. Část miliard z prodeje Tescanu teď spravuje brněnský Jet Investment. Proč family office sází na fondy? Článek Běžné banky jim nestačily. Kam tečou miliardy, které Češi získali prodejem svých životních firem se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "All hail electrification. But let’s talk about the hard part.",
-      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-      "description": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "description": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
+      "url": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+      "description": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099), $50 lower than the usual price for the base Pixel 11, while the 256GB 11 Pro XL is $999, a $300 […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Nový investiční domov Michala Semotana dostal jméno a razítko od ČNB. Inspirací byla úrodná půda",
+      "url": "https://cc.cz/novy-investicni-domov-michala-semotana-dostal-jmeno-a-razitko-od-cnb-inspiraci-byla-urodna-puda/",
+      "description": "Skupina PPF sází v době levných ETF i na aktivní správu. Nové investiční produkty zamíří ke klientům Air Bank a PPF banky. Článek Nový investiční domov Michala Semotana dostal jméno a razítko od ČNB. Inspirací byla úrodná půda se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "description": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The new Fitbit Edge leaks",
-      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-      "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and […]",
+      "title": "The Verge’s guide to the best October Prime Day deals",
+      "url": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
+      "description": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them all into this package is the easiest way to keep the blast of upcoming coverage under control. Below, you’ll find every deal […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Žádné přednášky ani seminárky. Scio chce otevřít vysokou školu, kde studenti založí a povedou vlastní firmu",
+      "url": "https://cc.cz/zadne-prednasky-ani-seminarky-scio-chce-otevrit-vysokou-skolu-kde-studenti-zalozi-a-povedou-vlastni-firmu/",
+      "description": "Absolventům často chybí praxe, nová vysoká škola z ní plánuje udělat základ studia. První studenti by mohli nastoupit v září příštího roku. Článek Žádné přednášky ani seminárky. Scio chce otevřít vysokou školu, kde studenti založí a povedou vlastní firmu se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "description": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "The best October Prime Day tech deals we found",
+      "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+      "description": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personally like, too). There are plenty of headphone deals, plus some great products in the home entertainment […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,10 +176,10 @@
     }
   ],
   "curiosity": {
-    "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-    "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-    "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-    "source": "Ars Technica",
+    "title": "JetBrains reported a net financial loss first time in its tracked history",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "description": "Comments",
+    "source": "Hacker News",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
