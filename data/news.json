@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-07T12:28:49.144980+00:00",
+  "generatedAt": "2026-10-08T12:38:59.441208+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-    "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-    "description": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+    "description": "Full-stack safety solution for physical AI is being used by robotics companies.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
     {
-      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-      "description": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "description": "Full-stack safety solution for physical AI is being used by robotics companies.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Spotify expands audiobooks to over 180 markets",
-      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-      "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "description": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Google’s Pixel Buds update will put them to sleep along with you",
-      "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
-      "description": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-powered sleep detection, rolling out to both pairs of earbuds. If you're wearing a Pixel […]",
+      "title": "Xbox is launching a new film and TV division",
+      "url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
+      "description": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. Different teams at Xbox already do this work, but it will all now fall under the centralized XP division. XP formalizes four \"investment […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Shipping JPEG XL in Chrome",
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Chcete pracovat pro Elona Muska? SpaceX je prý populárnější než NASA, ale uvnitř vládne kult i sen o Marsu",
-      "url": "https://cc.cz/chcete-pracovat-pro-elona-muska-spacex-je-pry-popularnejsi-nez-nasa-ale-uvnitr-vladne-kult-i-sen-o-marsu/",
-      "description": "Hranice mezi loajalitou k firmě a oddaností zakladateli se stírá. Elon Musk zaměstnancům vštěpuje, že cesta na Mars je klíčová pro lidstvo. Článek Chcete pracovat pro Elona Muska? SpaceX je prý populárnější než NASA, ale uvnitř vládne kult i sen o Marsu se nejdříve objevil na CzechCrunch .",
+      "title": "Rodinný byznys z Písecka drtilo Temu, obrat klesl o třetinu a zisk o desítky procent. Našli však lék",
+      "url": "https://cc.cz/rodinny-byznys-z-pisecka-drtilo-temu-obrat-klesl-o-tretinu-a-zisk-o-desitky-procent-nasli-vsak-lek/",
+      "description": "Textilní firma Kvalitex se po letech propadů prodejů rozhodla přestat konkurovat asijským tržištím cenou a vsadila na řemeslo a lásku k tradicím. Článek Rodinný byznys z Písecka drtilo Temu, obrat klesl o třetinu a zisk o desítky procent. Našli však lék se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "description": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+      "description": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-      "description": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "AI could upend food delivery",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "description": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites […]",
+      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Cupertino might be made for your mom, but it’s a good take on tech",
+      "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+      "description": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians, Polymarket, Jeff Bezos' looksmaxxing obsession, OpenAI stealing Scarlett Johansson's voice, and the fight […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "title": "The Slow Formation of Durable Software",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,94 +94,94 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nikdo nechce jet na prezentaci, kterou AI shrne za vteřinu. Jaká bude nová role byznysových setkání?",
-      "url": "https://cc.cz/nikdo-nechce-jet-na-prezentaci-kterou-ai-shrne-za-vterinu-jaka-bude-nova-role-byznysovych-setkani/",
-      "description": "Umělá inteligence srazila hodnotu digitálního obsahu. Osobní důvěra se tak stává prémiovou komoditou, kterou firmy musí řídit jako efektivní systém. Článek Nikdo nechce jet na prezentaci, kterou AI shrne za vteřinu. Jaká bude nová role byznysových setkání? se nejdříve objevil na CzechCrunch .",
+      "title": "Na tomto domě pracovali přední českoslovenští umělci. Teď ho nahradí nová výstavba",
+      "url": "https://cc.cz/na-tomto-dome-pracovali-predni-ceskoslovensti-umelci-ted-ho-nahradi-nova-vystavba/",
+      "description": "Stavbu bývalého Chemapolu zbrzdil požár i normalizace, uznání se nedočkala. Po více než padesáti letech nyní ustoupí novému městskému bloku. Článek Na tomto domě pracovali přední českoslovenští umělci. Teď ho nahradí nová výstavba se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "description": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "source": "TechCrunch",
+      "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-      "description": "A combined service could lead to higher prices.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "description": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
-      "url": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
-      "description": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in partnership with Xreal. It turns out they're going head-to-head. Xreal has just opened Aura pre-orders starting at $1,279, […]",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "description": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Tohle auto je prostě úlet. Jaguar konečně ukázal svůj mysteriózní model 01 a řekl, za kolik bude",
-      "url": "https://cc.cz/tohle-auto-je-proste-ulet-jaguar-konecne-ukazal-svuj-mysteriozni-model-01-a-rekl-za-kolik-bude/",
-      "description": "Type 01 má 1 030 koní, měří přes pět metrů a ujede až 720 kilometrů. Objednávat půjde od začátku roku 2027, první kusy dorazí o půl roku později. Článek Tohle auto je prostě úlet. Jaguar konečně ukázal svůj mysteriózní model 01 a řekl, za kolik bude se nejdříve objevil na CzechCrunch .",
+      "title": "Velká výměna v kultovním českém dabingu. Ve fanoušky zbožňované roli se prostřídají dva známí herci",
+      "url": "https://cc.cz/ludek-sobota-konci-pavel-liska-zacina-jeden-z-nejznamejsich-ceskych-hernich-dabingu-ceka-velka-promena/",
+      "description": "Série adventur Polda si získala kultovní status i díky dabingu Luďka Soboty. Jenže tomu už docházejí síly, a tak vývojáři oslovili dalšího herce. Článek Velká výměna v kultovním českém dabingu. Ve fanoušky zbožňované roli se prostřídají dva známí herci se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-      "url": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-      "description": "To date, this Atlantic tropics year has been exceptionally quiet.",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "description": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Google now lets you make games with AI",
-      "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
-      "description": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to creation\" and doesn't require coding experience. \"With Playground's […]",
-      "source": "The Verge",
-      "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "description": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-    "source": "TechCrunch",
+    "title": "Cupertino might be made for your mom, but it’s a good take on tech",
+    "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+    "description": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians, Polymarket, Jeff Bezos' looksmaxxing obsession, OpenAI stealing Scarlett Johansson's voice, and the fight […]",
+    "source": "The Verge",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   }
 }
