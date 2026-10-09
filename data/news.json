@@ -1,137 +1,47 @@
 {
-  "generatedAt": "2026-10-08T12:38:59.441208+00:00",
+  "generatedAt": "2026-10-09T12:25:35.748844+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-    "description": "Full-stack safety solution for physical AI is being used by robotics companies.",
+    "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+    "description": "\"I can say we’re weeks away from launching on Vulcan.\"",
     "source": "Ars Technica",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
     {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "description": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "description": "\"I can say we’re weeks away from launching on Vulcan.\"",
       "source": "Ars Technica",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "description": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "title": "Xona’s commercial GPS alternative is about to go live",
+      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Xbox is launching a new film and TV division",
-      "url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
-      "description": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. Different teams at Xbox already do this work, but it will all now fall under the centralized XP division. XP formalizes four \"investment […]",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was […]",
       "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Rodinný byznys z Písecka drtilo Temu, obrat klesl o třetinu a zisk o desítky procent. Našli však lék",
-      "url": "https://cc.cz/rodinny-byznys-z-pisecka-drtilo-temu-obrat-klesl-o-tretinu-a-zisk-o-desitky-procent-nasli-vsak-lek/",
-      "description": "Textilní firma Kvalitex se po letech propadů prodejů rozhodla přestat konkurovat asijským tržištím cenou a vsadila na řemeslo a lásku k tradicím. Článek Rodinný byznys z Písecka drtilo Temu, obrat klesl o třetinu a zisk o desítky procent. Našli však lék se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-      "description": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Cupertino might be made for your mom, but it’s a good take on tech",
-      "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-      "description": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians, Polymarket, Jeff Bezos' looksmaxxing obsession, OpenAI stealing Scarlett Johansson's voice, and the fight […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The Slow Formation of Durable Software",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Na tomto domě pracovali přední českoslovenští umělci. Teď ho nahradí nová výstavba",
-      "url": "https://cc.cz/na-tomto-dome-pracovali-predni-ceskoslovensti-umelci-ted-ho-nahradi-nova-vystavba/",
-      "description": "Stavbu bývalého Chemapolu zbrzdil požár i normalizace, uznání se nedočkala. Po více než padesáti letech nyní ustoupí novému městskému bloku. Článek Na tomto domě pracovali přední českoslovenští umělci. Teď ho nahradí nová výstavba se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "description": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-      "description": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "url": "https://github.com/openai/math/blob/main/history.md",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,47 +49,137 @@
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Velká výměna v kultovním českém dabingu. Ve fanoušky zbožňované roli se prostřídají dva známí herci",
-      "url": "https://cc.cz/ludek-sobota-konci-pavel-liska-zacina-jeden-z-nejznamejsich-ceskych-hernich-dabingu-ceka-velka-promena/",
-      "description": "Série adventur Polda si získala kultovní status i díky dabingu Luďka Soboty. Jenže tomu už docházejí síly, a tak vývojáři oslovili dalšího herce. Článek Velká výměna v kultovním českém dabingu. Ve fanoušky zbožňované roli se prostřídají dva známí herci se nejdříve objevil na CzechCrunch .",
+      "title": "Od investorů získali přes miliardu, teď bez vysvětlení končí. Neúspěšný projekt má poučení i pro Evropu",
+      "url": "https://cc.cz/od-investoru-ziskali-pres-miliardu-ted-bez-vysvetleni-konci-neuspesny-projekt-ma-pouceni-i-pro-evropu/",
+      "description": "Nástroj Pulley chtěl v Americe porazit hegemona trhu, nyní mu své zákazníky přeposílá. Od prosince totiž zavírá své brány. Článek Od investorů získali přes miliardu, teď bez vysvětlení končí. Neúspěšný projekt má poučení i pro Evropu se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "description": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "title": "Volkswagen's replacement for the ID.4 crossover is here",
+      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "description": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
       "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "description": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "description": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "source": "TechCrunch",
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-      "description": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything […]",
+      "title": "Na Dívčích hradech stával starý dům. Teď na jeho místě vzniká vila se sedmi byty a výhledem na Vltavu",
+      "url": "https://cc.cz/na-divcich-hradech-staval-stary-dum-ted-na-jeho-miste-vznika-vila-se-sedmi-byty-a-vyhledem-na-vltavu/",
+      "description": "Skupina Creditas už má v Praze a dalších městech přes 5,5 tisíce bytů. Nyní se pouští do komornějšího projektu, kde vznikne jen sedm jednotek. Článek Na Dívčích hradech stával starý dům. Teď na jeho místě vzniká vila se sedmi byty a výhledem na Vltavu se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "description": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "US plans livestream of execution by firing squad",
+      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+      "description": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "I'm in a Meeting",
+      "url": "https://iminafleeting.com/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Třetina Čechů nakupuje s AI, některé e-shopy ale zaspaly. Veletrh Reshoper ukáže, jak na trendu vydělat",
+      "url": "https://cc.cz/tretina-cechu-nakupuje-s-ai-nektere-e-shopy-ale-zaspaly-konference-reshoper-ukaze-jak-na-trendu-vydelat/",
+      "description": "Osmý ročník tradiční akce Reshoper proběhne 15. října na pražském Výstavišti. Zaměří se na využití AI v e-commerce nebo růst marží před Vánoci. Článek Třetina Čechů nakupuje s AI, některé e-shopy ale zaspaly. Veletrh Reshoper ukáže, jak na trendu vydělat se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+      "description": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
     }
   ],
   "curiosity": {
-    "title": "Cupertino might be made for your mom, but it’s a good take on tech",
-    "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-    "description": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians, Polymarket, Jeff Bezos' looksmaxxing obsession, OpenAI stealing Scarlett Johansson's voice, and the fight […]",
-    "source": "The Verge",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "source": "TechCrunch",
     "language": "en",
     "category": "AI",
     "workSignal": "Watch for a concrete workflow you could automate or improve."
