@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-09T12:25:35.748844+00:00",
+  "generatedAt": "2026-10-10T11:44:37.247626+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-    "description": "\"I can say we’re weeks away from launching on Vulcan.\"",
+    "title": "Neanderthal wooden tools from Spain found preserved in stone",
+    "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+    "description": "Dissolved rock precipitated around the tools, which then decayed.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,80 @@
   },
   "stories": [
     {
-      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-      "description": "\"I can say we’re weeks away from launching on Vulcan.\"",
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "description": "Dissolved rock precipitated around the tools, which then decayed.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Xona’s commercial GPS alternative is about to go live",
-      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-      "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was […]",
+      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+      "description": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything else on the market right now. It has a nearly cab-over design, meaning […]",
       "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "title": "Chcete si koupit městečko? Není problém, k mání je westernová osada i kus Georgie s pivovarem",
+      "url": "https://cc.cz/chcete-si-koupit-mestecko-neni-problem-k-mani-je-westernova-osada-i-kus-georgie-s-pivovarem/",
+      "description": "Belden připomíná kulisu z westernu, městečko Gay je zase jako vystřižené ze South Parku. Americká média zaplavily dvě neobvyklé realitní nabídky. Článek Chcete si koupit městečko? Není problém, k mání je westernová osada i kus Georgie s pivovarem se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The director of Fjord takes the ‘risky position’ of moderator",
+      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+      "description": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan), and their passel of children. They are an openly religious and […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +94,44 @@
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Od investorů získali přes miliardu, teď bez vysvětlení končí. Neúspěšný projekt má poučení i pro Evropu",
-      "url": "https://cc.cz/od-investoru-ziskali-pres-miliardu-ted-bez-vysvetleni-konci-neuspesny-projekt-ma-pouceni-i-pro-evropu/",
-      "description": "Nástroj Pulley chtěl v Americe porazit hegemona trhu, nyní mu své zákazníky přeposílá. Od prosince totiž zavírá své brány. Článek Od investorů získali přes miliardu, teď bez vysvětlení končí. Neúspěšný projekt má poučení i pro Evropu se nejdříve objevil na CzechCrunch .",
+      "title": "Hrabě ho postavil pro ženu, později ho vlastnili čečenští miliardáři. Teď je zámeček i s kaplí na prodej",
+      "url": "https://cc.cz/hrabe-ho-postavil-pro-zenu-pozdeji-ho-vlastnili-cecensti-miliardari-ted-je-zamecek-i-s-kapli-na-prodej/",
+      "description": "Areál tvoří šest objektů včetně kaple, domu správce nebo hájovny. Pozemek zdobí alegorické sochy a příjezdovou cestu lemuje alej památných modřínů. Článek Hrabě ho postavil pro ženu, později ho vlastnili čečenští miliardáři. Teď je zámeček i s kaplí na prodej se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Volkswagen's replacement for the ID.4 crossover is here",
-      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-      "description": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "description": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "description": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "title": "Long live the mechanical keyboard",
+      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "description": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-      "description": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with […]",
-      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "title": "My brief romance with an AI bird feeder",
+      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "description": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still waiting for […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,94 +139,49 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Na Dívčích hradech stával starý dům. Teď na jeho místě vzniká vila se sedmi byty a výhledem na Vltavu",
-      "url": "https://cc.cz/na-divcich-hradech-staval-stary-dum-ted-na-jeho-miste-vznika-vila-se-sedmi-byty-a-vyhledem-na-vltavu/",
-      "description": "Skupina Creditas už má v Praze a dalších městech přes 5,5 tisíce bytů. Nyní se pouští do komornějšího projektu, kde vznikne jen sedm jednotek. Článek Na Dívčích hradech stával starý dům. Teď na jeho místě vzniká vila se sedmi byty a výhledem na Vltavu se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-      "description": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "US plans livestream of execution by firing squad",
-      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
-      "description": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "I'm in a Meeting",
-      "url": "https://iminafleeting.com/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Třetina Čechů nakupuje s AI, některé e-shopy ale zaspaly. Veletrh Reshoper ukáže, jak na trendu vydělat",
-      "url": "https://cc.cz/tretina-cechu-nakupuje-s-ai-nektere-e-shopy-ale-zaspaly-konference-reshoper-ukaze-jak-na-trendu-vydelat/",
-      "description": "Osmý ročník tradiční akce Reshoper proběhne 15. října na pražském Výstavišti. Zaměří se na využití AI v e-commerce nebo růst marží před Vánoci. Článek Třetina Čechů nakupuje s AI, některé e-shopy ale zaspaly. Veletrh Reshoper ukáže, jak na trendu vydělat se nejdříve objevil na CzechCrunch .",
+      "title": "Tři lidé, dva počítače a digitální dvojče Česka. Tento AI nástroj má znát výsledky voleb dřív, než začnou",
+      "url": "https://cc.cz/tri-lide-dva-pocitace-a-digitalni-dvojce-ceska-tento-ai-nastroj-ma-znat-vysledky-voleb-driv-nez-zacnou/",
+      "description": "Vytvořili čtvrt milionu syntetických obyvatel Česka a nechali umělou inteligenci odhadnout výsledky komunálních voleb ve všech obcích. Článek Tři lidé, dva počítače a digitální dvojče Česka. Tento AI nástroj má znát výsledky voleb dřív, než začnou se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-      "description": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "description": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-    "source": "TechCrunch",
+    "title": "My brief romance with an AI bird feeder",
+    "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+    "description": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still waiting for […]",
+    "source": "The Verge",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Hardware",
+    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
   }
 }
