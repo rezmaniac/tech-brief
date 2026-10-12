@@ -1,17 +1,152 @@
 {
-  "generatedAt": "2026-10-11T11:57:05.145958+00:00",
+  "generatedAt": "2026-10-12T14:09:20.433130+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "One with the world? A new look at brains transformed by psychedelics.",
-    "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-    "description": "Participants meditated inside an MRI tube, with and without psilocybin.",
+    "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
+    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+    "description": "The second-largest corporate employer has bet big on robot workers to scale.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "description": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "description": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Android is the best and worst thing about Googlebooks",
+      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "description": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Díky Kingdom Come a Zaklínači vydělali rekordní miliony korun. Český obchod hlásí růst o desítky procent",
+      "url": "https://cc.cz/diky-kingdom-come-a-zaklinaci-vydelali-rekordni-miliony-korun-cesky-obchod-hlasi-rust-o-desitky-procent/",
+      "description": "Obchod Xzone vedený Martinem Schovancem dosáhl na nejvyšší tržby v historii firmy. A to i díky české hře a zaklínačovskému fenoménu. Článek Díky Kingdom Come a Zaklínači vydělali rekordní miliony korun. Český obchod hlásí růst o desítky procent se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "description": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "description": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "No Man’s Sky is coming to the iPhone and iPad",
+      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "description": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Český Livesport už má po světě přes 155 milionů uživatelů a v čistém vydělal více než dvě miliardy",
+      "url": "https://cc.cz/cesky-livesport-uz-ma-po-svete-pres-155-milionu-uzivatelu-a-v-cistem-vydelal-vice-nez-dve-miliardy/",
+      "description": "V roce 2025 skupině, která je globálně známá pod značkou Flashscore, vyrostly tržby i zisk. Přestože se nekonal žádný velký fotbalový event. Článek Český Livesport už má po světě přes 155 milionů uživatelů a v čistém vydělal více než dvě miliardy se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "description": "Also: New trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One .",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+      "description": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Naklonovaný hlas vylákal z banky přes dvě miliardy. Mladý Čech ze Stanfordu chce podobné podvody zastavit",
+      "url": "https://cc.cz/naklonovany-hlas-vylakal-z-banky-pres-dve-miliardy-mlady-cech-ze-stanfordu-chce-podobne-podvody-zastavit/",
+      "description": "Z podvodů s umělou inteligencí se stává byznys. Nástroj, na němž se podílel mladý český vědec, má tyto podvrhy odhalit dřív, než uživatele ohrozí. Článek Naklonovaný hlas vylákal z banky přes dvě miliardy. Mladý Čech ze Stanfordu chce podobné podvody zastavit se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "One with the world? A new look at brains transformed by psychedelics.",
       "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
@@ -22,166 +157,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "description": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+      "title": "CMF’s first wireless speakers look like musical milk cartons",
+      "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+      "description": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Dědeček chtěl, aby rodina trávila čas pohromadě. A tak pro ni postavil chatu s výhledem na Krkonoše",
-      "url": "https://cc.cz/dedecek-chtel-aby-rodina-travila-cas-pohromade-a-tak-pro-ni-postavil-chatu-s-vyhledem-na-krkonose/",
-      "description": "Starý dům vystřídala nová dřevěná chata. Zachovala jeho původní polohu, dovnitř ale pouští více světla a nabízí výhledy na okolní hory. Článek Dědeček chtěl, aby rodina trávila čas pohromadě. A tak pro ni postavil chatu s výhledem na Krkonoše se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Neanderthal wooden tools from Spain found preserved in stone",
-      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-      "description": "Dissolved rock precipitated around the tools, which then decayed.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "description": "Is Apple hoping to get into the AI-generated podcast business?",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "description": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "IRCv3",
-      "url": "https://ircv3.net/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Rodiče z něj chtěli mít doktora nebo právníka. Česko-vietnamský DJ dnes bere za vystoupení stovky tisíc",
-      "url": "https://cc.cz/rodice-z-nej-chteli-mit-doktora-nebo-pravnika-cesko-vietnamsky-dj-dnes-bere-za-vystoupeni-stovky-tisic/",
-      "description": "DCR Milda se narodil v Klatovech a v zahraničí začínal rozvozem jídla. Dnes ho na Instagramu sleduje 440 tisíc lidí a hraje na třech kontinentech. Článek Rodiče z něj chtěli mít doktora nebo právníka. Česko-vietnamský DJ dnes bere za vystoupení stovky tisíc se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "description": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "url": "https://nitter.net",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Z architektky hoteliérkou, ale po svém. Podnikavá žena přestavěla historický dům na designové ubytování",
-      "url": "https://cc.cz/z-architektky-hotelierkou-ale-po-svem-podnikava-zena-prestavela-historicky-dum-na-designove-ubytovani/",
-      "description": "Jana Zadák má ráda architekturu i stavby, teď ji ale pohltilo i vedení hotelu. První jménem Donebe dala dohromady v Kutné Hoře a chystá další. Článek Z architektky hoteliérkou, ale po svém. Podnikavá žena přestavěla historický dům na designové ubytování se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-      "description": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-      "description": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "description": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+    "title": "CMF’s first wireless speakers look like musical milk cartons",
+    "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+    "description": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
     "source": "The Verge",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
