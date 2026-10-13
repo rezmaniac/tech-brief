@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T14:09:20.433130+00:00",
+  "generatedAt": "2026-10-13T13:21:14.075845+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
-    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-    "description": "The second-largest corporate employer has bet big on robot workers to scale.",
+    "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+    "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+    "description": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,125 +13,80 @@
   },
   "stories": [
     {
-      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "description": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+      "description": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "description": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Android is the best and worst thing about Googlebooks",
-      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-      "description": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Díky Kingdom Come a Zaklínači vydělali rekordní miliony korun. Český obchod hlásí růst o desítky procent",
-      "url": "https://cc.cz/diky-kingdom-come-a-zaklinaci-vydelali-rekordni-miliony-korun-cesky-obchod-hlasi-rust-o-desitky-procent/",
-      "description": "Obchod Xzone vedený Martinem Schovancem dosáhl na nejvyšší tržby v historii firmy. A to i díky české hře a zaklínačovskému fenoménu. Článek Díky Kingdom Come a Zaklínači vydělali rekordní miliony korun. Český obchod hlásí růst o desítky procent se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Review: 4-hour Musk documentary feels like two different films",
-      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-      "description": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "description": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "No Man’s Sky is coming to the iPhone and iPad",
-      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "description": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Český Livesport už má po světě přes 155 milionů uživatelů a v čistém vydělal více než dvě miliardy",
-      "url": "https://cc.cz/cesky-livesport-uz-ma-po-svete-pres-155-milionu-uzivatelu-a-v-cistem-vydelal-vice-nez-dve-miliardy/",
-      "description": "V roce 2025 skupině, která je globálně známá pod značkou Flashscore, vyrostly tržby i zisk. Přestože se nekonal žádný velký fotbalový event. Článek Český Livesport už má po světě přes 155 milionů uživatelů a v čistém vydělal více než dvě miliardy se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-      "description": "Also: New trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One .",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The OnePlus 16 is the company’s most interesting phone in years",
-      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
-      "description": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen […]",
+      "title": "Watch Apple’s reveal video for the HomeView",
+      "url": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch",
+      "description": "Apple just announced its long-rumored smart home hub, the HomeView, during its \"Welcome home\" event taking place today. As part of the event, it showed a video featuring the new device, and if you want to see it for yourself, you can watch it right here. The HomeView is a 7-inch square display. It costs […]",
       "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "title": "Character.ai Files for Bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Začíná měsíc, kdy můžete vyrazit do exkluzivních restaurací a najíst se za pár stovek. A možná se i seznámit",
+      "url": "https://cc.cz/zacina-mesic-kdy-muzete-vyrazit-do-exkluzivnich-restauraci-a-najist-se-za-par-stovek-a-mozna-se-i-seznamit/",
+      "description": "Restaurant Week má sice v názvu týden, ale trvá víc než měsíc. Právě teď startuje v Praze, Brně a Ostravě a letos spolupracuje i se Singles Clubem. Článek Začíná měsíc, kdy můžete vyrazit do exkluzivních restaurací a najíst se za pár stovek. A možná se i seznámit se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "description": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Apple makes another push into the smart home market with HomeView",
+      "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+      "description": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Getty Images is going private after failed Shutterstock merger",
+      "url": "https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement",
+      "description": "Getty Images intends to file for bankruptcy and go private as part of a restructuring agreement after its plans to merge with rival stock platform Shutterstock fell through earlier this year. On Monday, Getty announced it had secured $533 million from the Getty family and Charles Koch's investment firm to cut its debt and take […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,48 +94,93 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Naklonovaný hlas vylákal z banky přes dvě miliardy. Mladý Čech ze Stanfordu chce podobné podvody zastavit",
-      "url": "https://cc.cz/naklonovany-hlas-vylakal-z-banky-pres-dve-miliardy-mlady-cech-ze-stanfordu-chce-podobne-podvody-zastavit/",
-      "description": "Z podvodů s umělou inteligencí se stává byznys. Nástroj, na němž se podílel mladý český vědec, má tyto podvrhy odhalit dřív, než uživatele ohrozí. Článek Naklonovaný hlas vylákal z banky přes dvě miliardy. Mladý Čech ze Stanfordu chce podobné podvody zastavit se nejdříve objevil na CzechCrunch .",
+      "title": "Kinklající se „kachna“ je zpátky. Na silnice se vrátí coby dostupný elektromobil, má i košík na vejce",
+      "url": "https://cc.cz/kinklajici-se-kachna-je-zpatky-na-silnice-se-vrati-coby-dostupny-elektromobil-ma-i-kosik-na-vejce/",
+      "description": "Legendární Citroën 2CV, přezdívaný kachna, se vrací v podobě malého městského elektromobilu. Retro koncept se ukázal na pařížském autosalonu. Článek Kinklající se „kachna“ je zpátky. Na silnice se vrátí coby dostupný elektromobil, má i košík na vejce se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "One with the world? A new look at brains transformed by psychedelics.",
-      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-      "description": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "description": "You can get a universe in your pocket if you have an iPhone 11 or later.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "description": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
+      "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
+      "description": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announced at Apple's Welcome Home event in New York City, is the first model to support the Siri AI […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "url": "https://eg2.haku.sh/",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "CMF’s first wireless speakers look like musical milk cartons",
-      "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
-      "description": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
-      "source": "The Verge",
+      "title": "Jak se staví moderní Praha? Na konferenci Money Maker to prozradí Marek Dospiva z Penty i Jan Fidler ze Sebre",
+      "url": "https://cc.cz/jak-se-stavi-moderni-praha-na-konferenci-money-maker-to-prozradi-marek-dospiva-z-penty-i-jan-fidler-ze-sebre/",
+      "description": "Velká konference Money Maker se 10. listopadu koná v obnoveném Průmyslovém paláci. Vedle investic a byznysu bude řeč také o realitách. Článek Jak se staví moderní Praha? Na konferenci Money Maker to prozradí Marek Dospiva z Penty i Jan Fidler ze Sebre se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+      "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+      "description": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+      "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+      "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+      "description": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Apple announces the HomePod Mini 2, but it isn’t ready for Siri AI at launch",
+      "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai",
+      "description": "Apple is announcing the long-awaited HomePod Mini 2 with a new chip that can power Siri AI - but support for those new AI features won't be available at launch. The speaker is also getting a new sound glow feature that syncs its LED lights with a song's album art, and it can now be […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     }
   ],
   "curiosity": {
-    "title": "CMF’s first wireless speakers look like musical milk cartons",
-    "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
-    "description": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
-    "source": "The Verge",
-    "language": "en",
+    "title": "Jak se staví moderní Praha? Na konferenci Money Maker to prozradí Marek Dospiva z Penty i Jan Fidler ze Sebre",
+    "url": "https://cc.cz/jak-se-stavi-moderni-praha-na-konferenci-money-maker-to-prozradi-marek-dospiva-z-penty-i-jan-fidler-ze-sebre/",
+    "description": "Velká konference Money Maker se 10. listopadu koná v obnoveném Průmyslovém paláci. Vedle investic a byznysu bude řeč také o realitách. Článek Jak se staví moderní Praha? Na konferenci Money Maker to prozradí Marek Dospiva z Penty i Jan Fidler ze Sebre se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
