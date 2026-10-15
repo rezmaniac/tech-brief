@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-10-14T11:00:14.317607+00:00",
+  "generatedAt": "2026-10-15T10:42:41.632666+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-    "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-    "description": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+    "source": "Ars Technica",
+    "language": "en",
+    "category": "Security",
+    "workSignal": "Useful context for safer tools, dependencies, or processes."
+  },
+  "stories": [
+    {
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "description": "Figma is also releasing its code layers feature in open beta.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+      "description": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Cesta na Měsíc, laser na Vltavě i Havel na radnici. Čtrnáctý Signal opět rozsvítí Prahu, letos i v Dejvicích",
+      "url": "https://cc.cz/cesta-na-mesic-laser-na-vltave-i-havel-na-radnici-ctrnacty-signal-opet-rozsviti-prahu-letos-i-v-dejvicich/",
+      "description": "Startuje pražský festival světla a digitálního umění. Ukáže stíny lidí složené z 1 500 světel, divadlo v čistírně odpadních vod i studentskou zónu. Článek Cesta na Měsíc, laser na Vltavě i Havel na radnici. Čtrnáctý Signal opět rozsvítí Prahu, letos i v Dejvicích se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "description": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Manželé si vysnili bistro, co vypadá jako z Berlína. Po snu ho i pojmenovali a ulovili do něj zkušené kuchaře",
+      "url": "https://cc.cz/manzele-si-vysnili-bistro-co-vypada-jako-z-berlina-po-snu-ho-i-pojmenovali-a-ulovili-do-nej-zkusene-kuchare/",
+      "description": "Nové bistro Traum Concept je otevřené jen pár dní, už ale budí rozruch. Aby ne, má propracovanou atmosféru a jídlo, které stojí za to. Článek Manželé si vysnili bistro, co vypadá jako z Berlína. Po snu ho i pojmenovali a ulovili do něj zkušené kuchaře se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "description": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "description": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The cost of getting a job today",
+      "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Každý večer a víkend trávil nad vysněnou hrou. Rodina má se mnou svatou trpělivost, říká český vývojář",
+      "url": "https://cc.cz/kazdy-vecer-a-vikend-travil-nad-vysnenou-hrou-rodina-ma-se-mnou-svatou-trpelivost-rika-cesky-vyvojar/",
+      "description": "David Konečný zítra vydává svůj Dreadline Express. Velice neobvyklý videoherní horor, který inspiroval i sám mistr žánru H. P. Lovecraft. Článek Každý večer a víkend trávil nad vysněnou hrou. Rodina má se mnou svatou trpělivost, říká český vývojář se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+      "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "description": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "description": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    }
+  ],
+  "curiosity": {
+    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+    "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+    "description": "\"This is great news for us. We're staffing up. We're accelerating.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
-  },
-  "stories": [
-    {
-      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-      "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-      "description": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The Tesla Roadster could have stayed vaporware",
-      "url": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
-      "description": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. Now, the Tesla Roadster is finally expected to make its production-ready debut […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "url": "https://typeof.net/Iosevka/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Zuckerberg ukázal AI, která má dostat Metu na vrchol. Na sesazení krále ovšem zatím nestačí",
-      "url": "https://cc.cz/zuckerberg-ukazal-ai-ktera-ma-dostat-metu-na-vrchol-na-sesazeni-krale-ovsem-zatim-nestaci/",
-      "description": "Po nevydařeném uvedení Llamy 4 a investicích za desítky miliard dolarů představila Meta modely Muse Wonder. Její AI ovšem budí pochybnosti. Článek Zuckerberg ukázal AI, která má dostat Metu na vrchol. Na sesazení krále ovšem zatím nestačí se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-      "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-      "description": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "Apple’s HomeView ad is confusing to everyone except parents",
-      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-      "description": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Zvony, které nacisté odváželi z Čech, připomínají další nové domy. Vzniknou v nich stovky bytů",
-      "url": "https://cc.cz/zvony-ktere-naciste-odvazeli-z-cech-pripominaji-dalsi-nove-domy-vzniknou-v-nich-stovky-bytu/",
-      "description": "J&T Real Estate chystá v Karlíně další etapu Nového Rohanu. Domy nabídnou zelená atria, obchody v parteru i mezonety, stavět se má začít ještě letos. Článek Zvony, které nacisté odváželi z Čech, připomínají další nové domy. Vzniknou v nich stovky bytů se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "description": "Topgolf and VMware \"ran deep\" before the migration.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "Apple: Switch to Safari (From Chrome)",
-      "url": "https://www.apple.com/safari/switch/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Dá se přežít, když vás 2x vysají obři? Bankrot firmy, která byla hvězdou před ChatGPT, ukazuje, že ne",
-      "url": "https://cc.cz/da-se-prezit-kdyz-vas-2x-vysaji-obri-bankrot-firmy-ktera-byla-hvezdou-pred-chatgpt-ukazuje-ze-ne/",
-      "description": "Google za licenci a návrat zakladatelů zaplatil 2,7 miliardy dolarů. Disney si vzal šéfa a teď nabízí 20 milionů za zbytky startupu. Článek Dá se přežít, když vás 2x vysají obři? Bankrot firmy, která byla hvězdou před ChatGPT, ukazuje, že ne se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
-      "description": "US attorney apologized to court, said government has stopped running Trump ads.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "It looks like Apple Music is getting a new icon",
-      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-      "description": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    }
-  ],
-  "curiosity": {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "source": "TechCrunch",
-    "language": "en",
-    "category": "Hardware",
-    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
   }
 }
