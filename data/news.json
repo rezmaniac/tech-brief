@@ -1,137 +1,47 @@
 {
-  "generatedAt": "2026-10-15T10:42:41.632666+00:00",
+  "generatedAt": "2026-10-16T10:29:40.295249+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-    "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+    "title": "Blue Origin is going all in on the New Glenn rocket",
+    "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+    "description": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Security",
-    "workSignal": "Useful context for safer tools, dependencies, or processes."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
     {
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-      "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "description": "Figma is also releasing its code layers feature in open beta.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-      "description": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Cesta na Měsíc, laser na Vltavě i Havel na radnici. Čtrnáctý Signal opět rozsvítí Prahu, letos i v Dejvicích",
-      "url": "https://cc.cz/cesta-na-mesic-laser-na-vltave-i-havel-na-radnici-ctrnacty-signal-opet-rozsviti-prahu-letos-i-v-dejvicich/",
-      "description": "Startuje pražský festival světla a digitálního umění. Ukáže stíny lidí složené z 1 500 světel, divadlo v čistírně odpadních vod i studentskou zónu. Článek Cesta na Měsíc, laser na Vltavě i Havel na radnici. Čtrnáctý Signal opět rozsvítí Prahu, letos i v Dejvicích se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-      "description": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "title": "Blue Origin is going all in on the New Glenn rocket",
+      "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+      "description": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
-    },
-    {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
-      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Manželé si vysnili bistro, co vypadá jako z Berlína. Po snu ho i pojmenovali a ulovili do něj zkušené kuchaře",
-      "url": "https://cc.cz/manzele-si-vysnili-bistro-co-vypada-jako-z-berlina-po-snu-ho-i-pojmenovali-a-ulovili-do-nej-zkusene-kuchare/",
-      "description": "Nové bistro Traum Concept je otevřené jen pár dní, už ale budí rozruch. Aby ne, má propracovanou atmosféru a jídlo, které stojí za to. Článek Manželé si vysnili bistro, co vypadá jako z Berlína. Po snu ho i pojmenovali a ulovili do něj zkušené kuchaře se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
-      "description": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "The best feature of Apple’s HomeView might be its simplicity",
-      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-      "description": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]",
+      "title": "Time is a-changin’: say goodbye to the leap second",
+      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "description": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards mirror the Earth's real […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The cost of getting a job today",
-      "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,36 +49,126 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Každý večer a víkend trávil nad vysněnou hrou. Rodina má se mnou svatou trpělivost, říká český vývojář",
-      "url": "https://cc.cz/kazdy-vecer-a-vikend-travil-nad-vysnenou-hrou-rodina-ma-se-mnou-svatou-trpelivost-rika-cesky-vyvojar/",
-      "description": "David Konečný zítra vydává svůj Dreadline Express. Velice neobvyklý videoherní horor, který inspiroval i sám mistr žánru H. P. Lovecraft. Článek Každý večer a víkend trávil nad vysněnou hrou. Rodina má se mnou svatou trpělivost, říká český vývojář se nejdříve objevil na CzechCrunch .",
+      "title": "Je lepší no-code, nebo vibe coding? Češi šlapali do pohodlné tvorby aplikací ještě před ChatGPT",
+      "url": "https://cc.cz/je-lepsi-no-code-nebo-vibe-coding-cesi-slapali-do-pohodlne-tvorby-aplikaci-jeste-pred-chatgpt/",
+      "description": "Aplikaci dnes napíše jazykový model za pár minut. Zastánci no-code přístupu z českého startupu Tabidoo ale varují, že tím práce teprve začíná. Článek Je lepší no-code, nebo vibe coding? Češi šlapali do pohodlné tvorby aplikací ještě před ChatGPT se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "description": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "description": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "description": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Od univerzitního projektu po milionové tržby. České drony mají za úkol doručit jídlo, zachránit život i očkovat",
+      "url": "https://cc.cz/od-univerzitniho-projektu-po-milionove-trzby-ceske-drony-maji-za-ukol-dorucit-jidlo-zachranit-zivot-i-ockovat/",
+      "description": "Létající roboti z Česka chápou mluvené slovo a orientují se v prostoru i bez GPS. Nyní spinout Fly4Future shání kapitál na globální rozšíření. Článek Od univerzitního projektu po milionové tržby. České drony mají za úkol doručit jídlo, zachránit život i očkovat se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-      "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-      "description": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+      "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+      "description": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+      "description": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked afterward, Steam will […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Tesla ukázala nový sporťák Roadster. S tryskami od SpaceX skáče přes auta, vyrábět se má v roce 2028",
+      "url": "https://cc.cz/tesla-ukazala-novy-sportak-roadster-s-tryskami-od-spacex-skace-pres-auta-vyrabet-se-ma-v-roce-2028/",
+      "description": "Na očekávaném voze pracovali inženýři Tesly i SpaceX. Závodní verze s tryskami zrychlí z nuly na sto pod sekundu. Cenu Tesla neprozradila. Článek Tesla ukázala nový sporťák Roadster. S tryskami od SpaceX skáče přes auta, vyrábět se má v roce 2028 se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Plex now helps sell movie theater tickets",
+      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+      "description": "Discovery data from Plex users will help studios, advertisers.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Startups",
       "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "description": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "description": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
@@ -176,10 +176,10 @@
     }
   ],
   "curiosity": {
-    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-    "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-    "description": "\"This is great news for us. We're staffing up. We're accelerating.\"",
-    "source": "Ars Technica",
+    "title": "Steam can now show game achievements in separate ‘sets’",
+    "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+    "description": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked afterward, Steam will […]",
+    "source": "The Verge",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
