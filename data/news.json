@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-10-18T10:13:07.776371+00:00",
+  "generatedAt": "2026-10-19T11:50:09.962056+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Science says your boss should talk less in meetings",
-    "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-    "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "description": "The outside watchdog can publish its findings without Anthropic's approval.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "description": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The Maeving RM2 is high-style electric riding with a few compromises",
+      "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+      "description": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Linux 7.3 Released",
+      "url": "https://lwn.net/Articles/1101143/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "V Malešicích vyroste 70metrová věž. Vyšší obytné budovy jsou v Praze jen dvě",
+      "url": "https://cc.cz/v-malesicich-vyroste-70metrova-vez-vyssi-obytne-budovy-jsou-v-praze-jen-dve/",
+      "description": "Projekt nabídne 256 bytů, od menších dispozic 1+kk po 4+kk. V okolí má přibýt také park a dětské hřiště. Článek V Malešicích vyroste 70metrová věž. Vyšší obytné budovy jsou v Praze jen dvě se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Science says your boss should talk less in meetings",
       "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
@@ -22,26 +67,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "TikTok bans Musk documentary account",
-      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "description": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,9 +94,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Sbírejte korunky a utečte inflaci. Nová hra od CzechCrunche rozdává vstupenky na konferenci Money Maker",
-      "url": "https://cc.cz/sbirejte-korunky-a-utecte-inflaci-nova-hra-od-czechcrunche-rozdava-vstupenky-na-konferenci-money-maker/",
-      "description": "Pixelová hra vás pošle do Průmyslového paláce, kde 10. listopadu proběhne největší konference o investicích pro lepší život. Článek Sbírejte korunky a utečte inflaci. Nová hra od CzechCrunche rozdává vstupenky na konferenci Money Maker se nejdříve objevil na CzechCrunch .",
+      "title": "Po Kiwi.com náramné zhodnocení i z nádobí. Jan Fabini ve stomilionovém dealu vyplatil Jiřího Hlavenku",
+      "url": "https://cc.cz/po-kiwi-com-naramne-zhodnoceni-i-z-nadobi-jan-fabini-ve-stomilionovem-dealu-vyplatil-jiriho-hlavenku/",
+      "description": "Jan Fabini postupně skoupil podíly všech investorů a ovládl skoro celou značku Fabini. Zbylá tři procenta drží šéfka firmy Radka Vaculíková. Článek Po Kiwi.com náramné zhodnocení i z nádobí. Jan Fabini ve stomilionovém dealu vyplatil Jiřího Hlavenku se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -67,36 +112,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "description": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]",
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "description": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Chlapi ji na loď nechtěli, tak založila vlastní tým. Twinky holky mají úspěch na moři i na jezerech",
-      "url": "https://cc.cz/chlapi-ji-na-lod-nechteli-tak-zalozila-vlastni-tym-twinky-holky-maji-uspech-na-mori-i-na-jezerech/",
-      "description": "První ženská námořní posádka českého jachtingu Twinky holky závodí už 22 let. Souhra a dobrá nálada je na lodi víc než fyzická síla, říkají. Článek Chlapi ji na loď nechtěli, tak založila vlastní tým. Twinky holky mají úspěch na moři i na jezerech se nejdříve objevil na CzechCrunch .",
+      "title": "Stojánek na hranolky nebo lepší držák na klíče z vlastní tiskárny. Škoda dává díly pro 3D tisk zdarma",
+      "url": "https://cc.cz/stojanek-na-hranolky-nebo-lepsi-drzak-na-klice-z-vlastni-tiskarny-skoda-dava-dily-pro-3d-tisk-zdarma/",
+      "description": "Držák na pití si majitel škodovky nově vytiskne doma. Automobilka zveřejnila soubory na platformě Printables.com české Prusa Research. Článek Stojánek na hranolky nebo lepší držák na klíče z vlastní tiskárny. Škoda dává díly pro 3D tisk zdarma se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -112,75 +157,30 @@
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-      "description": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "description": "Comments",
-      "source": "Hacker News",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "description": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš",
-      "url": "https://cc.cz/u-elevenlabs-jsme-meli-stesti-investice-do-startupu-tomase-cupra-nadchl-nas-rika-ondrej-bartos/",
-      "description": "Zakládající partner Credo Ventures Ondřej Bartoš popisuje, o čem při výběru startupů rozhoduje úsudek a co je náhoda. A jak vše mění AI. Článek U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "description": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš",
-    "url": "https://cc.cz/u-elevenlabs-jsme-meli-stesti-investice-do-startupu-tomase-cupra-nadchl-nas-rika-ondrej-bartos/",
-    "description": "Zakládající partner Credo Ventures Ondřej Bartoš popisuje, o čem při výběru startupů rozhoduje úsudek a co je náhoda. A jak vše mění AI. Článek U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "source": "Ars Technica",
+    "language": "en",
     "category": "AI",
     "workSignal": "Watch for a concrete workflow you could automate or improve."
   }
