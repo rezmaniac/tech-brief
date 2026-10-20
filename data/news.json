@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-19T11:50:09.962056+00:00",
+  "generatedAt": "2026-10-20T10:48:00.298223+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "Anthropic gives outside AI watchdog “employee-like” access",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "description": "The outside watchdog can publish its findings without Anthropic's approval.",
+    "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+    "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+    "description": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
     {
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "description": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "description": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-      "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-      "description": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "description": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Linux 7.3 Released",
-      "url": "https://lwn.net/Articles/1101143/",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "V Malešicích vyroste 70metrová věž. Vyšší obytné budovy jsou v Praze jen dvě",
-      "url": "https://cc.cz/v-malesicich-vyroste-70metrova-vez-vyssi-obytne-budovy-jsou-v-praze-jen-dve/",
-      "description": "Projekt nabídne 256 bytů, od menších dispozic 1+kk po 4+kk. V okolí má přibýt také park a dětské hřiště. Článek V Malešicích vyroste 70metrová věž. Vyšší obytné budovy jsou v Praze jen dvě se nejdříve objevil na CzechCrunch .",
+      "title": "Staré krabicové systémy už nestačí. Pelhřimovská platforma sbírá firmám data, která jim chyběla",
+      "url": "https://cc.cz/stare-krabicove-systemy-uz-nestaci-pelhrimovska-platforma-sbira-firmam-data-ktera-jim-chybela/",
+      "description": "Přehled o výrobní lince stále není standardem. Nenápadná pelhřimovská firma ukazuje, jak detailní sběr dat dokáže ušetřit obrovské peníze. Článek Staré krabicové systémy už nestačí. Pelhřimovská platforma sbírá firmám data, která jim chyběla se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Science says your boss should talk less in meetings",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "description": "Congenital measles can be fatal, and survivors require monitoring for years.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "description": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "description": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across […]",
       "source": "The Verge",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Timestral: Mistral release time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,44 +94,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Po Kiwi.com náramné zhodnocení i z nádobí. Jan Fabini ve stomilionovém dealu vyplatil Jiřího Hlavenku",
-      "url": "https://cc.cz/po-kiwi-com-naramne-zhodnoceni-i-z-nadobi-jan-fabini-ve-stomilionovem-dealu-vyplatil-jiriho-hlavenku/",
-      "description": "Jan Fabini postupně skoupil podíly všech investorů a ovládl skoro celou značku Fabini. Zbylá tři procenta drží šéfka firmy Radka Vaculíková. Článek Po Kiwi.com náramné zhodnocení i z nádobí. Jan Fabini ve stomilionovém dealu vyplatil Jiřího Hlavenku se nejdříve objevil na CzechCrunch .",
+      "title": "Pražská burza potřebuje zářit, jenže malé a nudné firmy jí nepomohou. Dokládá to nezájem o výrobce dveří",
+      "url": "https://cc.cz/prazska-burza-potrebuje-zarit-jenze-male-a-nudne-firmy-ji-nepomohou-doklada-to-nezajem-o-vyrobce-dveri/",
+      "description": "Tento týden se začne obchodovat na pražské burze s akciemi firmy Doornite. Je ale jasné, že zájem o ně není velký. A není se čemu divit. Článek Pražská burza potřebuje zářit, jenže malé a nudné firmy jí nepomohou. Dokládá to nezájem o výrobce dveří se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-      "description": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "description": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-      "description": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]",
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’",
+      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "description": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for \"helping enable this,\" and Trump appeared […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/Nordwand-Mono",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -139,36 +139,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Stojánek na hranolky nebo lepší držák na klíče z vlastní tiskárny. Škoda dává díly pro 3D tisk zdarma",
-      "url": "https://cc.cz/stojanek-na-hranolky-nebo-lepsi-drzak-na-klice-z-vlastni-tiskarny-skoda-dava-dily-pro-3d-tisk-zdarma/",
-      "description": "Držák na pití si majitel škodovky nově vytiskne doma. Automobilka zveřejnila soubory na platformě Printables.com české Prusa Research. Článek Stojánek na hranolky nebo lepší držák na klíče z vlastní tiskárny. Škoda dává díly pro 3D tisk zdarma se nejdříve objevil na CzechCrunch .",
+      "title": "S menstruačními kalhotkami vyrostla na půl miliardu. Česká značka Snuggs nově šije prádlo i pro muže",
+      "url": "https://cc.cz/s-menstruacnimi-kalhotkami-vyrostla-na-pul-miliardu-ceska-znacka-snuggs-nove-sije-pradlo-i-pro-muze/",
+      "description": "Značka Lindy Šejdové a Tomáše Zahradníka vstupuje do nového segmentu. Uvádí pět stylů boxerek pro muže. Článek S menstruačními kalhotkami vyrostla na půl miliardu. Česká značka Snuggs nově šije prádlo i pro muže se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "description": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "source": "Ars Technica",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "description": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "title": "The fossil fuel comeback is here",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "description": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -176,12 +176,12 @@
     }
   ],
   "curiosity": {
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "source": "Ars Technica",
+    "title": "The fossil fuel comeback is here",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "description": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]",
+    "source": "The Verge",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
