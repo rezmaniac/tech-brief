@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T11:00:04.597498+00:00",
+  "generatedAt": "2026-10-22T10:58:42.530343+00:00",
   "label": "Daily Work Radar",
   "episodeLength": 6,
   "topStory": {
-    "title": "PHP warns it plans to release 2 emergency patches imminently",
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+    "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+    "description": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -13,35 +13,35 @@
   },
   "stories": [
     {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "description": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "description": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "YouTube might be testing hiding the dislike button",
-      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-      "description": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]",
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "description": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -49,44 +49,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Umělá inteligence za nás umí i nakoupit. Proč jí ale Češi zatím nechtějí svěřit platební kartu?",
-      "url": "https://cc.cz/umela-inteligence-za-nas-umi-i-nakoupit-proc-ji-ale-cesi-zatim-nechteji-sverit-platebni-kartu/",
-      "description": "AI při nakupování používají dvě třetiny Čechů, zaplatit kartou by ji ale nechalo jen 15 %. Visa chystá opatření, aby AI nakupování bylo bezpečné. Článek Umělá inteligence za nás umí i nakoupit. Proč jí ale Češi zatím nechtějí svěřit platební kartu? se nejdříve objevil na CzechCrunch .",
+      "title": "Dlouhá léta chodil kolem staré pily, pak ji zachránil před demolicí. A teď tu postaví přes sto bytů",
+      "url": "https://cc.cz/dlouha-leta-chodil-kolem-stare-pily-pak-ji-zachranil-pred-demolici-a-ted-tu-postavi-pres-sto-bytu/",
+      "description": "Areál, který kdysi zaměstnával stovky lidí, čeká proměna. Na zachovanou historickou pilnici naváže nový rezidenční projekt. Článek Dlouhá léta chodil kolem staré pily, pak ji zachránil před demolicí. A teď tu postaví přes sto bytů se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "description": "\"I do think there's a lot of merit to combining the companies.\"",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "description": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "description": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
-      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "description": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -94,81 +94,81 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her",
-      "url": "https://cc.cz/umela-inteligence-zprznila-milovane-ceske-dilo-nechutna-drzost-komentuji-ai-slop-tvurci-znamych-her/",
-      "description": "Vytvořili oblíbené a úspěšné hry jako Machinarium, Samorost, Chuchel či Pilgrims. Teď čeští vývojáři z Amanita Design čelí AI slopu. Článek Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her se nejdříve objevil na CzechCrunch .",
+      "title": "Lego v srdci Prahy otevřelo jedinečně českou prodejnu. Podívejte se na unikátní výzdobu i tiskárnu figurek",
+      "url": "https://cc.cz/lego-v-srdci-prahy-otevrelo-jedinecne-ceskou-prodejnu-podivejte-se-na-unikatni-vyzdobu-i-tiskarnu-figurek/",
+      "description": "Nová prodejna Lego v ulici Na Příkopě je jak obchodem, tak zážitkovým centrem. Má specificky českou a pražskou výzdobu i stovky stavebnic. Článek Lego v srdci Prahy otevřelo jedinečně českou prodejnu. Podívejte se na unikátní výzdobu i tiskárnu figurek se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-      "description": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "description": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-      "description": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members […]",
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "description": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Kdysi si v amsterdamské Red Light District vydělával hraním. Dnes už díky AI učí na piano stovky tisíc lidí",
-      "url": "https://cc.cz/kdysi-si-v-amsterdamske-red-light-district-vydelaval-hranim-dnes-uz-diky-ai-uci-na-piano-stovky-tisic-lidi/",
-      "description": "Český ArtMaster za osm měsíců dosáhl na sociálních sítích organicky 100 milionů zhlédnutí. Měsíčně mají tisíce videí, full-time markeťáka ani jednoho. Článek Kdysi si v amsterdamské Red Light District vydělával hraním. Dnes už díky AI učí na piano stovky tisíc lidí se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-      "description": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "title": "Hořký konec slavné firmy. Vlna vyhazovů a škrtů smetla tvůrce hitů Baldur’s Gate, Mass Effect a Dragon Age",
+      "url": "https://cc.cz/horky-konec-slavne-firmy-vlna-vyhazovu-a-skrtu-smetla-tvurce-hitu-baldurs-gate-mass-effect-a-dragon-age/",
+      "description": "Herní studio BioWare patřilo k nejslavnějším jménům v herním světě. Po velké slávě ale přišel úpadek – a teď už definitivní pád. Článek Hořký konec slavné firmy. Vlna vyhazovů a škrtů smetla tvůrce hitů Baldur’s Gate, Mass Effect a Dragon Age se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Tesla profits drop 43% in Q3",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "description": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "description": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
@@ -176,11 +176,11 @@
     }
   ],
   "curiosity": {
-    "title": "Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her",
-    "url": "https://cc.cz/umela-inteligence-zprznila-milovane-ceske-dilo-nechutna-drzost-komentuji-ai-slop-tvurci-znamych-her/",
-    "description": "Vytvořili oblíbené a úspěšné hry jako Machinarium, Samorost, Chuchel či Pilgrims. Teď čeští vývojáři z Amanita Design čelí AI slopu. Článek Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
+    "title": "Data centers could erase decades of air quality gains",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "description": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+    "source": "The Verge",
+    "language": "en",
     "category": "AI",
     "workSignal": "Watch for a concrete workflow you could automate or improve."
   }
