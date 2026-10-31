@@ -36,11 +36,6 @@ function renderBrief(brief) {
   document.querySelector("#top-description").textContent = brief.topStory.description;
   document.querySelector("#top-link").href = brief.topStory.url;
   document.querySelector("#latest-title").textContent = activeMode === "weekly" ? "Stack signals" : "Latest signals";
-  document.querySelector("#listen-title").textContent = activeMode === "weekly" ? "This Week in Tech" : "Today in Tech";
-  document.querySelector("#episode-meta").textContent = `English voice · ${brief.episodeLength} min · ${prettyDate(brief.generatedAt)}`;
-  const audio = document.querySelector("#episode-audio");
-  audio.src = activeMode === "weekly" ? "data/weekly.mp3" : "data/today.mp3";
-  audio.load();
   const curiosity = brief.curiosity;
   const curiositySection = document.querySelector("#curiosity-section");
   curiositySection.hidden = !curiosity;

@@ -31,20 +31,12 @@ jobs:
       - name: Build Stack Review data
         if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
         run: python3 scripts/update.py --weekly
-      - name: Generate English episode
-        if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y espeak-ng ffmpeg
-          python3 -m pip install "kokoro>=0.9.4" soundfile "misaki[en]"
-          python3 scripts/generate_audio.py data/weekly.txt /tmp/weekly.wav --voice af_heart
-          ffmpeg -y -i /tmp/weekly.wav -codec:a libmp3lame -q:a 4 data/weekly.mp3
       - name: Commit the weekly update
         if: steps.schedule.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/weekly.json data/weekly.txt data/weekly.mp3
+          git add data/weekly.json
           git diff --cached --quiet || git commit -m "Update weekly Stack Review"
           git pull --rebase origin main
           git push
