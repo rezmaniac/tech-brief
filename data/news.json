@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-10-31T11:32:54.845704+00:00",
+  "generatedAt": "2026-11-01T12:30:23.791266+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-    "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-    "description": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+    "title": "Seabirds racing home over the ocean can get jet-lagged",
+    "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+    "description": "A long flight home from feeding grounds messes with birds' internal clocks.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "description": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Norway makes shithouses great again",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Mezi Prahou a Berounem vyrostl dům, který splývá s lesem. Ve svahu skrývá i věž se saunou",
+      "url": "https://cc.cz/mezi-prahou-a-berounem-vyrostl-dum-ktery-splyva-s-lesem-ve-svahu-skryva-i-vez-se-saunou/",
+      "description": "Dřevostavba kopíruje svah, ložnice jako by se vznášela nad terénem a z obytné části se vychází rovnou na dřevěné terasy. Podívejte se, jak dům vypadá. Článek Mezi Prahou a Berounem vyrostl dům, který splývá s lesem. Ve svahu skrývá i věž se saunou se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "description": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Keyboards of The Verge",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Z natáčení svateb na mobil je nová profese. Páry platí za to, aby měly videa na sociální sítě už druhý den",
+      "url": "https://cc.cz/z-nataceni-svateb-na-mobil-je-nova-profese-pary-plati-za-to-aby-mely-videa-na-socialni-site-uz-druhy-den/",
+      "description": "Wedding content creators se v poslední době objevují i v Česku. Na svatbách natáčejí krátká videa na mobil, která novomanželům dodávají do dvou dnů. Článek Z natáčení svateb na mobil je nová profese. Páry platí za to, aby měly videa na sociální sítě už druhý den se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
       "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
@@ -21,26 +111,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "description": "The money behind the money is thrilled, mostly.",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
     },
     {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "description": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,9 +138,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Sedmičkové BMW už není bavorák, jak ho znáte. Ale má skvělý nový displej a jízda je pořád famózní",
-      "url": "https://cc.cz/sedmickove-bmw-uz-neni-bavorak-jak-ho-znate-ale-ma-skvely-novy-displej-a-jizda-je-porad-famozni/",
-      "description": "Vlajková loď jako první ze stávajících modelů BMW dostala techniku Neue Klasse. Panoramatický displej je trefa, značka ale přišla o jednu z předností. Článek Sedmičkové BMW už není bavorák, jak ho znáte. Ale má skvělý nový displej a jízda je pořád famózní se nejdříve objevil na CzechCrunch .",
+      "title": "Těšte se na pokračování skvělého sci-fi, které se natáčelo v Praze. V kultovním kyberpunku uvidíte i Žižkov",
+      "url": "https://cc.cz/teste-se-na-pokracovani-skveleho-sci-fi-ktere-se-natacelo-v-praze-v-kultovnim-kyberpunku-uvidite-i-zizkov/",
+      "description": "Co chystá Netflix, HBO Max, Disney, Apple TV, Amazon Prime Video, SkyShowtime a česká kina v říjnu? Přichází nová Godzilla, Rocky i Hunger Games. Článek Těšte se na pokračování skvělého sci-fi, které se natáčelo v Praze. V kultovním kyberpunku uvidíte i Žižkov se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -66,120 +156,30 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "description": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]",
+      "title": "Happy Pikmin Day Eve",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "Switch Lowering in GCC",
-      "url": "https://xoranth.net/gcc-switch/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Začínali mícháním mýdla v hrnci. Za 35 let prodal český kosmetický lovebrand 83 milionů produktů",
-      "url": "https://cc.cz/zacinali-michanim-mydla-v-hrnci-za-35-let-prodal-cesky-kosmeticky-lovebrand-83-milionu-produktu/",
-      "description": "Kreativní ředitelka Manufaktury Barbora Čechová popisuje cestu k 83 milionům prodaných produktů, ale také to, proč už téměř neprodávají velkoobchodně. Článek Začínali mícháním mýdla v hrnci. Za 35 let prodal český kosmetický lovebrand 83 milionů produktů se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "description": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "url": "https://piefed.world/post/1503394",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Youtuber Mich Sako prodal tisíce dresů klubu, který existuje jen ve hře. Teď se spojil s Bořkem Dočkalem",
-      "url": "https://cc.cz/youtuber-mich-sako-prodal-tisice-dresu-klubu-ktery-existuje-jen-ve-hre-ted-se-spojil-s-borkem-dockalem/",
-      "description": "Michal Forejt alias Mich Sako vydělal na dresech svého herního klubu víc než na YouTube. Nově na nich bude svítit logo pražského health clubu Day1. Článek Youtuber Mich Sako prodal tisíce dresů klubu, který existuje jen ve hře. Teď se spojil s Bořkem Dočkalem se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "description": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "description": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "Začínali mícháním mýdla v hrnci. Za 35 let prodal český kosmetický lovebrand 83 milionů produktů",
-    "url": "https://cc.cz/zacinali-michanim-mydla-v-hrnci-za-35-let-prodal-cesky-kosmeticky-lovebrand-83-milionu-produktu/",
-    "description": "Kreativní ředitelka Manufaktury Barbora Čechová popisuje cestu k 83 milionům prodaných produktů, ale také to, proč už téměř neprodávají velkoobchodně. Článek Začínali mícháním mýdla v hrnci. Za 35 let prodal český kosmetický lovebrand 83 milionů produktů se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
+    "title": "Happy Pikmin Day Eve",
+    "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+    "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
+    "source": "The Verge",
+    "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   }
