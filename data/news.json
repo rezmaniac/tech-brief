@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-11-01T12:30:23.791266+00:00",
+  "generatedAt": "2026-11-02T14:30:25.535288+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "Seabirds racing home over the ocean can get jet-lagged",
-    "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-    "description": "A long flight home from feeding grounds messes with birds' internal clocks.",
+    "title": "This $48 e-paper display can be whatever you want it to be",
+    "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+    "description": "This DIY e-paper display works in two official ecosystems or on your own server.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "description": "This DIY e-paper display works in two official ecosystems or on your own server.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth",
+      "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+      "description": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+      "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+      "description": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120, and now costs over triple that price. The 16GB versions of the Raspberry Pi Compute Module 5 also got a $40 […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Hacker tiše připravil hráče o miliony. Děsivě důmyslný podvod odhalila umělá inteligence",
+      "url": "https://cc.cz/hacker-tise-pripravil-hrace-o-miliony-desive-dumyslny-podvod-odhalila-umela-inteligence/",
+      "description": "Hacker propašoval vir přímo do oficiálních aktualizací oblíbených hráčských aplikací a obral stovky profesionálů o miliony. Odhalila ho náhodou AI. Článek Hacker tiše připravil hráče o miliony. Děsivě důmyslný podvod odhalila umělá inteligence se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
     {
       "title": "Seabirds racing home over the ocean can get jet-lagged",
       "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
@@ -21,26 +66,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+      "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+      "description": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Get in the spirit with these horrors from YouTube",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "description": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from the Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring Boost Mobile or accessing its network. Musk discussed the […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Norway makes shithouses great again",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,13 +93,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Mezi Prahou a Berounem vyrostl dům, který splývá s lesem. Ve svahu skrývá i věž se saunou",
-      "url": "https://cc.cz/mezi-prahou-a-berounem-vyrostl-dum-ktery-splyva-s-lesem-ve-svahu-skryva-i-vez-se-saunou/",
-      "description": "Dřevostavba kopíruje svah, ložnice jako by se vznášela nad terénem a z obytné části se vychází rovnou na dřevěné terasy. Podívejte se, jak dům vypadá. Článek Mezi Prahou a Berounem vyrostl dům, který splývá s lesem. Ve svahu skrývá i věž se saunou se nejdříve objevil na CzechCrunch .",
+      "title": "Anthropic míří na burzu. Pololetní tržby zvedl 14krát, ztrátu ale vykázal přes 80 miliard dolarů",
+      "url": "https://cc.cz/anthropic-miri-na-burzu-pololetni-trzby-zvedl-14krat-ztratu-ale-vykazal-pres-80-miliard-dolaru/",
+      "description": "Tvůrce nástroje Claude zveřejnil podrobný dokument před vstupem na burzu. Co v něm stojí za pozornost, popisuje analytik XTB Tomáš Vranka. Článek Anthropic míří na burzu. Pololetní tržby zvedl 14krát, ztrátu ale vykázal přes 80 miliard dolarů se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
       "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
@@ -66,26 +111,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "description": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Keyboards of The Verge",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+      "title": "Affinity’s creative studio is now available on iPad for free",
+      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+      "description": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad, which provides the same pro-grade tools for vector graphics, […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -93,9 +138,9 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Z natáčení svateb na mobil je nová profese. Páry platí za to, aby měly videa na sociální sítě už druhý den",
-      "url": "https://cc.cz/z-nataceni-svateb-na-mobil-je-nova-profese-pary-plati-za-to-aby-mely-videa-na-socialni-site-uz-druhy-den/",
-      "description": "Wedding content creators se v poslední době objevují i v Česku. Na svatbách natáčejí krátká videa na mobil, která novomanželům dodávají do dvou dnů. Článek Z natáčení svateb na mobil je nová profese. Páry platí za to, aby měly videa na sociální sítě už druhý den se nejdříve objevil na CzechCrunch .",
+      "title": "Z Karlových Varů odešla hrát do prázdných klubů v Londýně. Teď má miliony streamů a koncertuje po světě",
+      "url": "https://cc.cz/z-karlovych-varu-odesla-hrat-do-prazdnych-klubu-v-londyne-ted-ma-miliony-streamu-a-koncertuje-po-svete/",
+      "description": "Zpěvačka Aiko reprezentovala Česko na Eurovizi, kde sice nepostoupila do finále, ale soutěž jí pomohla proměnit hudbu v profesi na plný úvazek. Článek Z Karlových Varů odešla hrát do prázdných klubů v Londýně. Teď má miliony streamů a koncertuje po světě se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -111,63 +156,18 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "description": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Těšte se na pokračování skvělého sci-fi, které se natáčelo v Praze. V kultovním kyberpunku uvidíte i Žižkov",
-      "url": "https://cc.cz/teste-se-na-pokracovani-skveleho-sci-fi-ktere-se-natacelo-v-praze-v-kultovnim-kyberpunku-uvidite-i-zizkov/",
-      "description": "Co chystá Netflix, HBO Max, Disney, Apple TV, Amazon Prime Video, SkyShowtime a česká kina v říjnu? Přichází nová Godzilla, Rocky i Hunger Games. Článek Těšte se na pokračování skvělého sci-fi, které se natáčelo v Praze. V kultovním kyberpunku uvidíte i Žižkov se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "description": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "description": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Happy Pikmin Day Eve",
-      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
+      "title": "More European supermarkets are getting their freezers hacked",
+      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "description": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected, according to local reports shared by Bloomberg and Reuters. One Ica Kvantum store in Sweden said on its Facebook page […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -175,10 +175,10 @@
     }
   ],
   "curiosity": {
-    "title": "Happy Pikmin Day Eve",
-    "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-    "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
-    "source": "The Verge",
+    "title": "Show HN: I've updated my Linux System Call website and API",
+    "url": "https://syscall.sh/",
+    "description": "Comments",
+    "source": "Hacker News",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
