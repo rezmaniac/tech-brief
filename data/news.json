@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T13:27:20.932798+00:00",
+  "generatedAt": "2026-11-04T13:38:54.245068+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-    "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-    "description": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+    "description": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -12,35 +12,80 @@
   },
   "stories": [
     {
-      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-      "description": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "description": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-      "description": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "description": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]",
+      "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
-      "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
-      "description": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable […]",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Dospiva, Kijonková, Novotný i Čech. Největší Money Maker v historii spojí byznys, investice i tvůrce",
+      "url": "https://cc.cz/dospiva-kijonkova-novotny-i-cech-nejvetsi-money-maker-v-historii-spoji-byznys-investice-i-tvurce/",
+      "description": "Od guvernéra ČNB přes šéfa Oktagonu po youtubera Duklocka. Konference Money Maker se koná 10. listopadu v Průmyslovém paláci. Zbývají poslední lístky. Článek Dospiva, Kijonková, Novotný i Čech. Největší Money Maker v historii spojí byznys, investice i tvůrce se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "description": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Canva lays off over 1,200 people amid slowing growth",
+      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "description": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time never gets old",
+      "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
+      "description": "Breath of the Wild changed everything. Two decades after The Legend of Zelda made the transformational shift to 3D, Breath of the Wild reinvigorated the franchise with an open-ended adventure that was built around player freedom and expression. Instead of following a set path, players could go wherever they wanted and tackle challenges in a […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,44 +93,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Centrální banka Čechy tento týden pravděpodobně nepotěší. A to minimálně čtyřikrát",
-      "url": "https://cc.cz/centralni-banka-cechy-tento-tyden-pravdepodobne-nepotesi-a-to-minimalne-ctyrikrat/",
-      "description": "Hlavní ekonom společnosti Investika Vít Hradil popisuje, proč ČNB tento týden nejspíš sáhne ke zvýšení základních sazeb. Článek Centrální banka Čechy tento týden pravděpodobně nepotěší. A to minimálně čtyřikrát se nejdříve objevil na CzechCrunch .",
+      "title": "Revolut vyměnil Claude za čínské modely. Vývoj jsme zkrátili o 70 % a platíme desetinu, říká jeho šéf AI",
+      "url": "https://cc.cz/revolut-vymenil-claude-za-cinske-modely-vyvoj-jsme-zkratili-o-70-a-platime-desetinu-rika-jeho-sef-ai/",
+      "description": "Britský fintech, který právě dosáhl ocenění 115 miliard dolarů, provozuje model GLM od pekingské Z.ai na čipech v USA. Data prý do Číny nejdou. Článek Revolut vyměnil Claude za čínské modely. Vývoj jsme zkrátili o 70 % a platíme desetinu, říká jeho šéf AI se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Why large dogs age faster than small ones, and other October research highlights",
-      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-      "description": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "description": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
-      "url": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
-      "description": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or […]",
-      "source": "The Verge",
+      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "description": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+      "source": "TechCrunch",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -93,81 +138,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Díky IT manažerovi konečně mluví Zaklínač česky. S dabingem pomáhá AI, ale měníme ji za živé herce, říká",
-      "url": "https://cc.cz/diky-it-manazerovi-konecne-mluvi-zaklinac-cesky-s-dabingem-pomaha-ai-ale-menime-ji-za-zive-herce-rika/",
-      "description": "Zaklínač Geralt ve videohře Witcher 3 dosud česky nemluvil, měl jen titulky. Díky umělé inteligenci se to mění. Ale chystá se i živý český dabing. Článek Díky IT manažerovi konečně mluví Zaklínač česky. S dabingem pomáhá AI, ale měníme ji za živé herce, říká se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Third person dies of bird flu since virus started jumping to livestock",
-      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
-      "description": "The threat is still considered to be low, but the virus continues to spread.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
-      "url": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
-      "description": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that counts Rivian as […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Do Jižního Tyrolska se bude létat z Prahy. Na sjezdovkách, kde získali Češi medaile, si zalyžujete i vy",
-      "url": "https://cc.cz/do-jizniho-tyrolska-se-bude-letat-z-prahy-na-sjezdovkach-kde-ziskali-cesi-medaile-si-zalyzujete-i-vy/",
-      "description": "Nejsevernější region Itálie hostil loni dvě velké chvíle českého sportu. Od 9. prosince sem bude létat linka z Prahy. Zimu si tu užijí i běžní lyžaři. Článek Do Jižního Tyrolska se bude létat z Prahy. Na sjezdovkách, kde získali Češi medaile, si zalyžujete i vy se nejdříve objevil na CzechCrunch .",
+      "title": "Umí šéfovat hospodám i hotelu. Teď vyrábí netradiční krabice plné pohoštění do kanceláře i domů",
+      "url": "https://cc.cz/umi-sefovat-hospodam-i-hotelu-ted-vyrabi-netradicni-krabice-plne-pohosteni-do-kancelare-i-domu/",
+      "description": "Tereza Vlasáková Březovská založila Lahodné krabice, se kterými dodává originální catering. Do 24 hodin ho rozváží do domácností i firem. Článek Umí šéfovat hospodám i hotelu. Teď vyrábí netradiční krabice plné pohoštění do kanceláře i domů se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-      "description": "\"The flow of time is always cruel.\"",
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "description": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-      "description": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will be in […]",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "description": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
@@ -175,9 +175,9 @@
     }
   ],
   "curiosity": {
-    "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-    "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-    "description": "\"The flow of time is always cruel.\"",
+    "title": "Buttons are back and storage is king when it comes to car interiors",
+    "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+    "description": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
