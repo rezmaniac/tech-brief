@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T13:36:23.241927+00:00",
+  "generatedAt": "2026-11-07T12:16:19.047261+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-    "description": "\"This is going to be a game-changer.\"",
+    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+    "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+    "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -12,35 +12,35 @@
   },
   "stories": [
     {
-      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "description": "\"This is going to be a game-changer.\"",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "description": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
-      "url": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
-      "description": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden, you meet some of the researchers who are trapped in and investigating these […]",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,44 +48,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Prodala e-shop, peníze za něj ale nedostala. Tak si bývalá modelka půjčila a postavila síť pilates studií",
-      "url": "https://cc.cz/prodala-e-shop-penize-za-nej-ale-nedostala-tak-si-byvala-modelka-pujcila-a-postavila-sit-pilates-studii/",
-      "description": "Adéla Martynková pilates předtím skoro necvičila. Teď má její firma už tři pobočky pilates studií a další chystá. Článek Prodala e-shop, peníze za něj ale nedostala. Tak si bývalá modelka půjčila a postavila síť pilates studií se nejdříve objevil na CzechCrunch .",
+      "title": "Zorka Hejdová, Čestmír Strakatý i Duklock. Na Money Makeru prozradí, jak se z osobní značky stává byznys",
+      "url": "https://cc.cz/zorka-hejdova-cestmir-strakaty-i-duklock-na-money-makeru-prozradi-jak-se-z-osobni-znacky-stava-byznys/",
+      "description": "Část velké konference Money Maker, která se koná 10. listopadu, patří tvůrcům. Jak se dá uživit hudbou, vařením na sítích nebo háčkovanými kabelkami? Článek Zorka Hejdová, Čestmír Strakatý i Duklock. Na Money Makeru prozradí, jak se z osobní značky stává byznys se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "description": "Iran threatened to attack subsea cables if US escalates military strikes again.",
       "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "source": "The Verge",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
-      "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-      "description": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "url": "https://github.com/ppmpreetham/BUI",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -93,44 +93,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Čeští investoři nakupují v propadu. Do Coursery a německé TUI poslali za pár týdnů přes dvě miliardy",
-      "url": "https://cc.cz/cesti-investori-nakupuji-v-propadu-do-coursery-a-nemecke-tui-poslali-za-par-tydnu-pres-dve-miliardy/",
-      "description": "Do Coursery už skupina Pale Fire Capital Jana Barty a spol. vložila přes čtyři miliardy korun. V cestovním koncernu TUI přeskočila pět procent. Článek Čeští investoři nakupují v propadu. Do Coursery a německé TUI poslali za pár týdnů přes dvě miliardy se nejdříve objevil na CzechCrunch .",
+      "title": "Po staletí tu stály domy, pak zmizely. Brněnskou proluku zaplní byty, obnoví se i stará hradební zeď",
+      "url": "https://cc.cz/po-staleti-tu-staly-domy-pak-zmizely-brnenskou-proluku-zaplni-byty-obnovi-se-i-stara-hradebni-zed/",
+      "description": "Archeologové tu objevili keramiku, skleněné nádoby i staré kachle. Teď se chystá stavba se 106 byty, obchody a průchodem mezi ulicemi. Článek Po staletí tu stály domy, pak zmizely. Brněnskou proluku zaplní byty, obnoví se i stará hradební zeď se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "description": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "description": "Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
-      "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-      "description": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few I can recommend. It's the only one I'd buy for myself. It's on sale for $649 […]",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "description": "The deal highlights the challenges of developing massive AI data centers.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -138,49 +138,49 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jeden velký krásný výplach. Musk přišel o stovky miliard, cena Anthropicu padá, ropa zase zdražuje",
-      "url": "https://cc.cz/jeden-velky-krasny-vyplach-musk-prisel-o-stovky-miliard-cena-anthropicu-pada-ropa-zase-zdrazuje/",
-      "description": "Demokraté v USA chtějí brzdit datacentra a přísněji regulovat AI. Investoři odpověděli výprodejem čipařů, Tesly i SpaceX. Článek Jeden velký krásný výplach. Musk přišel o stovky miliard, cena Anthropicu padá, ropa zase zdražuje se nejdříve objevil na CzechCrunch .",
+      "title": "Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích",
+      "url": "https://cc.cz/politici-je-berou-na-lehkou-vahu-stredoskolaci-mezitim-skoli-vrstevniky-jak-funguji-pasti-na-sitich/",
+      "description": "Místo nudy detektivka s deepfakes. Sedmnáctiletý Jan Krejčí učí vrstevníky čelit manipulaci na sítích a problematickému užívání telefonů. Článek Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Sony revives the original Walkman headphones, adds USB-C",
-      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-      "description": "Orange ear cushions included.",
-      "source": "Ars Technica",
-      "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "description": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "source": "TechCrunch",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "description": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "source": "Ars Technica",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "The Enough Phone is made by and for people fed up with big screens",
-      "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
-      "description": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter, and just a day after […]",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+      "description": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "The Enough Phone is made by and for people fed up with big screens",
-    "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
-    "description": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter, and just a day after […]",
-    "source": "The Verge",
-    "language": "en",
-    "category": "Hardware",
-    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    "title": "Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích",
+    "url": "https://cc.cz/politici-je-berou-na-lehkou-vahu-stredoskolaci-mezitim-skoli-vrstevniky-jak-funguji-pasti-na-sitich/",
+    "description": "Místo nudy detektivka s deepfakes. Sedmnáctiletý Jan Krejčí učí vrstevníky čelit manipulaci na sítích a problematickému užívání telefonů. Článek Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
