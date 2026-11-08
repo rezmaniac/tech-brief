@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-11-07T12:16:19.047261+00:00",
+  "generatedAt": "2026-11-08T12:36:42.615893+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-    "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-    "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
+    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+    "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+    "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "description": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard",
+      "url": "https://cc.cz/jako-serialova-hvezdicka-zarila-i-na-ceskych-obrazovkach-dnes-ma-jeji-startup-hodnotu-pres-40-miliard/",
+      "description": "Začínala s podomácku vyrobenými anténami během pandemie, dnes zajišťuje spojení s družicemi a získala kontrakt od amerických vesmírných sil. Článek Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "description": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Petered (what happens after the Peter Principle)",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Pod renesančními klenbami vznikla moderní ordinace. Ze stropu se tu vine světelný had",
+      "url": "https://cc.cz/pod-renesancnimi-klenbami-vznikla-moderni-ordinace-ze-stropu-se-tu-vine-svetelny-had/",
+      "description": "Dva požáry, drogerie i prodejna desek. Dům v centru Čáslavi má za sebou pestrou minulost. Při rekonstrukci navíc odhalil řadu překvapení. Článek Pod renesančními klenbami vznikla moderní ordinace. Ze stropu se tu vine světelný had se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
       "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
@@ -21,26 +111,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "description": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]",
       "source": "The Verge",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Upload Your RAM",
-      "url": "https://uploadyourram.org",
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,13 +138,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Zorka Hejdová, Čestmír Strakatý i Duklock. Na Money Makeru prozradí, jak se z osobní značky stává byznys",
-      "url": "https://cc.cz/zorka-hejdova-cestmir-strakaty-i-duklock-na-money-makeru-prozradi-jak-se-z-osobni-znacky-stava-byznys/",
-      "description": "Část velké konference Money Maker, která se koná 10. listopadu, patří tvůrcům. Jak se dá uživit hudbou, vařením na sítích nebo háčkovanými kabelkami? Článek Zorka Hejdová, Čestmír Strakatý i Duklock. Na Money Makeru prozradí, jak se z osobní značky stává byznys se nejdříve objevil na CzechCrunch .",
+      "title": "Český vývojář naučil AI hledat předky ve starých matrikách. Přes noc se z jeho bezplatné funkce stal hit",
+      "url": "https://cc.cz/cesky-vyvojar-naucil-ai-hledat-predky-ve-starych-matrikach-pres-noc-se-z-jeho-bezplatne-funkce-stal-hit/",
+      "description": "Vývojář Jindřich Šaršon vytvořil funkci, díky které dokáže AI listovat matrikami, číst staré písmo a během pár hodin sestavit web s rodokmenem. Článek Český vývojář naučil AI hledat předky ve starých matrikách. Přes noc se z jeho bezplatné funkce stal hit se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -66,121 +156,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
       "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Security",
       "workSignal": "Useful context for safer tools, dependencies, or processes."
     },
     {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Po staletí tu stály domy, pak zmizely. Brněnskou proluku zaplní byty, obnoví se i stará hradební zeď",
-      "url": "https://cc.cz/po-staleti-tu-staly-domy-pak-zmizely-brnenskou-proluku-zaplni-byty-obnovi-se-i-stara-hradebni-zed/",
-      "description": "Archeologové tu objevili keramiku, skleněné nádoby i staré kachle. Teď se chystá stavba se 106 byty, obchody a průchodem mezi ulicemi. Článek Po staletí tu stály domy, pak zmizely. Brněnskou proluku zaplní byty, obnoví se i stará hradební zeď se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "description": "The deal highlights the challenges of developing massive AI data centers.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích",
-      "url": "https://cc.cz/politici-je-berou-na-lehkou-vahu-stredoskolaci-mezitim-skoli-vrstevniky-jak-funguji-pasti-na-sitich/",
-      "description": "Místo nudy detektivka s deepfakes. Sedmnáctiletý Jan Krejčí učí vrstevníky čelit manipulaci na sítích a problematickému užívání telefonů. Článek Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "description": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "source": "Ars Technica",
-      "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "description": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
     }
   ],
   "curiosity": {
-    "title": "Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích",
-    "url": "https://cc.cz/politici-je-berou-na-lehkou-vahu-stredoskolaci-mezitim-skoli-vrstevniky-jak-funguji-pasti-na-sitich/",
-    "description": "Místo nudy detektivka s deepfakes. Sedmnáctiletý Jan Krejčí učí vrstevníky čelit manipulaci na sítích a problematickému užívání telefonů. Článek Politici je berou na lehkou váhu. Středoškoláci mezitím školí vrstevníky, jak fungují pasti na sítích se nejdříve objevil na CzechCrunch .",
+    "title": "Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard",
+    "url": "https://cc.cz/jako-serialova-hvezdicka-zarila-i-na-ceskych-obrazovkach-dnes-ma-jeji-startup-hodnotu-pres-40-miliard/",
+    "description": "Začínala s podomácku vyrobenými anténami během pandemie, dnes zajišťuje spojení s družicemi a získala kontrakt od amerických vesmírných sil. Článek Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard se nejdříve objevil na CzechCrunch .",
     "source": "CzechCrunch",
     "language": "cs",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Startups",
+    "workSignal": "A signal about tools, vendors, or shifts in the market."
   }
 }
