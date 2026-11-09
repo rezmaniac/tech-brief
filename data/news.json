@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-11-08T12:36:42.615893+00:00",
+  "generatedAt": "2026-11-09T14:54:51.027587+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-    "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-    "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+    "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+    "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "description": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Humans will never again create a project like Wikipedia",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Z práce v marketingu utekla ke korálkům po babičce. Šperky teď vyrábí i z mušlí, perel nebo starého skla",
+      "url": "https://cc.cz/z-prace-v-marketingu-utekla-ke-koralkum-po-babicce-sperky-ted-vyrabi-i-z-musli-perel-nebo-stareho-skla/",
+      "description": "Klára Dudáková založila značku Kaaret během pandemie. Ze starých korálků nebo perel dnes vyrábí šperky, které se dostaly i na výstavu v Londýně. Článek Z práce v marketingu utekla ke korálkům po babičce. Šperky teď vyrábí i z mušlí, perel nebo starého skla se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "description": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Pomera’s sleek distraction-free writing machine is just too small",
+      "url": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
+      "description": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and portable as the tiny foldable devices from Pomera. Until […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Aristokratický komfort, který umí jet potichu i pořádně zařvat. Projeli jsme hybridní Range Rover Sport",
+      "url": "https://cc.cz/aristokraticky-komfort-ktery-umi-jet-potichu-i-poradne-zarvat-projeli-jsme-hybridni-range-rover-sport/",
+      "description": "Range Rover Sport v plug-in hybridní verzi je auto, které si zaslouží pozornost. A to nejen kvůli svým úctyhodným rozměrům. Článek Aristokratický komfort, který umí jet potichu i pořádně zařvat. Projeli jsme hybridní Range Rover Sport se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
       "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
@@ -21,26 +111,26 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+      "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "description": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]",
+      "title": "Instagram’s AI age detection is expanding globally",
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Person of Interest",
-      "url": "https://krthr.co/person-of-interest/",
+      "title": "Children of Men: The Future Is a Mirror for the Present",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,13 +138,13 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard",
-      "url": "https://cc.cz/jako-serialova-hvezdicka-zarila-i-na-ceskych-obrazovkach-dnes-ma-jeji-startup-hodnotu-pres-40-miliard/",
-      "description": "Začínala s podomácku vyrobenými anténami během pandemie, dnes zajišťuje spojení s družicemi a získala kontrakt od amerických vesmírných sil. Článek Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard se nejdříve objevil na CzechCrunch .",
+      "title": "Slavný americký fond odchází z Evropy. Čas přestat brečet a poslat startupům peníze třeba ze spořáků",
+      "url": "https://cc.cz/slavny-americky-fond-odchazi-z-evropy-cas-prestat-brecet-a-poslat-startupum-penize-treba-ze-sporaku/",
+      "description": "Sequoia Capital rozpouští svou londýnskou pobočku. Horší zpráva je, že evropské startupy jsou pořád závislé na miliardách z USA. Článek Slavný americký fond odchází z Evropy. Čas přestat brečet a poslat startupům peníze třeba ze spořáků se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
       "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
@@ -66,121 +156,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "description": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Petered (what happens after the Peter Principle)",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Pod renesančními klenbami vznikla moderní ordinace. Ze stropu se tu vine světelný had",
-      "url": "https://cc.cz/pod-renesancnimi-klenbami-vznikla-moderni-ordinace-ze-stropu-se-tu-vine-svetelny-had/",
-      "description": "Dva požáry, drogerie i prodejna desek. Dům v centru Čáslavi má za sebou pestrou minulost. Při rekonstrukci navíc odhalil řadu překvapení. Článek Pod renesančními klenbami vznikla moderní ordinace. Ze stropu se tu vine světelný had se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "description": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "description": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]",
+      "title": "Torrent underground",
+      "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+      "description": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Goodbye Claude, Hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Český vývojář naučil AI hledat předky ve starých matrikách. Přes noc se z jeho bezplatné funkce stal hit",
-      "url": "https://cc.cz/cesky-vyvojar-naucil-ai-hledat-predky-ve-starych-matrikach-pres-noc-se-z-jeho-bezplatne-funkce-stal-hit/",
-      "description": "Vývojář Jindřich Šaršon vytvořil funkci, díky které dokáže AI listovat matrikami, číst staré písmo a během pár hodin sestavit web s rodokmenem. Článek Český vývojář naučil AI hledat předky ve starých matrikách. Přes noc se z jeho bezplatné funkce stal hit se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "description": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
-    },
-    {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard",
-    "url": "https://cc.cz/jako-serialova-hvezdicka-zarila-i-na-ceskych-obrazovkach-dnes-ma-jeji-startup-hodnotu-pres-40-miliard/",
-    "description": "Začínala s podomácku vyrobenými anténami během pandemie, dnes zajišťuje spojení s družicemi a získala kontrakt od amerických vesmírných sil. Článek Jako seriálová hvězdička zářila i na českých obrazovkách. Dnes má její startup hodnotu přes 40 miliard se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
-    "category": "Startups",
-    "workSignal": "A signal about tools, vendors, or shifts in the market."
+    "title": "Torrent underground",
+    "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+    "description": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become […]",
+    "source": "The Verge",
+    "language": "en",
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
