@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-11-09T14:54:51.027587+00:00",
+  "generatedAt": "2026-11-10T14:07:53.187198+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-    "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-    "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "description": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   },
   "stories": [
     {
-      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-      "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "description": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
       "source": "Ars Technica",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-      "description": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "title": "Adobe adds more AI to its products and launches an MCP",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Humans will never again create a project like Wikipedia",
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,89 +48,89 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Z práce v marketingu utekla ke korálkům po babičce. Šperky teď vyrábí i z mušlí, perel nebo starého skla",
-      "url": "https://cc.cz/z-prace-v-marketingu-utekla-ke-koralkum-po-babicce-sperky-ted-vyrabi-i-z-musli-perel-nebo-stareho-skla/",
-      "description": "Klára Dudáková založila značku Kaaret během pandemie. Ze starých korálků nebo perel dnes vyrábí šperky, které se dostaly i na výstavu v Londýně. Článek Z práce v marketingu utekla ke korálkům po babičce. Šperky teď vyrábí i z mušlí, perel nebo starého skla se nejdříve objevil na CzechCrunch .",
+      "title": "Elektrobyznys Daniela Křetínského vyrostl na 17 miliard, vydělal ale míň. Je to cena za expanzi, říká šéf",
+      "url": "https://cc.cz/elektrobyznys-daniela-kretinskeho-vyrostl-na-17-miliard-vydelal-ale-min-je-to-cena-za-expanzi-rika-sef/",
+      "description": "Skupina Fast ČR s řetězcem Planeo a značkou Sencor loni otevřela 25 prodejen a přestěhovala sklad. Její šéf Libor Kolíšek popisuje, jaký rok to byl. Článek Elektrobyznys Daniela Křetínského vyrostl na 17 miliard, vydělal ale míň. Je to cena za expanzi, říká šéf se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "description": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "description": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Pomera’s sleek distraction-free writing machine is just too small",
-      "url": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
-      "description": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and portable as the tiny foldable devices from Pomera. Until […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Fold Epic Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Aristokratický komfort, který umí jet potichu i pořádně zařvat. Projeli jsme hybridní Range Rover Sport",
-      "url": "https://cc.cz/aristokraticky-komfort-ktery-umi-jet-potichu-i-poradne-zarvat-projeli-jsme-hybridni-range-rover-sport/",
-      "description": "Range Rover Sport v plug-in hybridní verzi je auto, které si zaslouží pozornost. A to nejen kvůli svým úctyhodným rozměrům. Článek Aristokratický komfort, který umí jet potichu i pořádně zařvat. Projeli jsme hybridní Range Rover Sport se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Instagram’s AI age detection is expanding globally",
-      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-      "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The […]",
+      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+      "description": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a black frame […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Children of Men: The Future Is a Mirror for the Present",
-      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+      "url": "https://neuracryption.com/research",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "Dvouletý startup Ondřeje Vlčka se prodal za 7,6 miliardy. A z desítek lidí udělal díky akciím milionáře",
+      "url": "https://cc.cz/dvoulety-startup-ondreje-vlcka-se-prodal-za-76-miliardy-a-z-desitek-lidi-udelal-diky-akciim-milionare/",
+      "description": "Společnost Aisle, kterou Ondřej Vlček založil se Stanislavem Fortem a Jayou Baloo po svém odchodu z někdejšího Avastu, kupuje kanadsko-německé Cohere. Článek Dvouletý startup Ondřeje Vlčka se prodal za 7,6 miliardy. A z desítek lidí udělal díky akciím milionáře se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "description": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+      "description": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
+      "description": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for as little as $425. Today, you're looking at $599.95 for the same […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -138,46 +138,46 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Slavný americký fond odchází z Evropy. Čas přestat brečet a poslat startupům peníze třeba ze spořáků",
-      "url": "https://cc.cz/slavny-americky-fond-odchazi-z-evropy-cas-prestat-brecet-a-poslat-startupum-penize-treba-ze-sporaku/",
-      "description": "Sequoia Capital rozpouští svou londýnskou pobočku. Horší zpráva je, že evropské startupy jsou pořád závislé na miliardách z USA. Článek Slavný americký fond odchází z Evropy. Čas přestat brečet a poslat startupům peníze třeba ze spořáků se nejdříve objevil na CzechCrunch .",
+      "title": "Falešných AI profilů v náboru do firem přibývá. V roce 2028 to bude jeden ze čtyř, říká odborník",
+      "url": "https://cc.cz/falesnych-ai-profilu-v-naboru-do-firem-pribyva-v-roce-2028-to-bude-jeden-ze-ctyr-rika-odbornik/",
+      "description": "Trojští koně z Asie zkoušejí proniknout do světových firem přes AI a ukradené identity. S podvody v IT náboru se potkávají už i čeští personalisté. Článek Falešných AI profilů v náboru do firem přibývá. V roce 2028 to bude jeden ze čtyř, říká odborník se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "description": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Tesla expands robotaxi service to San Antonio",
-      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-      "description": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Torrent underground",
-      "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-      "description": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become […]",
+      "title": "Adobe is going all in on agentic AI",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "Torrent underground",
-    "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-    "description": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become […]",
+    "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+    "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
+    "description": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for as little as $425. Today, you're looking at $599.95 for the same […]",
     "source": "The Verge",
     "language": "en",
     "category": "Dev",
