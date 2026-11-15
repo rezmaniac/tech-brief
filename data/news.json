@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-11-14T12:50:23.764439+00:00",
+  "generatedAt": "2026-11-15T13:17:37.234967+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "James Webb telescope finds ice older than the star it orbits",
-    "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-    "description": "Radiation and collisions reshape the planetary building materials.",
+    "title": "How the world’s fires changed while humanity hit pause",
+    "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+    "description": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
     "workSignal": "Potential engineering or developer-productivity takeaway."
   },
   "stories": [
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "description": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Nvidia s Jensenem Huangem vystoupala na vrchol. Teprve teď se ale ukáže, jak dobrá firma to je",
+      "url": "https://cc.cz/nvidia-s-jensenem-huangem-vystoupala-na-vrchol-teprve-ted-se-ale-ukaze-jak-dobra-firma-to-je/",
+      "description": "Odchod zakladatele je pro každou společnost těžký okamžik. V případě Nvidie to ale platí dvojnásob. A důležité to je pro celý AI průmysl. Článek Nvidia s Jensenem Huangem vystoupala na vrchol. Teprve teď se ale ukáže, jak dobrá firma to je se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "description": "It felt like stepping into the future.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "description": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Konec země za šedesát milionů. Podzimní aukci Galerie Kodl bude vévodit Toyen, koná se tradičně na Žofíně",
+      "url": "https://cc.cz/konec-zeme-za-sedesat-milionu-podzimni-aukci-galerie-kodl-bude-vevodit-toyen-kona-se-tradicne-na-zofine/",
+      "description": "96. aukce Galerie Kodl proběhne 29. listopadu. Kromě děl jiných významných umělců nabízí dražbu vrcholného surrealistického plátna Toyen z roku 1937. Článek Konec země za šedesát milionů. Podzimní aukci Galerie Kodl bude vévodit Toyen, koná se tradičně na Žofíně se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
     {
       "title": "James Webb telescope finds ice older than the star it orbits",
       "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
@@ -21,36 +111,36 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "description": "Even Elon Musk said the monthly fee is \"too high.\"",
       "source": "TechCrunch",
       "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "description": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "description": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
-      "category": "Hardware",
-      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Drony, záchranka i dopravní letadla na jedné mapě. Bezpečnost české oblohy má hlídat systém od CSG",
-      "url": "https://cc.cz/drony-zachranka-i-dopravni-letadla-na-jedne-mape-bezpecnost-ceske-oblohy-ma-hlidat-system-od-csg/",
-      "description": "UpVision ze skupiny CSG dodala Řízení letového provozu systém, který dá dronům i letadlům společný obraz oblohy. Naostro má běžet v roce 2027. Článek Drony, záchranka i dopravní letadla na jedné mapě. Bezpečnost české oblohy má hlídat systém od CSG se nejdříve objevil na CzechCrunch .",
+      "title": "Rok stará firma bez produktu stojí 28 miliard. Prošli Palantirem a chtějí skoupit evropskou obranu",
+      "url": "https://cc.cz/rok-stara-firma-bez-produktu-stoji-28-miliard-prosli-palantirem-a-chteji-skoupit-evropskou-obranu/",
+      "description": "Onodrim nevyrábí drony ani rakety. Plánuje převzít zavedené dodavatele armád a s know-how z firem Petera Thiela jim pomoct vyrůst. Článek Rok stará firma bez produktu stojí 28 miliard. Prošli Palantirem a chtějí skoupit evropskou obranu se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
@@ -66,121 +156,31 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Stůl z masivu, který si během covidu vyrobil domů, přerostl v byznys. V Blansku zpracovává stovky tun dřeva",
-      "url": "https://cc.cz/stul-z-masivu-ktery-si-behem-covidu-vyrobil-domu-prerostl-v-byznys-v-blansku-zpracovava-stovky-tun-dreva/",
-      "description": "Firma Majstrštych Karla Vejchodského a jeho ženy Petry loni skoro zdvojnásobila obrat na dvacet milionů a zisk přesáhl čtyři miliony. Článek Stůl z masivu, který si během covidu vyrobil domů, přerostl v byznys. V Blansku zpracovává stovky tun dřeva se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "description": "One way or another, the company will get some more data on Saturday.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "description": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "description": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "description": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Monkey Island: all 13 versions side by side",
-      "url": "https://monkeyisland.pages.dev/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Češi točí na americké burze desítky miliard. Na těchto 55 akcií teď sází Jan Barta a Dušan Šenkypl",
-      "url": "https://cc.cz/cesi-toci-na-americke-burze-desitky-miliard-na-techto-55-akcii-ted-sazi-jan-barta-a-dusan-senkypl/",
-      "description": "Skupina Pale Fire Capital má v amerických akciích téměř 30 miliard korun. Za léto výrazně přikoupila Courseru, Oracle a čínské e-shopy. Článek Češi točí na americké burze desítky miliard. Na těchto 55 akcií teď sází Jan Barta a Dušan Šenkypl se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "description": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "description": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Startups",
-      "workSignal": "A signal about tools, vendors, or shifts in the market."
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-    "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-    "description": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-    "source": "TechCrunch",
-    "language": "en",
-    "category": "Startups",
-    "workSignal": "A signal about tools, vendors, or shifts in the market."
+    "title": "Rok stará firma bez produktu stojí 28 miliard. Prošli Palantirem a chtějí skoupit evropskou obranu",
+    "url": "https://cc.cz/rok-stara-firma-bez-produktu-stoji-28-miliard-prosli-palantirem-a-chteji-skoupit-evropskou-obranu/",
+    "description": "Onodrim nevyrábí drony ani rakety. Plánuje převzít zavedené dodavatele armád a s know-how z firem Petera Thiela jim pomoct vyrůst. Článek Rok stará firma bez produktu stojí 28 miliard. Prošli Palantirem a chtějí skoupit evropskou obranu se nejdříve objevil na CzechCrunch .",
+    "source": "CzechCrunch",
+    "language": "cs",
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
