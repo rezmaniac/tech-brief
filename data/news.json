@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T14:56:20.639162+00:00",
+  "generatedAt": "2026-11-19T15:03:21.468778+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-    "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-    "description": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+    "title": "Mouse fight club might explain why we like to watch violent things",
+    "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+    "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
     "source": "Ars Technica",
     "language": "en",
     "category": "Dev",
@@ -12,35 +12,35 @@
   },
   "stories": [
     {
-      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-      "description": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-      "description": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
       "source": "TechCrunch",
       "language": "en",
-      "category": "Security",
-      "workSignal": "Useful context for safer tools, dependencies, or processes."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "How The Verge is picking which Black Friday deals to share",
-      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-      "description": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, the companies would prefer that […]",
+      "title": "The wait begins for GTA VI on PC",
+      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+      "description": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're […]",
       "source": "The Verge",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -48,89 +48,44 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Kevin je zase sám, jen ne doma. Macaulay Culkin se vrací do nejslavnější televizní role",
-      "url": "https://cc.cz/kevin-je-zase-sam-jen-ne-doma-macaulay-culkin-se-vraci-do-nejslavnejsi-televizni-role/",
-      "description": "Kdo by čekal, že se Macaulay Culkin vrátí do jedné z nejslavnějších rolí všech dob? Teď to ale má menší háček – není sám doma, ale ve fast foodu. Článek Kevin je zase sám, jen ne doma. Macaulay Culkin se vrací do nejslavnější televizní role se nejdříve objevil na CzechCrunch .",
+      "title": "Bez Ligy mistrů je Sparta zpátky ve ztrátě. Klub Daniela Křetínského prodělal 127 milionů korun",
+      "url": "https://cc.cz/bez-ligy-mistru-je-sparta-zpatky-ve-ztrate-klub-daniela-kretinskeho-prodelal-127-milionu-korun/",
+      "description": "Obchodní příjmy meziročně klesly o osminu, sponzoring se ale za tři roky téměř zdvojnásobil. Klub chce jednou hospodařit bez podpory akcionáře. Článek Bez Ligy mistrů je Sparta zpátky ve ztrátě. Klub Daniela Křetínského prodělal 127 milionů korun se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-      "description": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "description": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "description": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
       "source": "TechCrunch",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "description": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. […]",
+      "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+      "description": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Tohle je důvod, proč vaši kolegové nepřijdou do práce. Nejdůležitější událost od bible s miliardami v zádech",
-      "url": "https://cc.cz/tohle-je-duvod-proc-vasi-kolegove-neprijdou-do-prace-nejdulezitejsi-udalost-od-bible-s-miliardami-v-zadech/",
-      "description": "Recenze Grand Theft Auto VI vychvalují do nebes. Kromě vynikající hry je to ale také finanční a kulturní fenomén, co nemá obdoby. Článek Tohle je důvod, proč vaši kolegové nepřijdou do práce. Nejdůležitější událost od bible s miliardami v zádech se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Grand Theft Auto VI: The Ars Technica review",
-      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-      "description": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "description": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "description": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "url": "https://energy-based-reasoners.github.io/",
+      "title": "PHP 8.5.13",
+      "url": "https://www.php.net/ChangeLog-8.php",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -138,49 +93,94 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Filmy se natahují, měchýře trpí. Exvývojáře Microsoftu živí aplikace, díky níž vás pauza nepřipraví o zážitek",
-      "url": "https://cc.cz/filmy-se-natahuji-mechyre-trpi-exvyvojare-microsoftu-zivi-aplikace-diky-niz-vas-pauza-nepripravi-o-zazitek/",
-      "description": "Vývojář Dan Gardner by se dnes mohl označit za záchodového guru. Od roku 2008 pečlivě vyhledává ve filmech chvíle, kdy si divák může odskočit. Článek Filmy se natahují, měchýře trpí. Exvývojáře Microsoftu živí aplikace, díky níž vás pauza nepřipraví o zážitek se nejdříve objevil na CzechCrunch .",
+      "title": "Rocky málem vůbec nevznikl. Film o tom, jak ho Stallone vydupal ze země, vás donutí pustit si ten původní",
+      "url": "https://cc.cz/rocky-malem-vubec-nevznikl-film-o-tom-jak-ho-stallone-vydupal-ze-zeme-vas-donuti-pustit-si-ten-puvodni/",
+      "description": "Já, Rocky je oslava filmařské práce a nostalgická připomínka kultovního příběhu. Anthony Ippolito jako by Stallonemu z oka vypadl. Článek Rocky málem vůbec nevznikl. Film o tom, jak ho Stallone vydupal ze země, vás donutí pustit si ten původní se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "description": "When everything goes down, don’t assume it’s a cyberattack.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "description": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "description": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Grand Theft Auto VI understands just how important a smartphone is",
+      "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
+      "description": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Kvíz: Jste opravdový fanoušek, nebo jen příležitostný hráč? Otestujte si, jak dobře znáte fenomén GTA",
+      "url": "https://cc.cz/kviz-jste-opravdovy-fanousek-nebo-jen-prilezitostny-hrac-otestujte-si-jak-dobre-znate-fenomen-gta/",
+      "description": "GTA VI je venku. Jste opravdový fanoušek, nebo jen turista na Ocean Drive? To odhalí našich 20 otázek. Článek Kvíz: Jste opravdový fanoušek, nebo jen příležitostný hráč? Otestujte si, jak dobře znáte fenomén GTA se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "description": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
       "source": "TechCrunch",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "NASA’s Voyager 1 probe is now 1 light-day away",
-      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-      "description": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET and is now 16.094 billion miles away from our […]",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "description": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
       "source": "The Verge",
       "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
     }
   ],
   "curiosity": {
-    "title": "Tohle je důvod, proč vaši kolegové nepřijdou do práce. Nejdůležitější událost od bible s miliardami v zádech",
-    "url": "https://cc.cz/tohle-je-duvod-proc-vasi-kolegove-neprijdou-do-prace-nejdulezitejsi-udalost-od-bible-s-miliardami-v-zadech/",
-    "description": "Recenze Grand Theft Auto VI vychvalují do nebes. Kromě vynikající hry je to ale také finanční a kulturní fenomén, co nemá obdoby. Článek Tohle je důvod, proč vaši kolegové nepřijdou do práce. Nejdůležitější událost od bible s miliardami v zádech se nejdříve objevil na CzechCrunch .",
-    "source": "CzechCrunch",
-    "language": "cs",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+    "description": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+    "source": "The Verge",
+    "language": "en",
+    "category": "AI",
+    "workSignal": "Watch for a concrete workflow you could automate or improve."
   }
 }
