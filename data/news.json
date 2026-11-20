@@ -1,136 +1,46 @@
 {
-  "generatedAt": "2026-11-19T15:03:21.468778+00:00",
+  "generatedAt": "2026-11-20T14:44:54.025203+00:00",
   "label": "Daily Work Radar",
   "topStory": {
-    "title": "Mouse fight club might explain why we like to watch violent things",
-    "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-    "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+    "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+    "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+    "description": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
     "source": "Ars Technica",
     "language": "en",
-    "category": "Dev",
-    "workSignal": "Potential engineering or developer-productivity takeaway."
+    "category": "Hardware",
+    "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
   },
   "stories": [
     {
-      "title": "Mouse fight club might explain why we like to watch violent things",
-      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-      "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "description": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
       "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "The wait begins for GTA VI on PC",
-      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-      "description": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Bez Ligy mistrů je Sparta zpátky ve ztrátě. Klub Daniela Křetínského prodělal 127 milionů korun",
-      "url": "https://cc.cz/bez-ligy-mistru-je-sparta-zpatky-ve-ztrate-klub-daniela-kretinskeho-prodelal-127-milionu-korun/",
-      "description": "Obchodní příjmy meziročně klesly o osminu, sponzoring se ale za tři roky téměř zdvojnásobil. Klub chce jednou hospodařit bez podpory akcionáře. Článek Bez Ligy mistrů je Sparta zpátky ve ztrátě. Klub Daniela Křetínského prodělal 127 milionů korun se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-      "description": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Blue Origin will launch Google’s AI server satellites in 2029",
-      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "description": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan […]",
-      "source": "The Verge",
-      "language": "en",
-      "category": "AI",
-      "workSignal": "Watch for a concrete workflow you could automate or improve."
-    },
-    {
-      "title": "PHP 8.5.13",
-      "url": "https://www.php.net/ChangeLog-8.php",
-      "description": "Comments",
-      "source": "Hacker News",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Rocky málem vůbec nevznikl. Film o tom, jak ho Stallone vydupal ze země, vás donutí pustit si ten původní",
-      "url": "https://cc.cz/rocky-malem-vubec-nevznikl-film-o-tom-jak-ho-stallone-vydupal-ze-zeme-vas-donuti-pustit-si-ten-puvodni/",
-      "description": "Já, Rocky je oslava filmařské práce a nostalgická připomínka kultovního příběhu. Anthony Ippolito jako by Stallonemu z oka vypadl. Článek Rocky málem vůbec nevznikl. Film o tom, jak ho Stallone vydupal ze země, vás donutí pustit si ten původní se nejdříve objevil na CzechCrunch .",
-      "source": "CzechCrunch",
-      "language": "cs",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "How to tell a cyberattack from a plain old outage",
-      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-      "description": "When everything goes down, don’t assume it’s a cyberattack.",
-      "source": "Ars Technica",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "description": "Superhuman is making Go its central agent and making it available in Docs and Mail",
-      "source": "TechCrunch",
-      "language": "en",
-      "category": "Dev",
-      "workSignal": "Potential engineering or developer-productivity takeaway."
-    },
-    {
-      "title": "Grand Theft Auto VI understands just how important a smartphone is",
-      "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
-      "description": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy […]",
-      "source": "The Verge",
       "language": "en",
       "category": "Hardware",
       "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
     },
     {
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "AI",
+      "workSignal": "Watch for a concrete workflow you could automate or improve."
+    },
+    {
+      "title": "The week everything fell apart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "description": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
       "description": "Comments",
       "source": "Hacker News",
       "language": "en",
@@ -138,36 +48,126 @@
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Kvíz: Jste opravdový fanoušek, nebo jen příležitostný hráč? Otestujte si, jak dobře znáte fenomén GTA",
-      "url": "https://cc.cz/kviz-jste-opravdovy-fanousek-nebo-jen-prilezitostny-hrac-otestujte-si-jak-dobre-znate-fenomen-gta/",
-      "description": "GTA VI je venku. Jste opravdový fanoušek, nebo jen turista na Ocean Drive? To odhalí našich 20 otázek. Článek Kvíz: Jste opravdový fanoušek, nebo jen příležitostný hráč? Otestujte si, jak dobře znáte fenomén GTA se nejdříve objevil na CzechCrunch .",
+      "title": "Jaký gangster jsem v GTA VI? Opravuju dům, hlídám si kalorie, pátrám po bigfootovi… a strašně si to užívám",
+      "url": "https://cc.cz/jaky-gangster-jsem-v-gta-vi-opravuju-dum-hlidam-si-kalorie-patram-po-bigfootovi-a-strasne-si-to-uzivam/",
+      "description": "Nové GTA si jde zamilovat už během prvních třinácti hodin. Stačí se jenom po cestě pro zásilku drog ztratit v jeho obrovském světě. Článek Jaký gangster jsem v GTA VI? Opravuju dům, hlídám si kalorie, pátrám po bigfootovi… a strašně si to užívám se nejdříve objevil na CzechCrunch .",
       "source": "CzechCrunch",
       "language": "cs",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-      "description": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "description": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
       "source": "Ars Technica",
       "language": "en",
       "category": "Dev",
       "workSignal": "Potential engineering or developer-productivity takeaway."
     },
     {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "description": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
       "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Security",
+      "workSignal": "Useful context for safer tools, dependencies, or processes."
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "description": "Comments",
+      "source": "Hacker News",
+      "language": "en",
+      "category": "Hardware",
+      "workSignal": "Worth tracking if devices, compute, or procurement affect your work."
+    },
+    {
+      "title": "Tipy na dárky pro děti, co neskončí v koutě: Česká deskovka, tužka, která čte nahlas, a robotická kulička",
+      "url": "https://cc.cz/tipy-na-darky-pro-deti-co-neskonci-v-koute-ceska-deskovka-tuzka-ktera-cte-nahlas-a-roboticka-kulicka/",
+      "description": "V redakci CzechCrunche jsme vybrali tipy na dárky, které přežijí i Vánoce: od mluvící tužky a rakety NASA až po rodinnou konzoli. Článek Tipy na dárky pro děti, co neskončí v koutě: Česká deskovka, tužka, která čte nahlas, a robotická kulička se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "description": "Gambling? We're just swapping contracts!",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Startups",
+      "workSignal": "A signal about tools, vendors, or shifts in the market."
+    },
+    {
+      "title": "Why the robots are ditching Uber",
+      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "description": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We […]",
+      "source": "The Verge",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "description": "Comments",
+      "source": "Hacker News",
       "language": "en",
       "category": "AI",
       "workSignal": "Watch for a concrete workflow you could automate or improve."
     },
     {
-      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "description": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+      "title": "Z vysokoškolských kolejí k obratu 316 milionů. iMi Partner chce s firemním merchem překročit půlmiliardu",
+      "url": "https://cc.cz/z-vysokoskolskych-koleji-k-obratu-316-milionu-imi-partner-chce-s-firemnim-merchem-prekrocit-pulmiliardu/",
+      "description": "Český trh s reklamními předměty odhaduje iMi Partner na 2,5 až 3 miliardy korun ročně. Sám dodává do více než dvaceti zemí a má přes tisíc klientů. Článek Z vysokoškolských kolejí k obratu 316 milionů. iMi Partner chce s firemním merchem překročit půlmiliardu se nejdříve objevil na CzechCrunch .",
+      "source": "CzechCrunch",
+      "language": "cs",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "description": "Your support for Ars matters more now than ever.",
+      "source": "Ars Technica",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "source": "TechCrunch",
+      "language": "en",
+      "category": "Dev",
+      "workSignal": "Potential engineering or developer-productivity takeaway."
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
       "source": "The Verge",
       "language": "en",
       "category": "AI",
@@ -175,12 +175,12 @@
     }
   ],
   "curiosity": {
-    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-    "description": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+    "title": "Why the robots are ditching Uber",
+    "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+    "description": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We […]",
     "source": "The Verge",
     "language": "en",
-    "category": "AI",
-    "workSignal": "Watch for a concrete workflow you could automate or improve."
+    "category": "Dev",
+    "workSignal": "Potential engineering or developer-productivity takeaway."
   }
 }
